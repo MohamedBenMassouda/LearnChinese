@@ -1,0 +1,7507 @@
+[
+    {
+        "chineseChar": "Character",
+        "howToRead": "Pinyin",
+        "englishEquivalent": "Definition"
+    },
+    {
+        "chineseChar": "\u6211",
+        "howToRead": "w\u01d2",
+        "englishEquivalent": "I ; me"
+    },
+    {
+        "chineseChar": "\u7684",
+        "howToRead": "de",
+        "englishEquivalent": "possessive p."
+    },
+    {
+        "chineseChar": "\u4f60",
+        "howToRead": "n\u01d0",
+        "englishEquivalent": "you"
+    },
+    {
+        "chineseChar": "\u662f",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "to be; is"
+    },
+    {
+        "chineseChar": "\u4e86",
+        "howToRead": "le",
+        "englishEquivalent": "completed action p."
+    },
+    {
+        "chineseChar": "\u4e0d",
+        "howToRead": "b\u00f9",
+        "englishEquivalent": "no; not"
+    },
+    {
+        "chineseChar": "\u4eec",
+        "howToRead": "men",
+        "englishEquivalent": "plural p."
+    },
+    {
+        "chineseChar": "\u8fd9",
+        "howToRead": "zh\u00e8",
+        "englishEquivalent": "this"
+    },
+    {
+        "chineseChar": "\u4e00",
+        "howToRead": "y\u012b",
+        "englishEquivalent": "one; a"
+    },
+    {
+        "chineseChar": "\u4ed6",
+        "howToRead": "t\u0101",
+        "englishEquivalent": "he; him"
+    },
+    {
+        "chineseChar": "\u4e48",
+        "howToRead": "me",
+        "englishEquivalent": "interrogative p."
+    },
+    {
+        "chineseChar": "\u5728",
+        "howToRead": "z\u00e0i",
+        "englishEquivalent": "at"
+    },
+    {
+        "chineseChar": "\u6709",
+        "howToRead": "y\u01d2u",
+        "englishEquivalent": "to have; there is"
+    },
+    {
+        "chineseChar": "\u4e2a",
+        "howToRead": "g\u00e8",
+        "englishEquivalent": "general measure word"
+    },
+    {
+        "chineseChar": "\u597d",
+        "howToRead": "h\u01ceo",
+        "englishEquivalent": "good; well"
+    },
+    {
+        "chineseChar": "\u6765",
+        "howToRead": "l\u00e1i",
+        "englishEquivalent": "to come"
+    },
+    {
+        "chineseChar": "\u4eba",
+        "howToRead": "r\u00e9n",
+        "englishEquivalent": "man; person"
+    },
+    {
+        "chineseChar": "\u90a3",
+        "howToRead": "n\u00e0",
+        "englishEquivalent": "that"
+    },
+    {
+        "chineseChar": "\u8981",
+        "howToRead": "y\u00e0o",
+        "englishEquivalent": "to want; important"
+    },
+    {
+        "chineseChar": "\u4f1a",
+        "howToRead": "hu\u00ec",
+        "englishEquivalent": "can; will; to know"
+    },
+    {
+        "chineseChar": "\u5c31",
+        "howToRead": "ji\u00f9",
+        "englishEquivalent": "then; just (emp.)"
+    },
+    {
+        "chineseChar": "\u4ec0",
+        "howToRead": "sh\u00e9n",
+        "englishEquivalent": "what"
+    },
+    {
+        "chineseChar": "\u6ca1",
+        "howToRead": "m\u00e9i",
+        "englishEquivalent": "not"
+    },
+    {
+        "chineseChar": "\u5230",
+        "howToRead": "d\u00e0o",
+        "englishEquivalent": "to arrive; until (time)"
+    },
+    {
+        "chineseChar": "\u8bf4",
+        "howToRead": "shu\u014d",
+        "englishEquivalent": "to speak"
+    },
+    {
+        "chineseChar": "\u5417",
+        "howToRead": "ma",
+        "englishEquivalent": "question p."
+    },
+    {
+        "chineseChar": "\u4e3a",
+        "howToRead": "w\u00e8i",
+        "englishEquivalent": "because of; for"
+    },
+    {
+        "chineseChar": "\u60f3",
+        "howToRead": "xi\u01ceng",
+        "englishEquivalent": "to think; to want"
+    },
+    {
+        "chineseChar": "\u80fd",
+        "howToRead": "n\u00e9ng",
+        "englishEquivalent": "to be able to"
+    },
+    {
+        "chineseChar": "\u4e0a",
+        "howToRead": "sh\u00e0ng",
+        "englishEquivalent": "above; top"
+    },
+    {
+        "chineseChar": "\u53bb",
+        "howToRead": "q\u00f9",
+        "englishEquivalent": "to go"
+    },
+    {
+        "chineseChar": "\u9053",
+        "howToRead": "d\u00e0o",
+        "englishEquivalent": "way; method"
+    },
+    {
+        "chineseChar": "\u5979",
+        "howToRead": "t\u0101",
+        "englishEquivalent": "she"
+    },
+    {
+        "chineseChar": "\u5f88",
+        "howToRead": "h\u011bn",
+        "englishEquivalent": "very"
+    },
+    {
+        "chineseChar": "\u770b",
+        "howToRead": "k\u00e0n",
+        "englishEquivalent": "to see; to look at"
+    },
+    {
+        "chineseChar": "\u53ef",
+        "howToRead": "k\u011b",
+        "englishEquivalent": "can; able to"
+    },
+    {
+        "chineseChar": "\u77e5",
+        "howToRead": "zh\u012b",
+        "englishEquivalent": "to know"
+    },
+    {
+        "chineseChar": "\u5f97",
+        "howToRead": "de",
+        "englishEquivalent": "complement p. (V + \u5f97 + Adverb)"
+    },
+    {
+        "chineseChar": "\u8fc7",
+        "howToRead": "guo",
+        "englishEquivalent": "experienced action p."
+    },
+    {
+        "chineseChar": "\u5427",
+        "howToRead": "ba",
+        "englishEquivalent": "\u2026right?"
+    },
+    {
+        "chineseChar": "\u8fd8",
+        "howToRead": "h\u00e1i",
+        "englishEquivalent": "still; yet; to return"
+    },
+    {
+        "chineseChar": "\u5bf9",
+        "howToRead": "du\u00ec",
+        "englishEquivalent": "correct; opposite"
+    },
+    {
+        "chineseChar": "\u91cc",
+        "howToRead": "l\u01d0",
+        "englishEquivalent": "inside"
+    },
+    {
+        "chineseChar": "\u4ee5",
+        "howToRead": "y\u01d0",
+        "englishEquivalent": "according to; by"
+    },
+    {
+        "chineseChar": "\u90fd",
+        "howToRead": "d\u014du",
+        "englishEquivalent": "all; both"
+    },
+    {
+        "chineseChar": "\u4e8b",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "thing; item"
+    },
+    {
+        "chineseChar": "\u5b50",
+        "howToRead": "z\u01d0",
+        "englishEquivalent": "child"
+    },
+    {
+        "chineseChar": "\u751f",
+        "howToRead": "sh\u0113ng",
+        "englishEquivalent": "life; raw"
+    },
+    {
+        "chineseChar": "\u65f6",
+        "howToRead": "sh\u00ed",
+        "englishEquivalent": "time"
+    },
+    {
+        "chineseChar": "\u6837",
+        "howToRead": "y\u00e0ng",
+        "englishEquivalent": "manner"
+    },
+    {
+        "chineseChar": "\u4e5f",
+        "howToRead": "y\u011b",
+        "englishEquivalent": "also; too"
+    },
+    {
+        "chineseChar": "\u548c",
+        "howToRead": "h\u00e9",
+        "englishEquivalent": "and"
+    },
+    {
+        "chineseChar": "\u4e0b",
+        "howToRead": "xi\u00e0",
+        "englishEquivalent": "below; down"
+    },
+    {
+        "chineseChar": "\u771f",
+        "howToRead": "zh\u0113n",
+        "englishEquivalent": "really; truly"
+    },
+    {
+        "chineseChar": "\u73b0",
+        "howToRead": "xi\u00e0n",
+        "englishEquivalent": "present"
+    },
+    {
+        "chineseChar": "\u505a",
+        "howToRead": "zu\u00f2",
+        "englishEquivalent": "to do"
+    },
+    {
+        "chineseChar": "\u5927",
+        "howToRead": "d\u00e0",
+        "englishEquivalent": "big"
+    },
+    {
+        "chineseChar": "\u554a",
+        "howToRead": "a",
+        "englishEquivalent": "ah!"
+    },
+    {
+        "chineseChar": "\u600e",
+        "howToRead": "z\u011bn",
+        "englishEquivalent": "how"
+    },
+    {
+        "chineseChar": "\u51fa",
+        "howToRead": "ch\u016b",
+        "englishEquivalent": "to go out"
+    },
+    {
+        "chineseChar": "\u70b9",
+        "howToRead": "di\u01cen",
+        "englishEquivalent": "a dot; o'clock"
+    },
+    {
+        "chineseChar": "\u8d77",
+        "howToRead": "q\u01d0",
+        "englishEquivalent": "to rise"
+    },
+    {
+        "chineseChar": "\u5929",
+        "howToRead": "ti\u0101n",
+        "englishEquivalent": "day; heaven"
+    },
+    {
+        "chineseChar": "\u628a",
+        "howToRead": "b\u01ce",
+        "englishEquivalent": "direct object p.; to hold"
+    },
+    {
+        "chineseChar": "\u5f00",
+        "howToRead": "k\u0101i",
+        "englishEquivalent": "to open; to start"
+    },
+    {
+        "chineseChar": "\u8ba9",
+        "howToRead": "r\u00e0ng",
+        "englishEquivalent": "to allow; passive p."
+    },
+    {
+        "chineseChar": "\u7ed9",
+        "howToRead": "g\u011bi",
+        "englishEquivalent": "to give; for; passive p."
+    },
+    {
+        "chineseChar": "\u4f46",
+        "howToRead": "d\u00e0n",
+        "englishEquivalent": "but; yet"
+    },
+    {
+        "chineseChar": "\u8c22",
+        "howToRead": "xi\u00e8",
+        "englishEquivalent": "to thank"
+    },
+    {
+        "chineseChar": "\u7740",
+        "howToRead": "zhe",
+        "englishEquivalent": "action in progress p."
+    },
+    {
+        "chineseChar": "\u53ea",
+        "howToRead": "zh\u01d0",
+        "englishEquivalent": "only"
+    },
+    {
+        "chineseChar": "\u4e9b",
+        "howToRead": "xi\u0113",
+        "englishEquivalent": "some; few"
+    },
+    {
+        "chineseChar": "\u5982",
+        "howToRead": "r\u00fa",
+        "englishEquivalent": "as; as if"
+    },
+    {
+        "chineseChar": "\u5bb6",
+        "howToRead": "ji\u0101",
+        "englishEquivalent": "home; family"
+    },
+    {
+        "chineseChar": "\u540e",
+        "howToRead": "h\u00f2u ",
+        "englishEquivalent": "behind; after"
+    },
+    {
+        "chineseChar": "\u513f",
+        "howToRead": "\u00e9r",
+        "englishEquivalent": "son"
+    },
+    {
+        "chineseChar": "\u591a",
+        "howToRead": "du\u014d",
+        "englishEquivalent": "many; much"
+    },
+    {
+        "chineseChar": "\u610f",
+        "howToRead": "y\u00ec",
+        "englishEquivalent": "idea; meaning"
+    },
+    {
+        "chineseChar": "\u522b",
+        "howToRead": "bi\u00e9",
+        "englishEquivalent": "must not; other"
+    },
+    {
+        "chineseChar": "\u6240",
+        "howToRead": "su\u01d2",
+        "englishEquivalent": "actually; place"
+    },
+    {
+        "chineseChar": "\u8bdd",
+        "howToRead": "hu\u00e0",
+        "englishEquivalent": "language; talk"
+    },
+    {
+        "chineseChar": "\u5c0f",
+        "howToRead": "xi\u01ceo",
+        "englishEquivalent": "small"
+    },
+    {
+        "chineseChar": "\u81ea",
+        "howToRead": "z\u00ec",
+        "englishEquivalent": "self"
+    },
+    {
+        "chineseChar": "\u56de",
+        "howToRead": "hu\u00ed",
+        "englishEquivalent": "to answer; to return"
+    },
+    {
+        "chineseChar": "\u7136",
+        "howToRead": "r\u00e1n",
+        "englishEquivalent": "correct"
+    },
+    {
+        "chineseChar": "\u679c",
+        "howToRead": "gu\u01d2",
+        "englishEquivalent": "fruit"
+    },
+    {
+        "chineseChar": "\u53d1",
+        "howToRead": "f\u0101",
+        "englishEquivalent": "to send; to develop"
+    },
+    {
+        "chineseChar": "\u89c1",
+        "howToRead": "ji\u00e0n",
+        "englishEquivalent": "to see; to meet"
+    },
+    {
+        "chineseChar": "\u5fc3",
+        "howToRead": "x\u012bn",
+        "englishEquivalent": "heart"
+    },
+    {
+        "chineseChar": "\u8d70",
+        "howToRead": "z\u01d2u",
+        "englishEquivalent": "to walk; away"
+    },
+    {
+        "chineseChar": "\u5b9a",
+        "howToRead": "d\u00ecng",
+        "englishEquivalent": "to set"
+    },
+    {
+        "chineseChar": "\u542c",
+        "howToRead": "t\u012bng",
+        "englishEquivalent": "to listen"
+    },
+    {
+        "chineseChar": "\u89c9",
+        "howToRead": "ju\u00e9",
+        "englishEquivalent": "to feel"
+    },
+    {
+        "chineseChar": "\u592a",
+        "howToRead": "t\u00e0i",
+        "englishEquivalent": "too (much)"
+    },
+    {
+        "chineseChar": "\u8be5",
+        "howToRead": "g\u0101i",
+        "englishEquivalent": "should"
+    },
+    {
+        "chineseChar": "\u5f53",
+        "howToRead": "d\u0101ng",
+        "englishEquivalent": "to be; just at"
+    },
+    {
+        "chineseChar": "\u7ecf",
+        "howToRead": "j\u012bng",
+        "englishEquivalent": "pass through"
+    },
+    {
+        "chineseChar": "\u5988",
+        "howToRead": "m\u0101",
+        "englishEquivalent": "mum"
+    },
+    {
+        "chineseChar": "\u7528",
+        "howToRead": "y\u00f2ng",
+        "englishEquivalent": "to use"
+    },
+    {
+        "chineseChar": "\u6253",
+        "howToRead": "d\u01ce",
+        "englishEquivalent": "to hit"
+    },
+    {
+        "chineseChar": "\u5730",
+        "howToRead": "de",
+        "englishEquivalent": "-ly structural p."
+    },
+    {
+        "chineseChar": "\u518d",
+        "howToRead": "z\u00e0i",
+        "englishEquivalent": "again; then"
+    },
+    {
+        "chineseChar": "\u56e0",
+        "howToRead": "y\u012bn",
+        "englishEquivalent": "reason"
+    },
+    {
+        "chineseChar": "\u5462",
+        "howToRead": "ne",
+        "englishEquivalent": "how about\u2026?; continuing p."
+    },
+    {
+        "chineseChar": "\u5973",
+        "howToRead": "n\u01da",
+        "englishEquivalent": "female"
+    },
+    {
+        "chineseChar": "\u544a",
+        "howToRead": "g\u00e0o",
+        "englishEquivalent": "to tell"
+    },
+    {
+        "chineseChar": "\u6700",
+        "howToRead": "zu\u00ec",
+        "englishEquivalent": "most; -est"
+    },
+    {
+        "chineseChar": "\u624b",
+        "howToRead": "sh\u01d2u",
+        "englishEquivalent": "hand"
+    },
+    {
+        "chineseChar": "\u524d",
+        "howToRead": "qi\u00e1n",
+        "englishEquivalent": "front"
+    },
+    {
+        "chineseChar": "\u627e",
+        "howToRead": "zh\u01ceo",
+        "englishEquivalent": "to look for"
+    },
+    {
+        "chineseChar": "\u884c",
+        "howToRead": "x\u00edng",
+        "englishEquivalent": "to travel; OK!"
+    },
+    {
+        "chineseChar": "\u5feb",
+        "howToRead": "ku\u00e0i",
+        "englishEquivalent": "rapid; almost"
+    },
+    {
+        "chineseChar": "\u800c",
+        "howToRead": "\u00e9r",
+        "englishEquivalent": "and; as well as"
+    },
+    {
+        "chineseChar": "\u6b7b",
+        "howToRead": "s\u01d0",
+        "englishEquivalent": "to die"
+    },
+    {
+        "chineseChar": "\u5148",
+        "howToRead": "xi\u0101n",
+        "englishEquivalent": "first; former"
+    },
+    {
+        "chineseChar": "\u50cf",
+        "howToRead": "xi\u00e0ng",
+        "englishEquivalent": "to be like; image"
+    },
+    {
+        "chineseChar": "\u7b49",
+        "howToRead": "d\u011bng",
+        "englishEquivalent": "rank; to wait for"
+    },
+    {
+        "chineseChar": "\u88ab",
+        "howToRead": "b\u00e8i",
+        "englishEquivalent": "passive p."
+    },
+    {
+        "chineseChar": "\u4ece",
+        "howToRead": "c\u00f3ng",
+        "englishEquivalent": "from; to follow"
+    },
+    {
+        "chineseChar": "\u660e",
+        "howToRead": "m\u00edng",
+        "englishEquivalent": "bright"
+    },
+    {
+        "chineseChar": "\u4e2d",
+        "howToRead": "zh\u014dng",
+        "englishEquivalent": "middle"
+    },
+    {
+        "chineseChar": "\u54e6",
+        "howToRead": "\u00f3",
+        "englishEquivalent": "oh"
+    },
+    {
+        "chineseChar": "\u60c5",
+        "howToRead": "q\u00edng",
+        "englishEquivalent": "emotion"
+    },
+    {
+        "chineseChar": "\u4f5c",
+        "howToRead": "zu\u00f2",
+        "englishEquivalent": "to do"
+    },
+    {
+        "chineseChar": "\u8ddf",
+        "howToRead": "g\u0113n",
+        "englishEquivalent": "with; to follow"
+    },
+    {
+        "chineseChar": "\u9762",
+        "howToRead": "mi\u00e0n",
+        "englishEquivalent": "side; aspect"
+    },
+    {
+        "chineseChar": "\u8bc9",
+        "howToRead": "s\u00f9",
+        "englishEquivalent": "to tell; to complain"
+    },
+    {
+        "chineseChar": "\u7231",
+        "howToRead": "\u00e0i",
+        "englishEquivalent": "to love"
+    },
+    {
+        "chineseChar": "\u5df2",
+        "howToRead": "y\u01d0",
+        "englishEquivalent": "already"
+    },
+    {
+        "chineseChar": "\u4e4b",
+        "howToRead": "zh\u012b",
+        "englishEquivalent": "possessive p."
+    },
+    {
+        "chineseChar": "\u95ee",
+        "howToRead": "w\u00e8n",
+        "englishEquivalent": "to ask"
+    },
+    {
+        "chineseChar": "\u9519",
+        "howToRead": "cu\u00f2",
+        "englishEquivalent": "mistake; bad"
+    },
+    {
+        "chineseChar": "\u5b69",
+        "howToRead": "h\u00e1i",
+        "englishEquivalent": "child"
+    },
+    {
+        "chineseChar": "\u65af",
+        "howToRead": "s\u012b",
+        "englishEquivalent": "this"
+    },
+    {
+        "chineseChar": "\u6210",
+        "howToRead": "ch\u00e9ng",
+        "englishEquivalent": "to become"
+    },
+    {
+        "chineseChar": "\u5b83",
+        "howToRead": "t\u0101",
+        "englishEquivalent": "it"
+    },
+    {
+        "chineseChar": "\u611f",
+        "howToRead": "g\u01cen",
+        "englishEquivalent": "to feel; emotion"
+    },
+    {
+        "chineseChar": "\u5e72",
+        "howToRead": "g\u00e0n",
+        "englishEquivalent": "to do"
+    },
+    {
+        "chineseChar": "\u6cd5",
+        "howToRead": "f\u01ce",
+        "englishEquivalent": "law"
+    },
+    {
+        "chineseChar": "\u7535",
+        "howToRead": "di\u00e0n",
+        "englishEquivalent": "electric"
+    },
+    {
+        "chineseChar": "\u95f4",
+        "howToRead": "ji\u0101n",
+        "englishEquivalent": "between; room"
+    },
+    {
+        "chineseChar": "\u54ea",
+        "howToRead": "n\u01ce",
+        "englishEquivalent": "which"
+    },
+    {
+        "chineseChar": "\u897f",
+        "howToRead": "x\u012b",
+        "englishEquivalent": "West"
+    },
+    {
+        "chineseChar": "\u5df1",
+        "howToRead": "j\u01d0",
+        "englishEquivalent": "oneself"
+    },
+    {
+        "chineseChar": "\u5019",
+        "howToRead": "h\u00f2u",
+        "englishEquivalent": "to wait; season"
+    },
+    {
+        "chineseChar": "\u6b21",
+        "howToRead": "c\u00ec",
+        "englishEquivalent": "mw. for time"
+    },
+    {
+        "chineseChar": "\u4fe1",
+        "howToRead": "x\u00ecn",
+        "englishEquivalent": "letter; to trust"
+    },
+    {
+        "chineseChar": "\u6b22",
+        "howToRead": "hu\u0101n",
+        "englishEquivalent": "joyous"
+    },
+    {
+        "chineseChar": "\u6b63",
+        "howToRead": "zh\u00e8ng",
+        "englishEquivalent": "just (right); correct"
+    },
+    {
+        "chineseChar": "\u5b9e",
+        "howToRead": "sh\u00ed",
+        "englishEquivalent": "real; honest"
+    },
+    {
+        "chineseChar": "\u5173",
+        "howToRead": "gu\u0101n",
+        "englishEquivalent": "to shut"
+    },
+    {
+        "chineseChar": "\u8fdb",
+        "howToRead": "j\u00ecn",
+        "englishEquivalent": "to enter"
+    },
+    {
+        "chineseChar": "\u8f66",
+        "howToRead": "ch\u0113",
+        "englishEquivalent": "vehicle"
+    },
+    {
+        "chineseChar": "\u5e74",
+        "howToRead": "ni\u00e1n",
+        "englishEquivalent": "year"
+    },
+    {
+        "chineseChar": "\u559c",
+        "howToRead": "x\u01d0",
+        "englishEquivalent": "to like"
+    },
+    {
+        "chineseChar": "\u8ba4",
+        "howToRead": "r\u00e8n",
+        "englishEquivalent": "to recognize"
+    },
+    {
+        "chineseChar": "\u514b",
+        "howToRead": "k\u00e8",
+        "englishEquivalent": "gram; to overcome"
+    },
+    {
+        "chineseChar": "\u7238",
+        "howToRead": "b\u00e0",
+        "englishEquivalent": "father"
+    },
+    {
+        "chineseChar": "\u8c01",
+        "howToRead": "shu\u00ed",
+        "englishEquivalent": "who"
+    },
+    {
+        "chineseChar": "\u65b9",
+        "howToRead": "f\u0101ng",
+        "englishEquivalent": "place; square"
+    },
+    {
+        "chineseChar": "\u8001",
+        "howToRead": "l\u01ceo",
+        "englishEquivalent": "old prefix"
+    },
+    {
+        "chineseChar": "\u5e94",
+        "howToRead": "y\u012bng",
+        "englishEquivalent": "should; ought to"
+    },
+    {
+        "chineseChar": "\u6bd4",
+        "howToRead": "b\u01d0",
+        "englishEquivalent": "comparison p."
+    },
+    {
+        "chineseChar": "\u5e2e",
+        "howToRead": "b\u0101ng",
+        "englishEquivalent": "to help"
+    },
+    {
+        "chineseChar": "\u65e0",
+        "howToRead": "w\u00fa",
+        "englishEquivalent": "not to have; -less"
+    },
+    {
+        "chineseChar": "\u665a",
+        "howToRead": "w\u01cen",
+        "englishEquivalent": "evening; late"
+    },
+    {
+        "chineseChar": "\u52a8",
+        "howToRead": "d\u00f2ng",
+        "englishEquivalent": "to move"
+    },
+    {
+        "chineseChar": "\u5934",
+        "howToRead": "t\u00f3u",
+        "englishEquivalent": "head"
+    },
+    {
+        "chineseChar": "\u673a",
+        "howToRead": "j\u012b",
+        "englishEquivalent": "machine"
+    },
+    {
+        "chineseChar": "\u5206",
+        "howToRead": "f\u0113n",
+        "englishEquivalent": "to divide; fraction"
+    },
+    {
+        "chineseChar": "\u7279",
+        "howToRead": "t\u00e8",
+        "englishEquivalent": "special; unique"
+    },
+    {
+        "chineseChar": "\u76f8",
+        "howToRead": "xi\u0101ng",
+        "englishEquivalent": "mutual; each other"
+    },
+    {
+        "chineseChar": "\u5168",
+        "howToRead": "qu\u00e1n",
+        "englishEquivalent": "all; whole"
+    },
+    {
+        "chineseChar": "\u6740",
+        "howToRead": "sh\u0101",
+        "englishEquivalent": "to kill"
+    },
+    {
+        "chineseChar": "\u9700",
+        "howToRead": "x\u016b",
+        "englishEquivalent": "to need; to want"
+    },
+    {
+        "chineseChar": "\u653e",
+        "howToRead": "f\u00e0ng",
+        "englishEquivalent": "to put"
+    },
+    {
+        "chineseChar": "\u5e38",
+        "howToRead": "ch\u00e1ng",
+        "englishEquivalent": "always; general"
+    },
+    {
+        "chineseChar": "\u76f4",
+        "howToRead": "zh\u00ed",
+        "englishEquivalent": "straight"
+    },
+    {
+        "chineseChar": "\u624d",
+        "howToRead": "c\u00e1i",
+        "englishEquivalent": "just now; ability"
+    },
+    {
+        "chineseChar": "\u7f8e",
+        "howToRead": "m\u011bi",
+        "englishEquivalent": "beautiful"
+    },
+    {
+        "chineseChar": "\u4e8e",
+        "howToRead": "y\u00fa",
+        "englishEquivalent": "in; at; on"
+    },
+    {
+        "chineseChar": "\u5e26",
+        "howToRead": "d\u00e0i",
+        "englishEquivalent": "to bring; belt"
+    },
+    {
+        "chineseChar": "\u4eca",
+        "howToRead": "j\u012bn",
+        "englishEquivalent": "today; now"
+    },
+    {
+        "chineseChar": "\u529b",
+        "howToRead": "l\u00ec",
+        "englishEquivalent": "power"
+    },
+    {
+        "chineseChar": "\u5de5",
+        "howToRead": "g\u014dng",
+        "englishEquivalent": "work"
+    },
+    {
+        "chineseChar": "\u8bb8",
+        "howToRead": "x\u01d4",
+        "englishEquivalent": "to permit"
+    },
+    {
+        "chineseChar": "\u4e1c",
+        "howToRead": "d\u014dng",
+        "englishEquivalent": "East"
+    },
+    {
+        "chineseChar": "\u540d",
+        "howToRead": "m\u00edng",
+        "englishEquivalent": "name"
+    },
+    {
+        "chineseChar": "\u540c",
+        "howToRead": "t\u00f3ng",
+        "englishEquivalent": "same; similar"
+    },
+    {
+        "chineseChar": "\u957f",
+        "howToRead": "ch\u00e1ng",
+        "englishEquivalent": "long; length"
+    },
+    {
+        "chineseChar": "\u4eb2",
+        "howToRead": "q\u012bn",
+        "englishEquivalent": "parent; relative"
+    },
+    {
+        "chineseChar": "\u79cd",
+        "howToRead": "zh\u01d2ng",
+        "englishEquivalent": "kind"
+    },
+    {
+        "chineseChar": "\u8005",
+        "howToRead": "zh\u011b",
+        "englishEquivalent": "one who (is)"
+    },
+    {
+        "chineseChar": "\u563f",
+        "howToRead": "h\u0113i",
+        "englishEquivalent": "hey"
+    },
+    {
+        "chineseChar": "\u767d",
+        "howToRead": "b\u00e1i",
+        "englishEquivalent": "white; pure"
+    },
+    {
+        "chineseChar": "\u5b66",
+        "howToRead": "xu\u00e9",
+        "englishEquivalent": "to learn"
+    },
+    {
+        "chineseChar": "\u5b89",
+        "howToRead": "\u0101n",
+        "englishEquivalent": "safe; calm"
+    },
+    {
+        "chineseChar": "\u5c14",
+        "howToRead": "\u011br",
+        "englishEquivalent": "thus; thou"
+    },
+    {
+        "chineseChar": "\u53eb",
+        "howToRead": "ji\u00e0o",
+        "englishEquivalent": "to call"
+    },
+    {
+        "chineseChar": "\u7406",
+        "howToRead": "l\u01d0",
+        "englishEquivalent": "essence; truth"
+    },
+    {
+        "chineseChar": "\u672c",
+        "howToRead": "b\u011bn",
+        "englishEquivalent": "mw. for books; origin"
+    },
+    {
+        "chineseChar": "\u56fd",
+        "howToRead": "gu\u00f3",
+        "englishEquivalent": "country"
+    },
+    {
+        "chineseChar": "\u7b2c",
+        "howToRead": "d\u00ec",
+        "englishEquivalent": "ordinal #"
+    },
+    {
+        "chineseChar": "\u53cb",
+        "howToRead": "y\u01d2u",
+        "englishEquivalent": "friend"
+    },
+    {
+        "chineseChar": "\u9ad8",
+        "howToRead": "g\u0101o",
+        "englishEquivalent": "high; tall"
+    },
+    {
+        "chineseChar": "\u4e24",
+        "howToRead": "li\u01ceng",
+        "englishEquivalent": "two (used with mw.)"
+    },
+    {
+        "chineseChar": "\u4fdd",
+        "howToRead": "b\u01ceo",
+        "englishEquivalent": "to defend"
+    },
+    {
+        "chineseChar": "\u8bf7",
+        "howToRead": "q\u01d0ng",
+        "englishEquivalent": "to invite"
+    },
+    {
+        "chineseChar": "\u975e",
+        "howToRead": "f\u0113i",
+        "englishEquivalent": "not"
+    },
+    {
+        "chineseChar": "\u91cd",
+        "howToRead": "zh\u00f2ng",
+        "englishEquivalent": "heavy; serious"
+    },
+    {
+        "chineseChar": "\u516c",
+        "howToRead": "g\u014dng",
+        "englishEquivalent": "public"
+    },
+    {
+        "chineseChar": "\u8bb0",
+        "howToRead": "j\u00ec",
+        "englishEquivalent": "to record"
+    },
+    {
+        "chineseChar": "\u8eab",
+        "howToRead": "sh\u0113n",
+        "englishEquivalent": "body"
+    },
+    {
+        "chineseChar": "\u53d7",
+        "howToRead": "sh\u00f2u",
+        "englishEquivalent": "to receive"
+    },
+    {
+        "chineseChar": "\u4f4f",
+        "howToRead": "zh\u00f9",
+        "englishEquivalent": "to live; to reside"
+    },
+    {
+        "chineseChar": "\u6d3b",
+        "howToRead": "hu\u00f3",
+        "englishEquivalent": "to live"
+    },
+    {
+        "chineseChar": "\u52a0",
+        "howToRead": "ji\u0101",
+        "englishEquivalent": "to add; plus"
+    },
+    {
+        "chineseChar": "\u4f55",
+        "howToRead": "h\u00e9",
+        "englishEquivalent": "question word"
+    },
+    {
+        "chineseChar": "\u4f19",
+        "howToRead": "hu\u01d2",
+        "englishEquivalent": "companion; buddy"
+    },
+    {
+        "chineseChar": "\u9898",
+        "howToRead": "t\u00ed",
+        "englishEquivalent": "topic; subject"
+    },
+    {
+        "chineseChar": "\u5b8c",
+        "howToRead": "w\u00e1n",
+        "englishEquivalent": "to finish; complete"
+    },
+    {
+        "chineseChar": "\u63a5",
+        "howToRead": "ji\u0113",
+        "englishEquivalent": "to receive; to join"
+    },
+    {
+        "chineseChar": "\u62ff",
+        "howToRead": "n\u00e1",
+        "englishEquivalent": "to take"
+    },
+    {
+        "chineseChar": "\u671b",
+        "howToRead": "w\u00e0ng",
+        "englishEquivalent": "to gaze; to hope"
+    },
+    {
+        "chineseChar": "\u89e3",
+        "howToRead": "ji\u011b",
+        "englishEquivalent": "to divide; to explain"
+    },
+    {
+        "chineseChar": "\u5176",
+        "howToRead": "q\u00ed",
+        "englishEquivalent": "his; hers; its"
+    },
+    {
+        "chineseChar": "\u79bb",
+        "howToRead": "l\u00ed",
+        "englishEquivalent": "to leave; (distance) from"
+    },
+    {
+        "chineseChar": "\u8c08",
+        "howToRead": "t\u00e1n",
+        "englishEquivalent": "to chat"
+    },
+    {
+        "chineseChar": "\u53c8",
+        "howToRead": "y\u00f2u",
+        "englishEquivalent": "again; also"
+    },
+    {
+        "chineseChar": "\u65b0",
+        "howToRead": "x\u012bn",
+        "englishEquivalent": "new"
+    },
+    {
+        "chineseChar": "\u66f4",
+        "howToRead": "g\u00e8ng",
+        "englishEquivalent": "more"
+    },
+    {
+        "chineseChar": "\u94b1",
+        "howToRead": "qi\u00e1n",
+        "englishEquivalent": "money"
+    },
+    {
+        "chineseChar": "\u9a6c",
+        "howToRead": "m\u01ce",
+        "englishEquivalent": "horse"
+    },
+    {
+        "chineseChar": "\u601d",
+        "howToRead": "s\u012b",
+        "englishEquivalent": "to think; to consider"
+    },
+    {
+        "chineseChar": "\u90e8",
+        "howToRead": "b\u00f9",
+        "englishEquivalent": "section; part"
+    },
+    {
+        "chineseChar": "\u573a",
+        "howToRead": "ch\u00e1ng",
+        "englishEquivalent": "open area"
+    },
+    {
+        "chineseChar": "\u55ef",
+        "howToRead": "en",
+        "englishEquivalent": "approval interjection"
+    },
+    {
+        "chineseChar": "\u8ba1",
+        "howToRead": "j\u00ec",
+        "englishEquivalent": "to plan"
+    },
+    {
+        "chineseChar": "\u4efb",
+        "howToRead": "r\u00e8n",
+        "englishEquivalent": "to appoint; office"
+    },
+    {
+        "chineseChar": "\u786e",
+        "howToRead": "qu\u00e8",
+        "englishEquivalent": "solid; real"
+    },
+    {
+        "chineseChar": "\u5403",
+        "howToRead": "ch\u012b",
+        "englishEquivalent": "to eat"
+    },
+    {
+        "chineseChar": "\u59cb",
+        "howToRead": "sh\u01d0",
+        "englishEquivalent": "to begin"
+    },
+    {
+        "chineseChar": "\u7ed3",
+        "howToRead": "ji\u0113",
+        "englishEquivalent": "to produce"
+    },
+    {
+        "chineseChar": "\u5229",
+        "howToRead": "l\u00ec",
+        "englishEquivalent": "sharp; benefit"
+    },
+    {
+        "chineseChar": "\u670b",
+        "howToRead": "p\u00e9ng",
+        "englishEquivalent": "friend"
+    },
+    {
+        "chineseChar": "\u8b66",
+        "howToRead": "j\u01d0ng",
+        "englishEquivalent": "police; to warn"
+    },
+    {
+        "chineseChar": "\u58eb",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "scholar; soldier"
+    },
+    {
+        "chineseChar": "\u5916",
+        "howToRead": "w\u00e0i",
+        "englishEquivalent": "outside; foreign"
+    },
+    {
+        "chineseChar": "\u4ef6",
+        "howToRead": "ji\u00e0n",
+        "englishEquivalent": "mw. for items"
+    },
+    {
+        "chineseChar": "\u96be",
+        "howToRead": "n\u00e1n",
+        "englishEquivalent": "difficult"
+    },
+    {
+        "chineseChar": "\u4f4d",
+        "howToRead": "w\u00e8i",
+        "englishEquivalent": "mw. for people"
+    },
+    {
+        "chineseChar": "\u8868",
+        "howToRead": "bi\u01ceo",
+        "englishEquivalent": "exterior surface"
+    },
+    {
+        "chineseChar": "\u521a",
+        "howToRead": "g\u0101ng",
+        "englishEquivalent": "just (now); hard"
+    },
+    {
+        "chineseChar": "\u5e0c",
+        "howToRead": "x\u012b ",
+        "englishEquivalent": "rare: hope"
+    },
+    {
+        "chineseChar": "\u67e5",
+        "howToRead": "ch\u00e1",
+        "englishEquivalent": "to research"
+    },
+    {
+        "chineseChar": "\u62c9",
+        "howToRead": "l\u0101",
+        "englishEquivalent": "to pull"
+    },
+    {
+        "chineseChar": "\u8fb9",
+        "howToRead": "bi\u0101n",
+        "englishEquivalent": "side; edge"
+    },
+    {
+        "chineseChar": "\u6216",
+        "howToRead": "hu\u00f2",
+        "englishEquivalent": "maybe; perhaps"
+    },
+    {
+        "chineseChar": "\u5c06",
+        "howToRead": "ji\u0101ng",
+        "englishEquivalent": "will; shall"
+    },
+    {
+        "chineseChar": "\u7537",
+        "howToRead": "n\u00e1n",
+        "englishEquivalent": "male"
+    },
+    {
+        "chineseChar": "\u51c6",
+        "howToRead": "zh\u01d4n",
+        "englishEquivalent": "to allow"
+    },
+    {
+        "chineseChar": "\u53d8",
+        "howToRead": "bi\u00e0n",
+        "englishEquivalent": "to change"
+    },
+    {
+        "chineseChar": "\u8bc1",
+        "howToRead": "zh\u00e8ng",
+        "englishEquivalent": "proof"
+    },
+    {
+        "chineseChar": "\u7269",
+        "howToRead": "w\u00f9",
+        "englishEquivalent": "thing; object"
+    },
+    {
+        "chineseChar": "\u5458",
+        "howToRead": "yu\u00e1n",
+        "englishEquivalent": "employee; member"
+    },
+    {
+        "chineseChar": "\u603b",
+        "howToRead": "z\u01d2ng",
+        "englishEquivalent": "always"
+    },
+    {
+        "chineseChar": "\u5662",
+        "howToRead": "\u014d ",
+        "englishEquivalent": "moan sound"
+    },
+    {
+        "chineseChar": "\u7cfb",
+        "howToRead": "x\u00ec",
+        "englishEquivalent": "system; to connect"
+    },
+    {
+        "chineseChar": "\u51e0",
+        "howToRead": "j\u01d0",
+        "englishEquivalent": "how many"
+    },
+    {
+        "chineseChar": "\u7ba1",
+        "howToRead": "gu\u01cen",
+        "englishEquivalent": "to control"
+    },
+    {
+        "chineseChar": "\u73a9",
+        "howToRead": "w\u00e1n",
+        "englishEquivalent": "to play"
+    },
+    {
+        "chineseChar": "\u5904",
+        "howToRead": "ch\u00f9",
+        "englishEquivalent": "place; location"
+    },
+    {
+        "chineseChar": "\u529e",
+        "howToRead": "b\u00e0n",
+        "englishEquivalent": "to do; to manage"
+    },
+    {
+        "chineseChar": "\u4e3b",
+        "howToRead": "zh\u01d4",
+        "englishEquivalent": "master; main"
+    },
+    {
+        "chineseChar": "\u6c14",
+        "howToRead": "q\u00ec",
+        "englishEquivalent": "air"
+    },
+    {
+        "chineseChar": "\u6bcf",
+        "howToRead": "m\u011bi",
+        "englishEquivalent": "each; every"
+    },
+    {
+        "chineseChar": "\u5c11",
+        "howToRead": "sh\u01ceo",
+        "englishEquivalent": "few; little"
+    },
+    {
+        "chineseChar": "\u5207",
+        "howToRead": "qi\u0113",
+        "englishEquivalent": "to cut; to slice"
+    },
+    {
+        "chineseChar": "\u5931",
+        "howToRead": "sh\u012b",
+        "englishEquivalent": "to lose"
+    },
+    {
+        "chineseChar": "\u7b97",
+        "howToRead": "su\u00e0n",
+        "englishEquivalent": "to calculate"
+    },
+    {
+        "chineseChar": "\u6027",
+        "howToRead": "x\u00ecng",
+        "englishEquivalent": "nature; gender"
+    },
+    {
+        "chineseChar": "\u6b64",
+        "howToRead": "c\u01d0",
+        "englishEquivalent": "this; these"
+    },
+    {
+        "chineseChar": "\u5fc5",
+        "howToRead": "b\u00ec",
+        "englishEquivalent": "must; will"
+    },
+    {
+        "chineseChar": "\u5907",
+        "howToRead": "b\u00e8i",
+        "englishEquivalent": "get ready"
+    },
+    {
+        "chineseChar": "\u5408",
+        "howToRead": "h\u00e9",
+        "englishEquivalent": "to close; together"
+    },
+    {
+        "chineseChar": "\u5fb7",
+        "howToRead": "d\u00e9",
+        "englishEquivalent": "virtue; ethics"
+    },
+    {
+        "chineseChar": "\u961f",
+        "howToRead": "du\u00ec",
+        "englishEquivalent": "team; group"
+    },
+    {
+        "chineseChar": "\u8bd5",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "to test; to try"
+    },
+    {
+        "chineseChar": "\u62b1",
+        "howToRead": "b\u00e0o",
+        "englishEquivalent": "to carry in arms"
+    },
+    {
+        "chineseChar": "\u533b",
+        "howToRead": "y\u012b",
+        "englishEquivalent": "medical"
+    },
+    {
+        "chineseChar": "\u901a",
+        "howToRead": "t\u014dng",
+        "englishEquivalent": "to connect; open"
+    },
+    {
+        "chineseChar": "\u4f53",
+        "howToRead": "t\u01d0",
+        "englishEquivalent": "body; form"
+    },
+    {
+        "chineseChar": "\u4e50",
+        "howToRead": "l\u00e8",
+        "englishEquivalent": "happy"
+    },
+    {
+        "chineseChar": "\u5e76",
+        "howToRead": "b\u00ecng",
+        "englishEquivalent": "(not) at all"
+    },
+    {
+        "chineseChar": "\u4e09",
+        "howToRead": "s\u0101n",
+        "englishEquivalent": "three"
+    },
+    {
+        "chineseChar": "\u65e9",
+        "howToRead": "z\u01ceo",
+        "englishEquivalent": "early; morning"
+    },
+    {
+        "chineseChar": "\u95e8",
+        "howToRead": "m\u00e9n",
+        "englishEquivalent": "door; gate"
+    },
+    {
+        "chineseChar": "\u5bb3",
+        "howToRead": "h\u00e0i",
+        "englishEquivalent": "harm"
+    },
+    {
+        "chineseChar": "\u6b49",
+        "howToRead": "qi\u00e0n",
+        "englishEquivalent": "to apologize"
+    },
+    {
+        "chineseChar": "\u9009",
+        "howToRead": "xu\u01cen",
+        "englishEquivalent": "to choose"
+    },
+    {
+        "chineseChar": "\u55e8",
+        "howToRead": "h\u0101i ",
+        "englishEquivalent": "an exclamation"
+    },
+    {
+        "chineseChar": "\u623f",
+        "howToRead": "f\u00e1ng",
+        "englishEquivalent": "house; room"
+    },
+    {
+        "chineseChar": "\u547d",
+        "howToRead": "m\u00ecng",
+        "englishEquivalent": "life; fate"
+    },
+    {
+        "chineseChar": "\u4e14",
+        "howToRead": "qi\u011b",
+        "englishEquivalent": "moreover; both"
+    },
+    {
+        "chineseChar": "\u5411",
+        "howToRead": "xi\u00e0ng",
+        "englishEquivalent": "towards; direction"
+    },
+    {
+        "chineseChar": "\u5174",
+        "howToRead": "x\u012bng",
+        "englishEquivalent": "to rise; to flourish"
+    },
+    {
+        "chineseChar": "\u7403",
+        "howToRead": "qi\u00fa",
+        "englishEquivalent": "ball; sphere"
+    },
+    {
+        "chineseChar": "\u670d",
+        "howToRead": "f\u00fa",
+        "englishEquivalent": "clothes; to serve"
+    },
+    {
+        "chineseChar": "\u5165",
+        "howToRead": "r\u00f9",
+        "englishEquivalent": "to enter"
+    },
+    {
+        "chineseChar": "\u7167",
+        "howToRead": "zh\u00e0o",
+        "englishEquivalent": "according to; to shine"
+    },
+    {
+        "chineseChar": "\u63d0",
+        "howToRead": "t\u00ed",
+        "englishEquivalent": "to lift"
+    },
+    {
+        "chineseChar": "\u6389",
+        "howToRead": "di\u00e0o",
+        "englishEquivalent": "to fall; to lose"
+    },
+    {
+        "chineseChar": "\u592b",
+        "howToRead": "f\u016b",
+        "englishEquivalent": "husband"
+    },
+    {
+        "chineseChar": "\u8def",
+        "howToRead": "l\u00f9",
+        "englishEquivalent": "road"
+    },
+    {
+        "chineseChar": "\u6f14",
+        "howToRead": "y\u01cen",
+        "englishEquivalent": "to act; to develop"
+    },
+    {
+        "chineseChar": "\u591f",
+        "howToRead": "g\u00f2u",
+        "englishEquivalent": "to be enough"
+    },
+    {
+        "chineseChar": "\u65e5",
+        "howToRead": "r\u00ec",
+        "englishEquivalent": "sun; day"
+    },
+    {
+        "chineseChar": "\u6848",
+        "howToRead": "\u00e0n",
+        "englishEquivalent": "legal case; record"
+    },
+    {
+        "chineseChar": "\u821e",
+        "howToRead": "w\u01d4",
+        "englishEquivalent": "to dance"
+    },
+    {
+        "chineseChar": "\u51b3",
+        "howToRead": "ju\u00e9",
+        "englishEquivalent": "to decide"
+    },
+    {
+        "chineseChar": "\u6c42",
+        "howToRead": "qi\u00fa",
+        "englishEquivalent": "to look for; to request"
+    },
+    {
+        "chineseChar": "\u7ea6",
+        "howToRead": "yu\u0113",
+        "englishEquivalent": "appointment; to invite"
+    },
+    {
+        "chineseChar": "\u5b57",
+        "howToRead": "z\u00ec",
+        "englishEquivalent": "word; character"
+    },
+    {
+        "chineseChar": "\u5443",
+        "howToRead": "\u00e8 ",
+        "englishEquivalent": "belch; hiccup"
+    },
+    {
+        "chineseChar": "\u80af",
+        "howToRead": "k\u011bn",
+        "englishEquivalent": "to agree"
+    },
+    {
+        "chineseChar": "\u76ee",
+        "howToRead": "m\u00f9",
+        "englishEquivalent": "eye"
+    },
+    {
+        "chineseChar": "\u7b11",
+        "howToRead": "xi\u00e0o",
+        "englishEquivalent": "to laugh"
+    },
+    {
+        "chineseChar": "\u4f24",
+        "howToRead": "sh\u0101ng",
+        "englishEquivalent": "wound"
+    },
+    {
+        "chineseChar": "\u795e",
+        "howToRead": "sh\u00e9n",
+        "englishEquivalent": "deity; spirit"
+    },
+    {
+        "chineseChar": "\u7236",
+        "howToRead": "f\u00f9",
+        "englishEquivalent": "father"
+    },
+    {
+        "chineseChar": "\u6307",
+        "howToRead": "zh\u01d0",
+        "englishEquivalent": "finger; refer to"
+    },
+    {
+        "chineseChar": "\u62a5",
+        "howToRead": "b\u00e0o",
+        "englishEquivalent": "to announce"
+    },
+    {
+        "chineseChar": "\u7559",
+        "howToRead": "li\u00fa",
+        "englishEquivalent": "to stay; to remain"
+    },
+    {
+        "chineseChar": "\u6c34",
+        "howToRead": "shu\u01d0",
+        "englishEquivalent": "water; liquid"
+    },
+    {
+        "chineseChar": "\u6559",
+        "howToRead": "ji\u00e0o",
+        "englishEquivalent": "to teach"
+    },
+    {
+        "chineseChar": "\u67aa",
+        "howToRead": "qi\u0101ng",
+        "englishEquivalent": "gun"
+    },
+    {
+        "chineseChar": "\u6e05",
+        "howToRead": "q\u012bng",
+        "englishEquivalent": "clear"
+    },
+    {
+        "chineseChar": "\u8272",
+        "howToRead": "s\u00e8",
+        "englishEquivalent": "color"
+    },
+    {
+        "chineseChar": "\u53f7",
+        "howToRead": "h\u00e0o",
+        "englishEquivalent": "number"
+    },
+    {
+        "chineseChar": "\u4e16",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "life; age; world"
+    },
+    {
+        "chineseChar": "\u8fdc",
+        "howToRead": "yu\u01cen",
+        "englishEquivalent": "far; distant"
+    },
+    {
+        "chineseChar": "\u7247",
+        "howToRead": "pi\u00e0n",
+        "englishEquivalent": "thin piece; slice"
+    },
+    {
+        "chineseChar": "\u5b98",
+        "howToRead": "gu\u0101n",
+        "englishEquivalent": "official"
+    },
+    {
+        "chineseChar": "\u53e3",
+        "howToRead": "k\u01d2u",
+        "englishEquivalent": "mouth"
+    },
+    {
+        "chineseChar": "\u5e08",
+        "howToRead": "sh\u012b",
+        "englishEquivalent": "teacher; master"
+    },
+    {
+        "chineseChar": "\u539f",
+        "howToRead": "yu\u00e1n",
+        "englishEquivalent": "original"
+    },
+    {
+        "chineseChar": "\u9152",
+        "howToRead": "ji\u01d4",
+        "englishEquivalent": "wine"
+    },
+    {
+        "chineseChar": "\u5468",
+        "howToRead": "zh\u014du",
+        "englishEquivalent": "circle; week"
+    },
+    {
+        "chineseChar": "\u661f",
+        "howToRead": "x\u012bng",
+        "englishEquivalent": "star"
+    },
+    {
+        "chineseChar": "\u8bc6",
+        "howToRead": "sh\u00ed",
+        "englishEquivalent": "to know"
+    },
+    {
+        "chineseChar": "\u8d5b",
+        "howToRead": "s\u00e0i",
+        "englishEquivalent": "competition"
+    },
+    {
+        "chineseChar": "\u6551",
+        "howToRead": "ji\u00f9",
+        "englishEquivalent": "to save"
+    },
+    {
+        "chineseChar": "\u5e95",
+        "howToRead": "d\u01d0",
+        "englishEquivalent": "bottom; end"
+    },
+    {
+        "chineseChar": "\u68d2",
+        "howToRead": "b\u00e0ng",
+        "englishEquivalent": "wonderful; stick"
+    },
+    {
+        "chineseChar": "\u987b",
+        "howToRead": "x\u016b",
+        "englishEquivalent": "must; beard"
+    },
+    {
+        "chineseChar": "\u6536",
+        "howToRead": "sh\u014du",
+        "englishEquivalent": "to receive"
+    },
+    {
+        "chineseChar": "\u4ea4",
+        "howToRead": "ji\u0101o",
+        "englishEquivalent": "to deliver; to pay"
+    },
+    {
+        "chineseChar": "\u5750",
+        "howToRead": "zu\u00f2",
+        "englishEquivalent": "to sit"
+    },
+    {
+        "chineseChar": "\u505c",
+        "howToRead": "t\u00edng",
+        "englishEquivalent": "to stop"
+    },
+    {
+        "chineseChar": "\u5361",
+        "howToRead": "k\u01ce",
+        "englishEquivalent": "card; to block"
+    },
+    {
+        "chineseChar": "\u5c3c",
+        "howToRead": "n\u00ed",
+        "englishEquivalent": "Buddhist nun"
+    },
+    {
+        "chineseChar": "\u5a5a",
+        "howToRead": "h\u016bn",
+        "englishEquivalent": "to marry"
+    },
+    {
+        "chineseChar": "\u683c",
+        "howToRead": "g\u00e9",
+        "englishEquivalent": "grid; pattern"
+    },
+    {
+        "chineseChar": "\u773c",
+        "howToRead": "y\u01cen",
+        "englishEquivalent": "eye"
+    },
+    {
+        "chineseChar": "\u91d1",
+        "howToRead": "j\u012bn",
+        "englishEquivalent": "gold"
+    },
+    {
+        "chineseChar": "\u86cb",
+        "howToRead": "d\u00e0n",
+        "englishEquivalent": "egg"
+    },
+    {
+        "chineseChar": "\u606f",
+        "howToRead": "x\u012b",
+        "englishEquivalent": "breath; to rest"
+    },
+    {
+        "chineseChar": "\u5ba4",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "room"
+    },
+    {
+        "chineseChar": "\u5185",
+        "howToRead": "n\u00e8i",
+        "englishEquivalent": "inside; inner"
+    },
+    {
+        "chineseChar": "\u8fd0",
+        "howToRead": "y\u00f9n",
+        "englishEquivalent": "to move; fortune"
+    },
+    {
+        "chineseChar": "\u6839",
+        "howToRead": "g\u0113n",
+        "englishEquivalent": "root; basis"
+    },
+    {
+        "chineseChar": "\u5355",
+        "howToRead": "d\u0101n",
+        "englishEquivalent": "single; list"
+    },
+    {
+        "chineseChar": "\u5b9d",
+        "howToRead": "b\u01ceo",
+        "englishEquivalent": "jewel; treasure"
+    },
+    {
+        "chineseChar": "\u54e5",
+        "howToRead": "g\u0113",
+        "englishEquivalent": "elder brother"
+    },
+    {
+        "chineseChar": "\u5f20",
+        "howToRead": "zh\u0101ng",
+        "englishEquivalent": "mw. for flat obj."
+    },
+    {
+        "chineseChar": "\u641e",
+        "howToRead": "g\u01ceo",
+        "englishEquivalent": "to make; to set up"
+    },
+    {
+        "chineseChar": "\u6218",
+        "howToRead": "zh\u00e0n",
+        "englishEquivalent": "to fight; war"
+    },
+    {
+        "chineseChar": "\u706b",
+        "howToRead": "hu\u01d2",
+        "englishEquivalent": "fire"
+    },
+    {
+        "chineseChar": "\u7f57",
+        "howToRead": "lu\u00f3",
+        "englishEquivalent": "gauze; to gather"
+    },
+    {
+        "chineseChar": "\u81f3",
+        "howToRead": "zh\u00ec",
+        "englishEquivalent": "to arrive"
+    },
+    {
+        "chineseChar": "\u4e07",
+        "howToRead": "w\u00e0n",
+        "englishEquivalent": "ten thousand"
+    },
+    {
+        "chineseChar": "\u58f0",
+        "howToRead": "sh\u0113ng",
+        "englishEquivalent": "sound; voice"
+    },
+    {
+        "chineseChar": "\u5e03",
+        "howToRead": "b\u00f9",
+        "englishEquivalent": "cloth; to spread"
+    },
+    {
+        "chineseChar": "\u97f3",
+        "howToRead": "y\u012bn",
+        "englishEquivalent": "sound; noise"
+    },
+    {
+        "chineseChar": "\u671f",
+        "howToRead": "q\u012b",
+        "englishEquivalent": "period of time"
+    },
+    {
+        "chineseChar": "\u6761",
+        "howToRead": "ti\u00e1o",
+        "englishEquivalent": "mw. long thing obj."
+    },
+    {
+        "chineseChar": "\u6d88",
+        "howToRead": "xi\u0101o",
+        "englishEquivalent": "to vanish; need"
+    },
+    {
+        "chineseChar": "\u4e70",
+        "howToRead": "m\u01cei",
+        "englishEquivalent": "to buy"
+    },
+    {
+        "chineseChar": "\u75c5",
+        "howToRead": "b\u00ecng",
+        "englishEquivalent": "illness; disease"
+    },
+    {
+        "chineseChar": "\u6574",
+        "howToRead": "zh\u011bng",
+        "englishEquivalent": "ordered"
+    },
+    {
+        "chineseChar": "\u5947",
+        "howToRead": "q\u00ed",
+        "englishEquivalent": "strange"
+    },
+    {
+        "chineseChar": "\u5f1f",
+        "howToRead": "d\u00ec",
+        "englishEquivalent": "young brother"
+    },
+    {
+        "chineseChar": "\u72af",
+        "howToRead": "f\u00e0n",
+        "englishEquivalent": "to violate; to offend"
+    },
+    {
+        "chineseChar": "\u88c5",
+        "howToRead": "zhu\u0101ng",
+        "englishEquivalent": "clothing; to pretend"
+    },
+    {
+        "chineseChar": "\u8d1d",
+        "howToRead": "b\u00e8i",
+        "englishEquivalent": "shell"
+    },
+    {
+        "chineseChar": "\u60a8",
+        "howToRead": "n\u00edn",
+        "englishEquivalent": "you (polite)"
+    },
+    {
+        "chineseChar": "\u9001",
+        "howToRead": "s\u00f2ng",
+        "englishEquivalent": "to give; to deliver"
+    },
+    {
+        "chineseChar": "\u6015",
+        "howToRead": "p\u00e0",
+        "englishEquivalent": "to fear"
+    },
+    {
+        "chineseChar": "\u62a4",
+        "howToRead": "h\u00f9",
+        "englishEquivalent": "to protect"
+    },
+    {
+        "chineseChar": "\u5ea6",
+        "howToRead": "d\u00f9",
+        "englishEquivalent": "degree; measure"
+    },
+    {
+        "chineseChar": "\u82b1",
+        "howToRead": "hu\u0101",
+        "englishEquivalent": "flower; to spend"
+    },
+    {
+        "chineseChar": "\u8282",
+        "howToRead": "ji\u00e9",
+        "englishEquivalent": "festival"
+    },
+    {
+        "chineseChar": "\u8fd1",
+        "howToRead": "j\u00ecn",
+        "englishEquivalent": "near"
+    },
+    {
+        "chineseChar": "\u602a",
+        "howToRead": "gu\u00e0i",
+        "englishEquivalent": "odd; monster"
+    },
+    {
+        "chineseChar": "\u6301",
+        "howToRead": "ch\u00ed",
+        "englishEquivalent": "to maintain; to manage"
+    },
+    {
+        "chineseChar": "\u5149",
+        "howToRead": "gu\u0101ng",
+        "englishEquivalent": "bright; only"
+    },
+    {
+        "chineseChar": "\u4e0e",
+        "howToRead": "y\u01d4",
+        "englishEquivalent": "and; with"
+    },
+    {
+        "chineseChar": "\u7a7f",
+        "howToRead": "chu\u0101n",
+        "englishEquivalent": "to wear"
+    },
+    {
+        "chineseChar": "\u613f",
+        "howToRead": "yu\u00e0n",
+        "englishEquivalent": "to hope; willing"
+    },
+    {
+        "chineseChar": "\u8c61",
+        "howToRead": "xi\u00e0ng",
+        "englishEquivalent": "elephant; form"
+    },
+    {
+        "chineseChar": "\u5f71",
+        "howToRead": "y\u01d0ng",
+        "englishEquivalent": "image"
+    },
+    {
+        "chineseChar": "\u51fb",
+        "howToRead": "j\u00ed",
+        "englishEquivalent": "to hit"
+    },
+    {
+        "chineseChar": "\u4f7f",
+        "howToRead": "sh\u01d0",
+        "englishEquivalent": "to cause"
+    },
+    {
+        "chineseChar": "\u4e8c",
+        "howToRead": "\u00e8r",
+        "englishEquivalent": "two"
+    },
+    {
+        "chineseChar": "\u559d",
+        "howToRead": "h\u0113",
+        "englishEquivalent": "to drink"
+    },
+    {
+        "chineseChar": "\u6708",
+        "howToRead": "yu\u00e8",
+        "englishEquivalent": "moon; month"
+    },
+    {
+        "chineseChar": "\u5668",
+        "howToRead": "q\u00ec",
+        "englishEquivalent": "device; tool"
+    },
+    {
+        "chineseChar": "\u5bdf",
+        "howToRead": "ch\u00e1",
+        "englishEquivalent": "to examine; to observe"
+    },
+    {
+        "chineseChar": "\u5236",
+        "howToRead": "zh\u00ec",
+        "englishEquivalent": "to manufacture"
+    },
+    {
+        "chineseChar": "\u561b",
+        "howToRead": "ma",
+        "englishEquivalent": "obvious p.; pause p."
+    },
+    {
+        "chineseChar": "\u54c8",
+        "howToRead": "h\u0101",
+        "englishEquivalent": "laughter"
+    },
+    {
+        "chineseChar": "\u52a9",
+        "howToRead": "zh\u00f9",
+        "englishEquivalent": "to help"
+    },
+    {
+        "chineseChar": "\u8fbe",
+        "howToRead": "d\u00e1",
+        "englishEquivalent": "to reach"
+    },
+    {
+        "chineseChar": "\u6d77",
+        "howToRead": "h\u01cei",
+        "englishEquivalent": "ocean; sea"
+    },
+    {
+        "chineseChar": "\u5f85",
+        "howToRead": "d\u00e0i",
+        "englishEquivalent": "to wait; about to"
+    },
+    {
+        "chineseChar": "\u6258",
+        "howToRead": "tu\u014d",
+        "englishEquivalent": "support; to entrust"
+    },
+    {
+        "chineseChar": "\u9664",
+        "howToRead": "ch\u00fa",
+        "englishEquivalent": "to remove"
+    },
+    {
+        "chineseChar": "\u5199",
+        "howToRead": "xi\u011b",
+        "englishEquivalent": "to write"
+    },
+    {
+        "chineseChar": "\u7edd",
+        "howToRead": "ju\u00e9",
+        "englishEquivalent": "sever; absolutely"
+    },
+    {
+        "chineseChar": "\u754c",
+        "howToRead": "ji\u00e8",
+        "englishEquivalent": "boundary; scope"
+    },
+    {
+        "chineseChar": "\u5e1d",
+        "howToRead": "d\u00ec",
+        "englishEquivalent": "emperor"
+    },
+    {
+        "chineseChar": "\u59d0",
+        "howToRead": "ji\u011b",
+        "englishEquivalent": "older sister"
+    },
+    {
+        "chineseChar": "\u53cd",
+        "howToRead": "f\u01cen",
+        "englishEquivalent": "contrary; opposite"
+    },
+    {
+        "chineseChar": "\u62c5",
+        "howToRead": "d\u0101n",
+        "englishEquivalent": "to undertake"
+    },
+    {
+        "chineseChar": "\u53f8",
+        "howToRead": "s\u012b",
+        "englishEquivalent": "to manage; department"
+    },
+    {
+        "chineseChar": "\u5f3a",
+        "howToRead": "qi\u00e1ng",
+        "englishEquivalent": "strong; powerful"
+    },
+    {
+        "chineseChar": "\u7531",
+        "howToRead": "y\u00f3u",
+        "englishEquivalent": "from; by"
+    },
+    {
+        "chineseChar": "\u8bba",
+        "howToRead": "l\u00f9n",
+        "englishEquivalent": "opinion; theory"
+    },
+    {
+        "chineseChar": "\u98de",
+        "howToRead": "f\u0113i",
+        "englishEquivalent": "to fly"
+    },
+    {
+        "chineseChar": "\u4e9a",
+        "howToRead": "y\u00e0",
+        "englishEquivalent": "Asia"
+    },
+    {
+        "chineseChar": "\u7eed",
+        "howToRead": "x\u00f9",
+        "englishEquivalent": "to continue"
+    },
+    {
+        "chineseChar": "\u89c6",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "to look at"
+    },
+    {
+        "chineseChar": "\u6bcd",
+        "howToRead": "m\u01d4",
+        "englishEquivalent": "mother"
+    },
+    {
+        "chineseChar": "\u7a7a",
+        "howToRead": "k\u014dng",
+        "englishEquivalent": "empty; air"
+    },
+    {
+        "chineseChar": "\u519b",
+        "howToRead": "j\u016bn",
+        "englishEquivalent": "army"
+    },
+    {
+        "chineseChar": "\u8dd1",
+        "howToRead": "p\u01ceo",
+        "englishEquivalent": "to run"
+    },
+    {
+        "chineseChar": "\u963f",
+        "howToRead": "\u0101",
+        "englishEquivalent": "prefix for names"
+    },
+    {
+        "chineseChar": "\u5c3d",
+        "howToRead": "j\u00ecn",
+        "englishEquivalent": "to greatest extent"
+    },
+    {
+        "chineseChar": "\u6ce8",
+        "howToRead": "zh\u00f9",
+        "englishEquivalent": "pay attention; to register"
+    },
+    {
+        "chineseChar": "\u5f04",
+        "howToRead": "n\u00f2ng",
+        "englishEquivalent": "to do"
+    },
+    {
+        "chineseChar": "\u5bc6",
+        "howToRead": "m\u00ec",
+        "englishEquivalent": "secret"
+    },
+    {
+        "chineseChar": "\u7ebf",
+        "howToRead": "xi\u00e0n",
+        "englishEquivalent": "thread"
+    },
+    {
+        "chineseChar": "\u4ee3",
+        "howToRead": "d\u00e0i",
+        "englishEquivalent": "to substitute; era"
+    },
+    {
+        "chineseChar": "\u5fd9",
+        "howToRead": "m\u00e1ng",
+        "englishEquivalent": "busy"
+    },
+    {
+        "chineseChar": "\u574f",
+        "howToRead": "hu\u00e0i",
+        "englishEquivalent": "bad; broken"
+    },
+    {
+        "chineseChar": "\u4e45",
+        "howToRead": "ji\u01d4",
+        "englishEquivalent": "long (time)"
+    },
+    {
+        "chineseChar": "\u8bae",
+        "howToRead": "y\u00ec",
+        "englishEquivalent": "to discuss"
+    },
+    {
+        "chineseChar": "\u8863",
+        "howToRead": "y\u012b",
+        "englishEquivalent": "clothes"
+    },
+    {
+        "chineseChar": "\u8840",
+        "howToRead": "xi\u011b",
+        "englishEquivalent": "blood"
+    },
+    {
+        "chineseChar": "\u949f",
+        "howToRead": "zh\u014dng",
+        "englishEquivalent": "clock; o'clock"
+    },
+    {
+        "chineseChar": "\u7ee7",
+        "howToRead": "j\u00ec",
+        "englishEquivalent": "to carry on"
+    },
+    {
+        "chineseChar": "\u793c",
+        "howToRead": "l\u01d0",
+        "englishEquivalent": "gift; ceremony"
+    },
+    {
+        "chineseChar": "\u6570",
+        "howToRead": "sh\u00f9",
+        "englishEquivalent": "number; figure"
+    },
+    {
+        "chineseChar": "\u4efd",
+        "howToRead": "f\u00e8n",
+        "englishEquivalent": "mw. for papers, sets"
+    },
+    {
+        "chineseChar": "\u75af",
+        "howToRead": "f\u0113ng",
+        "englishEquivalent": "insane"
+    },
+    {
+        "chineseChar": "\u5e73",
+        "howToRead": "p\u00edng",
+        "englishEquivalent": "flat; equal"
+    },
+    {
+        "chineseChar": "\u6b62",
+        "howToRead": "zh\u01d0",
+        "englishEquivalent": "to prohibit"
+    },
+    {
+        "chineseChar": "\u5341",
+        "howToRead": "sh\u00ed",
+        "englishEquivalent": "ten"
+    },
+    {
+        "chineseChar": "\u62dc",
+        "howToRead": "b\u00e0i",
+        "englishEquivalent": "to pay respect"
+    },
+    {
+        "chineseChar": "\u9b3c",
+        "howToRead": "gu\u01d0",
+        "englishEquivalent": "ghost"
+    },
+    {
+        "chineseChar": "\u7761",
+        "howToRead": "shu\u00ec",
+        "englishEquivalent": "to sleep"
+    },
+    {
+        "chineseChar": "\u5566",
+        "howToRead": "la",
+        "englishEquivalent": "exclamation p."
+    },
+    {
+        "chineseChar": "\u8c03",
+        "howToRead": "di\u00e0o",
+        "englishEquivalent": "to transfer; tone"
+    },
+    {
+        "chineseChar": "\u5df4",
+        "howToRead": "b\u0101",
+        "englishEquivalent": "to stick to; close to"
+    },
+    {
+        "chineseChar": "\u5144",
+        "howToRead": "xi\u014dng",
+        "englishEquivalent": "elder brother"
+    },
+    {
+        "chineseChar": "\u7d27",
+        "howToRead": "j\u01d0n",
+        "englishEquivalent": "strict; tight"
+    },
+    {
+        "chineseChar": "\u7ad9",
+        "howToRead": "zh\u00e0n",
+        "englishEquivalent": "to stop; station"
+    },
+    {
+        "chineseChar": "\u54c1",
+        "howToRead": "p\u01d0n",
+        "englishEquivalent": "goods; product"
+    },
+    {
+        "chineseChar": "\u82f1",
+        "howToRead": "y\u012bng",
+        "englishEquivalent": "brave"
+    },
+    {
+        "chineseChar": "\u7f6a",
+        "howToRead": "zu\u00ec",
+        "englishEquivalent": "guilt; crime"
+    },
+    {
+        "chineseChar": "\u6587",
+        "howToRead": "w\u00e9n",
+        "englishEquivalent": "language; culture"
+    },
+    {
+        "chineseChar": "\u4eae",
+        "howToRead": "li\u00e0ng",
+        "englishEquivalent": "bright; clear"
+    },
+    {
+        "chineseChar": "\u6293",
+        "howToRead": "zhu\u0101",
+        "englishEquivalent": "to grab"
+    },
+    {
+        "chineseChar": "\u8df3",
+        "howToRead": "ti\u00e0o",
+        "englishEquivalent": "to jump"
+    },
+    {
+        "chineseChar": "\u8054",
+        "howToRead": "li\u00e1n",
+        "englishEquivalent": "to unite; to join"
+    },
+    {
+        "chineseChar": "\u6df7",
+        "howToRead": "h\u00f9n",
+        "englishEquivalent": "to mix"
+    },
+    {
+        "chineseChar": "\u4fbf",
+        "howToRead": "bi\u00e0n",
+        "englishEquivalent": "ordinary; convenient"
+    },
+    {
+        "chineseChar": "\u72d7",
+        "howToRead": "g\u01d2u",
+        "englishEquivalent": "dog"
+    },
+    {
+        "chineseChar": "\u8111",
+        "howToRead": "n\u01ceo",
+        "englishEquivalent": "brain; mind"
+    },
+    {
+        "chineseChar": "\u4e1a",
+        "howToRead": "y\u00e8",
+        "englishEquivalent": "occupation"
+    },
+    {
+        "chineseChar": "\u6b4c",
+        "howToRead": "g\u0113",
+        "englishEquivalent": "song"
+    },
+    {
+        "chineseChar": "\u7cbe",
+        "howToRead": "j\u012bng",
+        "englishEquivalent": "essence; vitality"
+    },
+    {
+        "chineseChar": "\u5305",
+        "howToRead": "b\u0101o",
+        "englishEquivalent": "to wrap; bag"
+    },
+    {
+        "chineseChar": "\u8f6c",
+        "howToRead": "zhu\u01cen",
+        "englishEquivalent": "to revolve; to turn"
+    },
+    {
+        "chineseChar": "\u5374",
+        "howToRead": "qu\u00e8",
+        "englishEquivalent": "but; however"
+    },
+    {
+        "chineseChar": "\u53c2",
+        "howToRead": "c\u0101n",
+        "englishEquivalent": "to participate"
+    },
+    {
+        "chineseChar": "\u9662",
+        "howToRead": "yu\u00e0n",
+        "englishEquivalent": "courtyard; institution"
+    },
+    {
+        "chineseChar": "\u52a1",
+        "howToRead": "w\u00f9",
+        "englishEquivalent": "affair; business"
+    },
+    {
+        "chineseChar": "\u57fa",
+        "howToRead": "j\u012b",
+        "englishEquivalent": "base; foundation"
+    },
+    {
+        "chineseChar": "\u53f0",
+        "howToRead": "t\u00e1i",
+        "englishEquivalent": "platform"
+    },
+    {
+        "chineseChar": "\u53e6",
+        "howToRead": "l\u00ecng",
+        "englishEquivalent": "other; another"
+    },
+    {
+        "chineseChar": "\u6069",
+        "howToRead": "\u0113n",
+        "englishEquivalent": "grace"
+    },
+    {
+        "chineseChar": "\u4e66",
+        "howToRead": "sh\u016b",
+        "englishEquivalent": "book"
+    },
+    {
+        "chineseChar": "\u7edf",
+        "howToRead": "t\u01d2ng",
+        "englishEquivalent": "to unite"
+    },
+    {
+        "chineseChar": "\u98ce",
+        "howToRead": "f\u0113ng",
+        "englishEquivalent": "wind"
+    },
+    {
+        "chineseChar": "\u51b5",
+        "howToRead": "ku\u00e0ng",
+        "englishEquivalent": "situation; moreover"
+    },
+    {
+        "chineseChar": "\u56db",
+        "howToRead": "s\u00ec",
+        "englishEquivalent": "four"
+    },
+    {
+        "chineseChar": "\u9ed1",
+        "howToRead": "h\u0113i",
+        "englishEquivalent": "black"
+    },
+    {
+        "chineseChar": "\u5426",
+        "howToRead": "f\u01d2u",
+        "englishEquivalent": "to deny"
+    },
+    {
+        "chineseChar": "\u9669",
+        "howToRead": "xi\u01cen",
+        "englishEquivalent": "danger"
+    },
+    {
+        "chineseChar": "\u8a00",
+        "howToRead": "y\u00e1n",
+        "englishEquivalent": "words; speech"
+    },
+    {
+        "chineseChar": "\u7c73",
+        "howToRead": "m\u01d0",
+        "englishEquivalent": "rice"
+    },
+    {
+        "chineseChar": "\u6770",
+        "howToRead": "ji\u00e9",
+        "englishEquivalent": "distinguished"
+    },
+    {
+        "chineseChar": "\u6821",
+        "howToRead": "xi\u00e0o",
+        "englishEquivalent": "school"
+    },
+    {
+        "chineseChar": "\u5e78",
+        "howToRead": "x\u00ecng",
+        "englishEquivalent": "fortunate"
+    },
+    {
+        "chineseChar": "\u4f20",
+        "howToRead": "chu\u00e1n",
+        "englishEquivalent": "to transfer; send"
+    },
+    {
+        "chineseChar": "\u590d",
+        "howToRead": "f\u00f9",
+        "englishEquivalent": "to return; to repeat"
+    },
+    {
+        "chineseChar": "\u91cf",
+        "howToRead": "li\u00e0ng",
+        "englishEquivalent": "quantity; amount"
+    },
+    {
+        "chineseChar": "\u9996",
+        "howToRead": "sh\u01d2u",
+        "englishEquivalent": "head; chief"
+    },
+    {
+        "chineseChar": "\u6539",
+        "howToRead": "g\u01cei",
+        "englishEquivalent": "to change"
+    },
+    {
+        "chineseChar": "\u5fd8",
+        "howToRead": "w\u00e0ng",
+        "englishEquivalent": "to forget"
+    },
+    {
+        "chineseChar": "\u672f",
+        "howToRead": "sh\u00f9",
+        "englishEquivalent": "method; technique"
+    },
+    {
+        "chineseChar": "\u5c40",
+        "howToRead": "j\u00fa",
+        "englishEquivalent": "office; narrow"
+    },
+    {
+        "chineseChar": "\u5ba2",
+        "howToRead": "k\u00e8",
+        "englishEquivalent": "customer; guest"
+    },
+    {
+        "chineseChar": "\u5047",
+        "howToRead": "ji\u01ce",
+        "englishEquivalent": "fake; to borrow"
+    },
+    {
+        "chineseChar": "\u6c38",
+        "howToRead": "y\u01d2ng",
+        "englishEquivalent": "forever"
+    },
+    {
+        "chineseChar": "\u7ef4",
+        "howToRead": "w\u00e9i",
+        "englishEquivalent": "to maintain"
+    },
+    {
+        "chineseChar": "\u5c81",
+        "howToRead": "su\u00ec",
+        "englishEquivalent": "years (of age)"
+    },
+    {
+        "chineseChar": "\u636e",
+        "howToRead": "j\u00f9",
+        "englishEquivalent": "according to; to seize"
+    },
+    {
+        "chineseChar": "\u6d3e",
+        "howToRead": "p\u00e0i",
+        "englishEquivalent": "school of though"
+    },
+    {
+        "chineseChar": "\u7968",
+        "howToRead": "pi\u00e0o",
+        "englishEquivalent": "ticket"
+    },
+    {
+        "chineseChar": "\u5170",
+        "howToRead": "l\u00e1n",
+        "englishEquivalent": "orchid"
+    },
+    {
+        "chineseChar": "\u6076",
+        "howToRead": "\u00e8",
+        "englishEquivalent": "evil; ugly"
+    },
+    {
+        "chineseChar": "\u70e6",
+        "howToRead": "f\u00e1n",
+        "englishEquivalent": "to trouble"
+    },
+    {
+        "chineseChar": "\u53d6",
+        "howToRead": "q\u01d4",
+        "englishEquivalent": "to take"
+    },
+    {
+        "chineseChar": "\u6e38",
+        "howToRead": "y\u00f3u",
+        "englishEquivalent": "to swim; to travel"
+    },
+    {
+        "chineseChar": "\u7cdf",
+        "howToRead": "z\u0101o ",
+        "englishEquivalent": "dregs"
+    },
+    {
+        "chineseChar": "\u4ee4",
+        "howToRead": "l\u00ecng",
+        "englishEquivalent": "command; to order"
+    },
+    {
+        "chineseChar": "\u968f",
+        "howToRead": "su\u00ed",
+        "englishEquivalent": "to follow; comply"
+    },
+    {
+        "chineseChar": "\u4e94",
+        "howToRead": "w\u01d4",
+        "englishEquivalent": "five"
+    },
+    {
+        "chineseChar": "\u5723",
+        "howToRead": "sh\u00e8ng",
+        "englishEquivalent": "holy"
+    },
+    {
+        "chineseChar": "\u5f0f",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "type; style"
+    },
+    {
+        "chineseChar": "\u63a2",
+        "howToRead": "t\u00e0n",
+        "englishEquivalent": "to explore"
+    },
+    {
+        "chineseChar": "\u5634",
+        "howToRead": "zu\u01d0",
+        "englishEquivalent": "mouth"
+    },
+    {
+        "chineseChar": "\u6bd2",
+        "howToRead": "d\u00fa",
+        "englishEquivalent": "poison"
+    },
+    {
+        "chineseChar": "\u8d8a",
+        "howToRead": "yu\u00e8",
+        "englishEquivalent": "to climb over"
+    },
+    {
+        "chineseChar": "\u5f8b",
+        "howToRead": "l\u01dc",
+        "englishEquivalent": "law"
+    },
+    {
+        "chineseChar": "\u8d39",
+        "howToRead": "f\u00e8i",
+        "englishEquivalent": "expense"
+    },
+    {
+        "chineseChar": "\u79d1",
+        "howToRead": "k\u0113",
+        "englishEquivalent": "division"
+    },
+    {
+        "chineseChar": "\u9ebb",
+        "howToRead": "m\u00e1",
+        "englishEquivalent": "hemp; rough"
+    },
+    {
+        "chineseChar": "\u7b80",
+        "howToRead": "ji\u01cen",
+        "englishEquivalent": "simple"
+    },
+    {
+        "chineseChar": "\u6613",
+        "howToRead": "y\u00ec",
+        "englishEquivalent": "easy"
+    },
+    {
+        "chineseChar": "\u6d41",
+        "howToRead": "li\u00fa",
+        "englishEquivalent": "to flow"
+    },
+    {
+        "chineseChar": "\u6cbb",
+        "howToRead": "zh\u00ec",
+        "englishEquivalent": "to govern; solve"
+    },
+    {
+        "chineseChar": "\u5531",
+        "howToRead": "ch\u00e0ng",
+        "englishEquivalent": "to sing"
+    },
+    {
+        "chineseChar": "\u7b54",
+        "howToRead": "d\u00e1",
+        "englishEquivalent": "to reply; answer"
+    },
+    {
+        "chineseChar": "\u5012",
+        "howToRead": "d\u01ceo",
+        "englishEquivalent": "to invert; actually"
+    },
+    {
+        "chineseChar": "\u5212",
+        "howToRead": "hu\u00e0",
+        "englishEquivalent": "to plan; row"
+    },
+    {
+        "chineseChar": "\u63a7",
+        "howToRead": "k\u00f2ng",
+        "englishEquivalent": "to accuse; manage"
+    },
+    {
+        "chineseChar": "\u5473",
+        "howToRead": "w\u00e8i",
+        "englishEquivalent": "taste; smell"
+    },
+    {
+        "chineseChar": "\u533a",
+        "howToRead": "q\u016b",
+        "englishEquivalent": "area"
+    },
+    {
+        "chineseChar": "\u6f02",
+        "howToRead": "pi\u0101o",
+        "englishEquivalent": "to float"
+    },
+    {
+        "chineseChar": "\u652f",
+        "howToRead": "zh\u012b",
+        "englishEquivalent": "to support"
+    },
+    {
+        "chineseChar": "\u4e4e",
+        "howToRead": "h\u016b",
+        "englishEquivalent": "in; at; from"
+    },
+    {
+        "chineseChar": "\u5f55",
+        "howToRead": "l\u00f9",
+        "englishEquivalent": "diary; record"
+    },
+    {
+        "chineseChar": "\u8003",
+        "howToRead": "k\u01ceo",
+        "englishEquivalent": "to test"
+    },
+    {
+        "chineseChar": "\u8d85",
+        "howToRead": "ch\u0101o",
+        "englishEquivalent": "to exceed; super-"
+    },
+    {
+        "chineseChar": "\u62cd",
+        "howToRead": "p\u0101i",
+        "englishEquivalent": "to clap; to take (photo)"
+    },
+    {
+        "chineseChar": "\u8f7b",
+        "howToRead": "q\u012bng",
+        "englishEquivalent": "light; gentle"
+    },
+    {
+        "chineseChar": "\u8fde",
+        "howToRead": "li\u00e1n",
+        "englishEquivalent": "to link; even\u2026"
+    },
+    {
+        "chineseChar": "\u5f80",
+        "howToRead": "w\u01ceng",
+        "englishEquivalent": "towards"
+    },
+    {
+        "chineseChar": "\u7ec4",
+        "howToRead": "z\u01d4",
+        "englishEquivalent": "to organize; group"
+    },
+    {
+        "chineseChar": "\u6ee1",
+        "howToRead": "m\u01cen",
+        "englishEquivalent": "to fill; satisfied"
+    },
+    {
+        "chineseChar": "\u9020",
+        "howToRead": "z\u00e0o",
+        "englishEquivalent": "to build; to make"
+    },
+    {
+        "chineseChar": "\u5f39",
+        "howToRead": "d\u00e0n",
+        "englishEquivalent": "bullet"
+    },
+    {
+        "chineseChar": "\u9759",
+        "howToRead": "j\u00ecng",
+        "englishEquivalent": "still; calm"
+    },
+    {
+        "chineseChar": "\u6545",
+        "howToRead": "g\u00f9",
+        "englishEquivalent": "old; happening"
+    },
+    {
+        "chineseChar": "\u5438",
+        "howToRead": "x\u012b",
+        "englishEquivalent": "to breathe; inhale"
+    },
+    {
+        "chineseChar": "\u5582",
+        "howToRead": "w\u00e8i",
+        "englishEquivalent": "call attention"
+    },
+    {
+        "chineseChar": "\u96c6",
+        "howToRead": "j\u00ed",
+        "englishEquivalent": "to gather; to collect"
+    },
+    {
+        "chineseChar": "\u6781",
+        "howToRead": "j\u00ed",
+        "englishEquivalent": "extremely"
+    },
+    {
+        "chineseChar": "\u8bb2",
+        "howToRead": "ji\u01ceng",
+        "englishEquivalent": "to speak; lecture"
+    },
+    {
+        "chineseChar": "\u5757",
+        "howToRead": "ku\u00e0i",
+        "englishEquivalent": "colloq. money; lump"
+    },
+    {
+        "chineseChar": "\u8da3",
+        "howToRead": "q\u00f9",
+        "englishEquivalent": "interesting"
+    },
+    {
+        "chineseChar": "\u7c7b",
+        "howToRead": "l\u00e8i",
+        "englishEquivalent": "kind; category"
+    },
+    {
+        "chineseChar": "\u5440",
+        "howToRead": "y\u0101",
+        "englishEquivalent": "surprise p."
+    },
+    {
+        "chineseChar": "\u620f",
+        "howToRead": "x\u00ec",
+        "englishEquivalent": "drama; trick"
+    },
+    {
+        "chineseChar": "\u66fe",
+        "howToRead": "c\u00e9ng",
+        "englishEquivalent": "once; already"
+    },
+    {
+        "chineseChar": "\u5bb9",
+        "howToRead": "r\u00f3ng",
+        "englishEquivalent": "to contain; appearance"
+    },
+    {
+        "chineseChar": "\u6b65",
+        "howToRead": "b\u00f9",
+        "englishEquivalent": "a step"
+    },
+    {
+        "chineseChar": "\u6295",
+        "howToRead": "t\u00f3u",
+        "englishEquivalent": "to cast"
+    },
+    {
+        "chineseChar": "\u5316",
+        "howToRead": "hu\u00e0",
+        "englishEquivalent": "to change into"
+    },
+    {
+        "chineseChar": "\u672a",
+        "howToRead": "w\u00e8i",
+        "englishEquivalent": "not; have not"
+    },
+    {
+        "chineseChar": "\u675f",
+        "howToRead": "sh\u00f9",
+        "englishEquivalent": "to bind; bundle"
+    },
+    {
+        "chineseChar": "\u9192",
+        "howToRead": "x\u01d0ng",
+        "englishEquivalent": "to wake up"
+    },
+    {
+        "chineseChar": "\u5a01",
+        "howToRead": "w\u0113i",
+        "englishEquivalent": "power"
+    },
+    {
+        "chineseChar": "\u73ed",
+        "howToRead": "b\u0101n",
+        "englishEquivalent": "team; class"
+    },
+    {
+        "chineseChar": "\u7ec8",
+        "howToRead": "zh\u014dng",
+        "englishEquivalent": "end; finish"
+    },
+    {
+        "chineseChar": "\u5dee",
+        "howToRead": "ch\u00e0",
+        "englishEquivalent": "inferior; bad"
+    },
+    {
+        "chineseChar": "\u68a6",
+        "howToRead": "m\u00e8ng",
+        "englishEquivalent": "dream"
+    },
+    {
+        "chineseChar": "\u8d62",
+        "howToRead": "y\u00edng",
+        "englishEquivalent": "to win"
+    },
+    {
+        "chineseChar": "\u836f",
+        "howToRead": "y\u00e0o",
+        "englishEquivalent": "medicine"
+    },
+    {
+        "chineseChar": "\u8fea",
+        "howToRead": "d\u00ed ",
+        "englishEquivalent": "to enlighten"
+    },
+    {
+        "chineseChar": "\u5e97",
+        "howToRead": "di\u00e0n",
+        "englishEquivalent": "inn; shop"
+    },
+    {
+        "chineseChar": "\u4e3d",
+        "howToRead": "l\u00ec",
+        "englishEquivalent": "beautiful"
+    },
+    {
+        "chineseChar": "\u5356",
+        "howToRead": "m\u00e0i",
+        "englishEquivalent": "to sell"
+    },
+    {
+        "chineseChar": "\u663e",
+        "howToRead": "xi\u01cen",
+        "englishEquivalent": "prominent; to show"
+    },
+    {
+        "chineseChar": "\u76d1",
+        "howToRead": "ji\u0101n",
+        "englishEquivalent": "to supervise"
+    },
+    {
+        "chineseChar": "\u56fe",
+        "howToRead": "t\u00fa",
+        "englishEquivalent": "diagram; map"
+    },
+    {
+        "chineseChar": "\u534a",
+        "howToRead": "b\u00e0n",
+        "englishEquivalent": "half"
+    },
+    {
+        "chineseChar": "\u8bed",
+        "howToRead": "y\u01d4",
+        "englishEquivalent": "language; speech"
+    },
+    {
+        "chineseChar": "\u4ed8",
+        "howToRead": "f\u00f9",
+        "englishEquivalent": "to pay; hand over"
+    },
+    {
+        "chineseChar": "\u70ed",
+        "howToRead": "r\u00e8",
+        "englishEquivalent": "hot"
+    },
+    {
+        "chineseChar": "\u6392",
+        "howToRead": "p\u00e1i",
+        "englishEquivalent": "a row; to arrange"
+    },
+    {
+        "chineseChar": "\u695a",
+        "howToRead": "ch\u01d4",
+        "englishEquivalent": "distinct; clear"
+    },
+    {
+        "chineseChar": "\u5077",
+        "howToRead": "t\u014du",
+        "englishEquivalent": "to steal"
+    },
+    {
+        "chineseChar": "\u6562",
+        "howToRead": "g\u01cen",
+        "englishEquivalent": "to dare"
+    },
+    {
+        "chineseChar": "\u6cb9",
+        "howToRead": "y\u00f3u",
+        "englishEquivalent": "oil"
+    },
+    {
+        "chineseChar": "\u9910",
+        "howToRead": "c\u0101n",
+        "englishEquivalent": "meal"
+    },
+    {
+        "chineseChar": "\u7834",
+        "howToRead": "p\u00f2",
+        "englishEquivalent": "broken; to destroy"
+    },
+    {
+        "chineseChar": "\u676f",
+        "howToRead": "b\u0113i",
+        "englishEquivalent": "cup"
+    },
+    {
+        "chineseChar": "\u5e02",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "market; city"
+    },
+    {
+        "chineseChar": "\u57ce",
+        "howToRead": "ch\u00e9ng",
+        "englishEquivalent": "city; town"
+    },
+    {
+        "chineseChar": "\u54c7",
+        "howToRead": "w\u0101",
+        "englishEquivalent": "child cry sound"
+    },
+    {
+        "chineseChar": "\u6743",
+        "howToRead": "qu\u00e1n",
+        "englishEquivalent": "authority; power"
+    },
+    {
+        "chineseChar": "\u67d0",
+        "howToRead": "m\u01d2u",
+        "englishEquivalent": "some; a certain"
+    },
+    {
+        "chineseChar": "\u6fc0",
+        "howToRead": "j\u012b",
+        "englishEquivalent": "to excite; fierce"
+    },
+    {
+        "chineseChar": "\u7acb",
+        "howToRead": "l\u00ec",
+        "englishEquivalent": "to stand"
+    },
+    {
+        "chineseChar": "\u7a0b",
+        "howToRead": "ch\u00e9ng",
+        "englishEquivalent": "rule; order"
+    },
+    {
+        "chineseChar": "\u4f0a",
+        "howToRead": "y\u012b",
+        "englishEquivalent": "he; she"
+    },
+    {
+        "chineseChar": "\u8ba8",
+        "howToRead": "t\u01ceo",
+        "englishEquivalent": "to invite; to discuss"
+    },
+    {
+        "chineseChar": "\u8d23",
+        "howToRead": "z\u00e9",
+        "englishEquivalent": "duty"
+    },
+    {
+        "chineseChar": "\u6628",
+        "howToRead": "zu\u00f3",
+        "englishEquivalent": "yesterday"
+    },
+    {
+        "chineseChar": "\u95ed",
+        "howToRead": "b\u00ec",
+        "englishEquivalent": "to close; to shut"
+    },
+    {
+        "chineseChar": "\u5ead",
+        "howToRead": "t\u00edng",
+        "englishEquivalent": "main hall; courtyard"
+    },
+    {
+        "chineseChar": "\u843d",
+        "howToRead": "lu\u00f2",
+        "englishEquivalent": "to set; to decline"
+    },
+    {
+        "chineseChar": "\u996d",
+        "howToRead": "f\u00e0n",
+        "englishEquivalent": "food; meal"
+    },
+    {
+        "chineseChar": "\u6797",
+        "howToRead": "l\u00edn",
+        "englishEquivalent": "forest"
+    },
+    {
+        "chineseChar": "\u6362",
+        "howToRead": "hu\u00e0n",
+        "englishEquivalent": "to change"
+    },
+    {
+        "chineseChar": "\u53ca",
+        "howToRead": "j\u00ed",
+        "englishEquivalent": "to reach; up to"
+    },
+    {
+        "chineseChar": "\u8239",
+        "howToRead": "chu\u00e1n",
+        "englishEquivalent": "boat"
+    },
+    {
+        "chineseChar": "\u4e89",
+        "howToRead": "zh\u0113ng",
+        "englishEquivalent": "to strive for"
+    },
+    {
+        "chineseChar": "\u731c",
+        "howToRead": "c\u0101i",
+        "englishEquivalent": "to guess"
+    },
+    {
+        "chineseChar": "\u7ea7",
+        "howToRead": "j\u00ed",
+        "englishEquivalent": "level; rank"
+    },
+    {
+        "chineseChar": "\u59c6",
+        "howToRead": "m\u01d4 ",
+        "englishEquivalent": "matron"
+    },
+    {
+        "chineseChar": "\u96f7",
+        "howToRead": "l\u00e9i",
+        "englishEquivalent": "thunder"
+    },
+    {
+        "chineseChar": "\u523b",
+        "howToRead": "k\u00e8",
+        "englishEquivalent": "quarter (hour); to cut"
+    },
+    {
+        "chineseChar": "\u5efa",
+        "howToRead": "ji\u00e0n",
+        "englishEquivalent": "to establish"
+    },
+    {
+        "chineseChar": "\u56e2",
+        "howToRead": "tu\u00e1n",
+        "englishEquivalent": "round"
+    },
+    {
+        "chineseChar": "\u738b",
+        "howToRead": "w\u00e1ng",
+        "englishEquivalent": "king"
+    },
+    {
+        "chineseChar": "\u60ca",
+        "howToRead": "j\u012bng",
+        "englishEquivalent": "frightened"
+    },
+    {
+        "chineseChar": "\u8fce",
+        "howToRead": "y\u00edng",
+        "englishEquivalent": "to welcome"
+    },
+    {
+        "chineseChar": "\u6bb5",
+        "howToRead": "du\u00e0n",
+        "englishEquivalent": "section"
+    },
+    {
+        "chineseChar": "\u6807",
+        "howToRead": "bi\u0101o",
+        "englishEquivalent": "sign; prize"
+    },
+    {
+        "chineseChar": "\u68c0",
+        "howToRead": "ji\u01cen",
+        "englishEquivalent": "to check"
+    },
+    {
+        "chineseChar": "\u5404",
+        "howToRead": "g\u00e8",
+        "englishEquivalent": "each; every"
+    },
+    {
+        "chineseChar": "\u4e49",
+        "howToRead": "y\u00ec",
+        "englishEquivalent": "justice"
+    },
+    {
+        "chineseChar": "\u767e",
+        "howToRead": "b\u01cei",
+        "englishEquivalent": "hundred"
+    },
+    {
+        "chineseChar": "\u6c11",
+        "howToRead": "m\u00edn",
+        "englishEquivalent": "the people"
+    },
+    {
+        "chineseChar": "\u529f",
+        "howToRead": "g\u014dng",
+        "englishEquivalent": "result; achievement"
+    },
+    {
+        "chineseChar": "\u552f",
+        "howToRead": "w\u011bi",
+        "englishEquivalent": "yes"
+    },
+    {
+        "chineseChar": "\u591c",
+        "howToRead": "y\u00e8",
+        "englishEquivalent": "night"
+    },
+    {
+        "chineseChar": "\u793a",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "to show"
+    },
+    {
+        "chineseChar": "\u9760",
+        "howToRead": "k\u00e0o",
+        "englishEquivalent": "to lean on"
+    },
+    {
+        "chineseChar": "\u91ca",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "to explain"
+    },
+    {
+        "chineseChar": "\u8138",
+        "howToRead": "li\u01cen",
+        "englishEquivalent": "face"
+    },
+    {
+        "chineseChar": "\u5f15",
+        "howToRead": "y\u01d0n",
+        "englishEquivalent": "to pull; to guide"
+    },
+    {
+        "chineseChar": "\u62e9",
+        "howToRead": "z\u00e9",
+        "englishEquivalent": "to select"
+    },
+    {
+        "chineseChar": "\u7591",
+        "howToRead": "y\u00ed",
+        "englishEquivalent": "to doubt"
+    },
+    {
+        "chineseChar": "\u8d76",
+        "howToRead": "g\u01cen",
+        "englishEquivalent": "to hurry"
+    },
+    {
+        "chineseChar": "\u4fe9",
+        "howToRead": "li\u01ce",
+        "englishEquivalent": "two (coll. \u4e24\uff09"
+    },
+    {
+        "chineseChar": "\u72ec",
+        "howToRead": "d\u00fa",
+        "englishEquivalent": "alone"
+    },
+    {
+        "chineseChar": "\u51b7",
+        "howToRead": "l\u011bng",
+        "englishEquivalent": "cold"
+    },
+    {
+        "chineseChar": "\u59b9",
+        "howToRead": "m\u00e8i",
+        "englishEquivalent": "younger sister"
+    },
+    {
+        "chineseChar": "\u697c",
+        "howToRead": "l\u00f3u",
+        "englishEquivalent": "building; floor"
+    },
+    {
+        "chineseChar": "\u76ae",
+        "howToRead": "p\u00ed",
+        "englishEquivalent": "leather; skin"
+    },
+    {
+        "chineseChar": "\u5b58",
+        "howToRead": "c\u00fan",
+        "englishEquivalent": "to exist; to deposit"
+    },
+    {
+        "chineseChar": "\u7ec3",
+        "howToRead": "li\u00e0n",
+        "englishEquivalent": "to practice"
+    },
+    {
+        "chineseChar": "\u5a18",
+        "howToRead": "ni\u00e1ng",
+        "englishEquivalent": "mother; young lady"
+    },
+    {
+        "chineseChar": "\u987f",
+        "howToRead": "d\u00f9n",
+        "englishEquivalent": "to pause; mw. for meals"
+    },
+    {
+        "chineseChar": "\u65ad",
+        "howToRead": "du\u00e0n",
+        "englishEquivalent": "to break; defiitely"
+    },
+    {
+        "chineseChar": "\u8bbe",
+        "howToRead": "sh\u00e8",
+        "englishEquivalent": "to set up"
+    },
+    {
+        "chineseChar": "\u677e",
+        "howToRead": "s\u014dng",
+        "englishEquivalent": "loose; to relax"
+    },
+    {
+        "chineseChar": "\u535a",
+        "howToRead": "b\u00f3",
+        "englishEquivalent": "rich; extensive"
+    },
+    {
+        "chineseChar": "\u7f6e",
+        "howToRead": "zh\u00ec",
+        "englishEquivalent": "to install"
+    },
+    {
+        "chineseChar": "\u9003",
+        "howToRead": "t\u00e1o",
+        "englishEquivalent": "to escape"
+    },
+    {
+        "chineseChar": "\u89c2",
+        "howToRead": "gu\u0101n",
+        "englishEquivalent": "to watch"
+    },
+    {
+        "chineseChar": "\u75db",
+        "howToRead": "t\u00f2ng",
+        "englishEquivalent": "ache; pain"
+    },
+    {
+        "chineseChar": "\u72c2",
+        "howToRead": "ku\u00e1ng",
+        "englishEquivalent": "mad; wild"
+    },
+    {
+        "chineseChar": "\u8db3",
+        "howToRead": "z\u00fa",
+        "englishEquivalent": "foot"
+    },
+    {
+        "chineseChar": "\u7801",
+        "howToRead": "m\u01ce",
+        "englishEquivalent": "number; code"
+    },
+    {
+        "chineseChar": "\u6050",
+        "howToRead": "k\u01d2ng",
+        "englishEquivalent": "afraid"
+    },
+    {
+        "chineseChar": "\u5409",
+        "howToRead": "j\u00ed",
+        "englishEquivalent": "lucky"
+    },
+    {
+        "chineseChar": "\u5386",
+        "howToRead": "l\u00ec",
+        "englishEquivalent": "calendar; to experience"
+    },
+    {
+        "chineseChar": "\u6162",
+        "howToRead": "m\u00e0n",
+        "englishEquivalent": "slow"
+    },
+    {
+        "chineseChar": "\u59bb",
+        "howToRead": "q\u012b",
+        "englishEquivalent": "wife"
+    },
+    {
+        "chineseChar": "\u5c71",
+        "howToRead": "sh\u0101n",
+        "englishEquivalent": "mountain"
+    },
+    {
+        "chineseChar": "\u666e",
+        "howToRead": "p\u01d4",
+        "englishEquivalent": "general; popular"
+    },
+    {
+        "chineseChar": "\u4ef7",
+        "howToRead": "ji\u00e0",
+        "englishEquivalent": "price; value"
+    },
+    {
+        "chineseChar": "\u5143",
+        "howToRead": "yu\u00e1n",
+        "englishEquivalent": "unit of money"
+    },
+    {
+        "chineseChar": "\u89d2",
+        "howToRead": "ji\u01ceo",
+        "englishEquivalent": "angle; 0.1\u5143"
+    },
+    {
+        "chineseChar": "\u6000",
+        "howToRead": "hu\u00e1i",
+        "englishEquivalent": "bosom; heart"
+    },
+    {
+        "chineseChar": "\u5e8a",
+        "howToRead": "chu\u00e1ng",
+        "englishEquivalent": "bed"
+    },
+    {
+        "chineseChar": "\u5965",
+        "howToRead": "\u00e0o",
+        "englishEquivalent": "obscure"
+    },
+    {
+        "chineseChar": "\u6a21",
+        "howToRead": "m\u00f3",
+        "englishEquivalent": "to imitate"
+    },
+    {
+        "chineseChar": "\u9a8c",
+        "howToRead": "y\u00e0n",
+        "englishEquivalent": "to examine"
+    },
+    {
+        "chineseChar": "\u7d22",
+        "howToRead": "su\u01d2",
+        "englishEquivalent": "to search; to ask"
+    },
+    {
+        "chineseChar": "\u8857",
+        "howToRead": "ji\u0113",
+        "englishEquivalent": "street"
+    },
+    {
+        "chineseChar": "\u547c",
+        "howToRead": "h\u016b",
+        "englishEquivalent": "to call"
+    },
+    {
+        "chineseChar": "\u795d",
+        "howToRead": "zh\u00f9",
+        "englishEquivalent": "to wish; to pray"
+    },
+    {
+        "chineseChar": "\u6599",
+        "howToRead": "li\u00e0o",
+        "englishEquivalent": "material; stuff"
+    },
+    {
+        "chineseChar": "\u4f11",
+        "howToRead": "xi\u016b",
+        "englishEquivalent": "to rest"
+    },
+    {
+        "chineseChar": "\u7075",
+        "howToRead": "l\u00edng",
+        "englishEquivalent": "quick; effective"
+    },
+    {
+        "chineseChar": "\u72f1",
+        "howToRead": "y\u00f9 ",
+        "englishEquivalent": "prison; lawsuit"
+    },
+    {
+        "chineseChar": "\u5267",
+        "howToRead": "j\u00f9",
+        "englishEquivalent": "drama; play"
+    },
+    {
+        "chineseChar": "\u4e71",
+        "howToRead": "lu\u00e0n",
+        "englishEquivalent": "messy; disorder"
+    },
+    {
+        "chineseChar": "\u5c55",
+        "howToRead": "zh\u01cen",
+        "englishEquivalent": "to spread out"
+    },
+    {
+        "chineseChar": "\u677f",
+        "howToRead": "b\u01cen",
+        "englishEquivalent": "board; plank"
+    },
+    {
+        "chineseChar": "\u627f",
+        "howToRead": "ch\u00e9ng",
+        "englishEquivalent": "to bear; to carry"
+    },
+    {
+        "chineseChar": "\u5219",
+        "howToRead": "z\u00e9",
+        "englishEquivalent": "in contrast; norm"
+    },
+    {
+        "chineseChar": "\u987e",
+        "howToRead": "g\u00f9",
+        "englishEquivalent": "to look after"
+    },
+    {
+        "chineseChar": "\u6df1",
+        "howToRead": "sh\u0113n",
+        "englishEquivalent": "deep; profound"
+    },
+    {
+        "chineseChar": "\u4ea7",
+        "howToRead": "ch\u01cen",
+        "englishEquivalent": "give birth; to produce"
+    },
+    {
+        "chineseChar": "\u6d17",
+        "howToRead": "x\u01d0",
+        "englishEquivalent": "to wash"
+    },
+    {
+        "chineseChar": "\u653f",
+        "howToRead": "zh\u00e8ng",
+        "englishEquivalent": "political"
+    },
+    {
+        "chineseChar": "\u8ff7",
+        "howToRead": "m\u00ed",
+        "englishEquivalent": "fan (of)"
+    },
+    {
+        "chineseChar": "\u9886",
+        "howToRead": "l\u01d0ng",
+        "englishEquivalent": "neck"
+    },
+    {
+        "chineseChar": "\u5348",
+        "howToRead": "w\u01d4",
+        "englishEquivalent": "noon"
+    },
+    {
+        "chineseChar": "\u7eb3",
+        "howToRead": "n\u00e0",
+        "englishEquivalent": "to receive; to bring in"
+    },
+    {
+        "chineseChar": "\u8c0e",
+        "howToRead": "hu\u01ceng ",
+        "englishEquivalent": "lie"
+    },
+    {
+        "chineseChar": "\u5177",
+        "howToRead": "j\u00f9",
+        "englishEquivalent": "tool; ability"
+    },
+    {
+        "chineseChar": "\u9000",
+        "howToRead": "tu\u00ec",
+        "englishEquivalent": "to retreat; to decline"
+    },
+    {
+        "chineseChar": "\u798f",
+        "howToRead": "f\u00fa",
+        "englishEquivalent": "luck; fortune"
+    },
+    {
+        "chineseChar": "\u4e60",
+        "howToRead": "x\u00ed",
+        "englishEquivalent": "to study; habit"
+    },
+    {
+        "chineseChar": "\u79d8",
+        "howToRead": "m\u00ec",
+        "englishEquivalent": "secret"
+    },
+    {
+        "chineseChar": "\u5976",
+        "howToRead": "n\u01cei",
+        "englishEquivalent": "milk; breast"
+    },
+    {
+        "chineseChar": "\u9047",
+        "howToRead": "y\u00f9",
+        "englishEquivalent": "to meet; to encounter"
+    },
+    {
+        "chineseChar": "\u804c",
+        "howToRead": "zh\u00ed",
+        "englishEquivalent": "office; duty"
+    },
+    {
+        "chineseChar": "\u67b6",
+        "howToRead": "ji\u00e0",
+        "englishEquivalent": "to support; framework"
+    },
+    {
+        "chineseChar": "\u5373",
+        "howToRead": "j\u00ed",
+        "englishEquivalent": "namely; at once"
+    },
+    {
+        "chineseChar": "\u633a",
+        "howToRead": "t\u01d0ng ",
+        "englishEquivalent": "to stand upright"
+    },
+    {
+        "chineseChar": "\u53f2",
+        "howToRead": "sh\u01d0",
+        "englishEquivalent": "history"
+    },
+    {
+        "chineseChar": "\u8d1f",
+        "howToRead": "f\u00f9",
+        "englishEquivalent": "to bear"
+    },
+    {
+        "chineseChar": "\u5343",
+        "howToRead": "qi\u0101n",
+        "englishEquivalent": "thousand"
+    },
+    {
+        "chineseChar": "\u8131",
+        "howToRead": "tu\u014d",
+        "englishEquivalent": "to take off"
+    },
+    {
+        "chineseChar": "\u745e",
+        "howToRead": "ru\u00ec",
+        "englishEquivalent": "auspicious"
+    },
+    {
+        "chineseChar": "\u80cc",
+        "howToRead": "b\u00e8i",
+        "englishEquivalent": "back of object"
+    },
+    {
+        "chineseChar": "\u4ec5",
+        "howToRead": "j\u01d0n",
+        "englishEquivalent": "barely; merely"
+    },
+    {
+        "chineseChar": "\u8ffd",
+        "howToRead": "zhu\u012b",
+        "englishEquivalent": "to chase"
+    },
+    {
+        "chineseChar": "\u4f26",
+        "howToRead": "l\u00fan",
+        "englishEquivalent": "relationship"
+    },
+    {
+        "chineseChar": "\u70b8",
+        "howToRead": "zh\u00e1",
+        "englishEquivalent": "to fry in oil"
+    },
+    {
+        "chineseChar": "\u8d44",
+        "howToRead": "z\u012b ",
+        "englishEquivalent": "property; wealth"
+    },
+    {
+        "chineseChar": "\u753b",
+        "howToRead": "hu\u00e0",
+        "englishEquivalent": "to draw; picture"
+    },
+    {
+        "chineseChar": "\u8e2a",
+        "howToRead": "z\u014dng ",
+        "englishEquivalent": "footprints; traces"
+    },
+    {
+        "chineseChar": "\u5c04",
+        "howToRead": "sh\u00e8",
+        "englishEquivalent": "to shoot"
+    },
+    {
+        "chineseChar": "\u5f03",
+        "howToRead": "q\u00ec",
+        "englishEquivalent": "to abandon"
+    },
+    {
+        "chineseChar": "\u50bb",
+        "howToRead": "sh\u01ce",
+        "englishEquivalent": "foolish"
+    },
+    {
+        "chineseChar": "\u85cf",
+        "howToRead": "c\u00e1ng",
+        "englishEquivalent": "to conceal; to store"
+    },
+    {
+        "chineseChar": "\u5c41",
+        "howToRead": "p\u00ec",
+        "englishEquivalent": "fart; nonsense"
+    },
+    {
+        "chineseChar": "\u77a7",
+        "howToRead": "qi\u00e1o ",
+        "englishEquivalent": "to glance at"
+    },
+    {
+        "chineseChar": "\u4fee",
+        "howToRead": "xi\u016b",
+        "englishEquivalent": "to repair"
+    },
+    {
+        "chineseChar": "\u5c38",
+        "howToRead": "sh\u012b ",
+        "englishEquivalent": "corpse"
+    },
+    {
+        "chineseChar": "\u95fb",
+        "howToRead": "w\u00e9n",
+        "englishEquivalent": "to hear; news"
+    },
+    {
+        "chineseChar": "\u5171",
+        "howToRead": "g\u00f2ng",
+        "englishEquivalent": "common; general"
+    },
+    {
+        "chineseChar": "\u61c2",
+        "howToRead": "d\u01d2ng",
+        "englishEquivalent": "to understand"
+    },
+    {
+        "chineseChar": "\u8482",
+        "howToRead": "d\u00ec ",
+        "englishEquivalent": "stem of plant"
+    },
+    {
+        "chineseChar": "\u5371",
+        "howToRead": "w\u0113i",
+        "englishEquivalent": "danger"
+    },
+    {
+        "chineseChar": "\u4e13",
+        "howToRead": "zhu\u0101n",
+        "englishEquivalent": "specialized"
+    },
+    {
+        "chineseChar": "\u5446",
+        "howToRead": "\u00e1i",
+        "englishEquivalent": "stupid"
+    },
+    {
+        "chineseChar": "\u4ecb",
+        "howToRead": "ji\u00e8",
+        "englishEquivalent": "to introduce"
+    },
+    {
+        "chineseChar": "\u8428",
+        "howToRead": "s\u00e0",
+        "englishEquivalent": "Bodhissatva"
+    },
+    {
+        "chineseChar": "\u9b54",
+        "howToRead": "m\u00f3",
+        "englishEquivalent": "devil; magic"
+    },
+    {
+        "chineseChar": "\u6025",
+        "howToRead": "j\u00ed",
+        "englishEquivalent": "urgent; worried"
+    },
+    {
+        "chineseChar": "\u78b0",
+        "howToRead": "p\u00e8ng",
+        "englishEquivalent": "to bump"
+    },
+    {
+        "chineseChar": "\u751a",
+        "howToRead": "sh\u00e9n",
+        "englishEquivalent": "variant of \u4ec0"
+    },
+    {
+        "chineseChar": "\u7cd5",
+        "howToRead": "g\u0101o ",
+        "englishEquivalent": "cake"
+    },
+    {
+        "chineseChar": "\u82e6",
+        "howToRead": "k\u01d4",
+        "englishEquivalent": "bitter; pain"
+    },
+    {
+        "chineseChar": "\u5ff5",
+        "howToRead": "ni\u00e0n",
+        "englishEquivalent": "to miss (sb); thought"
+    },
+    {
+        "chineseChar": "\u9002",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "to fit; suitable"
+    },
+    {
+        "chineseChar": "\u534e",
+        "howToRead": "hu\u00e1",
+        "englishEquivalent": "splendid"
+    },
+    {
+        "chineseChar": "\u51b2",
+        "howToRead": "ch\u014dng",
+        "englishEquivalent": "to clash; to rinse"
+    },
+    {
+        "chineseChar": "\u9a97",
+        "howToRead": "pi\u00e0n",
+        "englishEquivalent": "to cheat"
+    },
+    {
+        "chineseChar": "\u538c",
+        "howToRead": "y\u00e0n",
+        "englishEquivalent": "to loathe"
+    },
+    {
+        "chineseChar": "\u578b",
+        "howToRead": "x\u00edng",
+        "englishEquivalent": "model; type"
+    },
+    {
+        "chineseChar": "\u9ea6",
+        "howToRead": "m\u00e0i",
+        "englishEquivalent": "wheat; oats"
+    },
+    {
+        "chineseChar": "\u4f3c",
+        "howToRead": "s\u00ec",
+        "englishEquivalent": "-like"
+    },
+    {
+        "chineseChar": "\u7ea2",
+        "howToRead": "h\u00f3ng",
+        "englishEquivalent": "red"
+    },
+    {
+        "chineseChar": "\u503c",
+        "howToRead": "zh\u00ed",
+        "englishEquivalent": "value"
+    },
+    {
+        "chineseChar": "\u811a",
+        "howToRead": "ji\u01ceo",
+        "englishEquivalent": "foot"
+    },
+    {
+        "chineseChar": "\u516d",
+        "howToRead": "li\u00f9",
+        "englishEquivalent": "six"
+    },
+    {
+        "chineseChar": "\u8c0b",
+        "howToRead": "m\u00f3u ",
+        "englishEquivalent": "plan; scheme"
+    },
+    {
+        "chineseChar": "\u5957",
+        "howToRead": "t\u00e0o",
+        "englishEquivalent": "cover; mw. for sets"
+    },
+    {
+        "chineseChar": "\u51ef",
+        "howToRead": "k\u01cei",
+        "englishEquivalent": "triumphant"
+    },
+    {
+        "chineseChar": "\u4f17",
+        "howToRead": "zh\u00f2ng",
+        "englishEquivalent": "many; crowd"
+    },
+    {
+        "chineseChar": "\u9884",
+        "howToRead": "y\u00f9",
+        "englishEquivalent": "to advance; prepare"
+    },
+    {
+        "chineseChar": "\u9645",
+        "howToRead": "j\u00ec",
+        "englishEquivalent": "border; between"
+    },
+    {
+        "chineseChar": "\u54b1",
+        "howToRead": "z\u00e1/z\u00e1n ",
+        "englishEquivalent": "we; us"
+    },
+    {
+        "chineseChar": "\u6ce2",
+        "howToRead": "b\u014d",
+        "englishEquivalent": "wave"
+    },
+    {
+        "chineseChar": "\u536b",
+        "howToRead": "w\u00e8i",
+        "englishEquivalent": "to guard"
+    },
+    {
+        "chineseChar": "\u804a",
+        "howToRead": "li\u00e1o",
+        "englishEquivalent": "to chat"
+    },
+    {
+        "chineseChar": "\u517b",
+        "howToRead": "y\u01ceng",
+        "englishEquivalent": "to raise; to bring up"
+    },
+    {
+        "chineseChar": "\u5bfc",
+        "howToRead": "d\u01ceo",
+        "englishEquivalent": "to guide"
+    },
+    {
+        "chineseChar": "\u8651",
+        "howToRead": "l\u01dc",
+        "englishEquivalent": "to think over"
+    },
+    {
+        "chineseChar": "\u79c1",
+        "howToRead": "s\u012b",
+        "englishEquivalent": "private"
+    },
+    {
+        "chineseChar": "\u6234",
+        "howToRead": "d\u00e0i",
+        "englishEquivalent": "to put on"
+    },
+    {
+        "chineseChar": "\u6bc1",
+        "howToRead": "hu\u01d0",
+        "englishEquivalent": "to destroy"
+    },
+    {
+        "chineseChar": "\u9c7c",
+        "howToRead": "y\u00fa",
+        "englishEquivalent": "fish"
+    },
+    {
+        "chineseChar": "\u6eda",
+        "howToRead": "g\u01d4n",
+        "englishEquivalent": "to boil"
+    },
+    {
+        "chineseChar": "\u5fd7",
+        "howToRead": "zh\u00ec",
+        "englishEquivalent": "sign; ambition"
+    },
+    {
+        "chineseChar": "\u6742",
+        "howToRead": "z\u00e1",
+        "englishEquivalent": "mixed"
+    },
+    {
+        "chineseChar": "\u5c45",
+        "howToRead": "j\u016b",
+        "englishEquivalent": "to reside; residence"
+    },
+    {
+        "chineseChar": "\u8bcd",
+        "howToRead": "c\u00ed",
+        "englishEquivalent": "word"
+    },
+    {
+        "chineseChar": "\u98df",
+        "howToRead": "sh\u00ed",
+        "englishEquivalent": "food"
+    },
+    {
+        "chineseChar": "\u8bfa",
+        "howToRead": "nu\u00f2",
+        "englishEquivalent": "promise"
+    },
+    {
+        "chineseChar": "\u8bfb",
+        "howToRead": "d\u00fa",
+        "englishEquivalent": "to read"
+    },
+    {
+        "chineseChar": "\u8bef",
+        "howToRead": "w\u00f9",
+        "englishEquivalent": "mistake"
+    },
+    {
+        "chineseChar": "\u6492",
+        "howToRead": "s\u0101",
+        "englishEquivalent": "to release"
+    },
+    {
+        "chineseChar": "\u7a81",
+        "howToRead": "t\u016b",
+        "englishEquivalent": "to dash; sudden"
+    },
+    {
+        "chineseChar": "\u725b",
+        "howToRead": "ni\u00fa",
+        "englishEquivalent": "cow"
+    },
+    {
+        "chineseChar": "\u9986",
+        "howToRead": "gu\u01cen",
+        "englishEquivalent": "building; shop"
+    },
+    {
+        "chineseChar": "\u89c4",
+        "howToRead": "gu\u012b",
+        "englishEquivalent": "a rule; compass"
+    },
+    {
+        "chineseChar": "\u966a",
+        "howToRead": "p\u00e9i",
+        "englishEquivalent": "to accompany"
+    },
+    {
+        "chineseChar": "\u5dde",
+        "howToRead": "zh\u014du ",
+        "englishEquivalent": "a state"
+    },
+    {
+        "chineseChar": "\u8089",
+        "howToRead": "r\u00f2u",
+        "englishEquivalent": "flesh; meat"
+    },
+    {
+        "chineseChar": "\u5f62",
+        "howToRead": "x\u00edng",
+        "englishEquivalent": "form; appear"
+    },
+    {
+        "chineseChar": "\u51f6",
+        "howToRead": "xi\u014dng ",
+        "englishEquivalent": "culprit; scary"
+    },
+    {
+        "chineseChar": "\u68ee",
+        "howToRead": "s\u0113n",
+        "englishEquivalent": "forest"
+    },
+    {
+        "chineseChar": "\u5546",
+        "howToRead": "sh\u0101ng",
+        "englishEquivalent": "commernce"
+    },
+    {
+        "chineseChar": "\u7eaa",
+        "howToRead": "j\u00ec",
+        "englishEquivalent": "order; to discipline"
+    },
+    {
+        "chineseChar": "\u6d6a",
+        "howToRead": "l\u00e0ng",
+        "englishEquivalent": "wave"
+    },
+    {
+        "chineseChar": "\u77f3",
+        "howToRead": "sh\u00ed",
+        "englishEquivalent": "stone"
+    },
+    {
+        "chineseChar": "\u987a",
+        "howToRead": "sh\u00f9n",
+        "englishEquivalent": "to obey; along"
+    },
+    {
+        "chineseChar": "\u4e3e",
+        "howToRead": "j\u01d4",
+        "englishEquivalent": "to lift"
+    },
+    {
+        "chineseChar": "\u6309",
+        "howToRead": "\u00e0n",
+        "englishEquivalent": "to press; to restrain"
+    },
+    {
+        "chineseChar": "\u65c5",
+        "howToRead": "l\u01da",
+        "englishEquivalent": "journey"
+    },
+    {
+        "chineseChar": "\u52aa",
+        "howToRead": "n\u01d4",
+        "englishEquivalent": "to exert"
+    },
+    {
+        "chineseChar": "\u575a",
+        "howToRead": "ji\u0101n",
+        "englishEquivalent": "strong"
+    },
+    {
+        "chineseChar": "\u6d4b",
+        "howToRead": "c\u00e8",
+        "englishEquivalent": "to measure"
+    },
+    {
+        "chineseChar": "\u514d",
+        "howToRead": "mi\u01cen",
+        "englishEquivalent": "to exempt; to avoid"
+    },
+    {
+        "chineseChar": "\u5594",
+        "howToRead": "\u014d",
+        "englishEquivalent": "I see; oh"
+    },
+    {
+        "chineseChar": "\u4e1d",
+        "howToRead": "s\u012b",
+        "englishEquivalent": "silk"
+    },
+    {
+        "chineseChar": "\u8f86",
+        "howToRead": "li\u00e0ng ",
+        "englishEquivalent": "mw. for vehicles"
+    },
+    {
+        "chineseChar": "\u4e54",
+        "howToRead": "qi\u00e1o ",
+        "englishEquivalent": "tall; lofty"
+    },
+    {
+        "chineseChar": "\u9632",
+        "howToRead": "f\u00e1ng",
+        "englishEquivalent": "to protect"
+    },
+    {
+        "chineseChar": "\u53e5",
+        "howToRead": "j\u00f9",
+        "englishEquivalent": "sentence"
+    },
+    {
+        "chineseChar": "\u5370",
+        "howToRead": "y\u00ecn",
+        "englishEquivalent": "to print; image"
+    },
+    {
+        "chineseChar": "\u604b",
+        "howToRead": "li\u00e0n",
+        "englishEquivalent": "to feel attached to"
+    },
+    {
+        "chineseChar": "\u5f17",
+        "howToRead": "f\u00fa ",
+        "englishEquivalent": "not, negative"
+    },
+    {
+        "chineseChar": "\u5b63",
+        "howToRead": "j\u00ec",
+        "englishEquivalent": "season"
+    },
+    {
+        "chineseChar": "\u4e25",
+        "howToRead": "y\u00e1n",
+        "englishEquivalent": "strict; tight"
+    },
+    {
+        "chineseChar": "\u63a8",
+        "howToRead": "tu\u012b",
+        "englishEquivalent": "to push"
+    },
+    {
+        "chineseChar": "\u4f2f",
+        "howToRead": "b\u00f3",
+        "englishEquivalent": "eldest uncle"
+    },
+    {
+        "chineseChar": "\u8389",
+        "howToRead": "l\u00ec ",
+        "englishEquivalent": "white jasmine"
+    },
+    {
+        "chineseChar": "\u6b66",
+        "howToRead": "w\u01d4",
+        "englishEquivalent": "martial"
+    },
+    {
+        "chineseChar": "\u80dc",
+        "howToRead": "sh\u00e8ng",
+        "englishEquivalent": "victory; better"
+    },
+    {
+        "chineseChar": "\u6bdb",
+        "howToRead": "m\u00e1o",
+        "englishEquivalent": "hair; coarse"
+    },
+    {
+        "chineseChar": "\u538b",
+        "howToRead": "y\u0101",
+        "englishEquivalent": "to push down"
+    },
+    {
+        "chineseChar": "\u8d25",
+        "howToRead": "b\u00e0i",
+        "englishEquivalent": "to defeat"
+    },
+    {
+        "chineseChar": "\u7a76",
+        "howToRead": "ji\u016b",
+        "englishEquivalent": "after all; to investigate"
+    },
+    {
+        "chineseChar": "\u8bc4",
+        "howToRead": "p\u00edng",
+        "englishEquivalent": "to comment; criticize"
+    },
+    {
+        "chineseChar": "\u5c4b",
+        "howToRead": "w\u016b",
+        "englishEquivalent": "house; room"
+    },
+    {
+        "chineseChar": "\u53cc",
+        "howToRead": "shu\u0101ng",
+        "englishEquivalent": "pair; double"
+    },
+    {
+        "chineseChar": "\u7259",
+        "howToRead": "y\u00e1",
+        "englishEquivalent": "tooth"
+    },
+    {
+        "chineseChar": "\u6597",
+        "howToRead": "d\u00f2u",
+        "englishEquivalent": "to fight"
+    },
+    {
+        "chineseChar": "\u9e21",
+        "howToRead": "j\u012b",
+        "englishEquivalent": "chicken"
+    },
+    {
+        "chineseChar": "\u5ba1",
+        "howToRead": "sh\u011bn",
+        "englishEquivalent": "to examine"
+    },
+    {
+        "chineseChar": "\u5357",
+        "howToRead": "n\u00e1n",
+        "englishEquivalent": "South"
+    },
+    {
+        "chineseChar": "\u901f",
+        "howToRead": "s\u00f9",
+        "englishEquivalent": "fast; rapid"
+    },
+    {
+        "chineseChar": "\u8822",
+        "howToRead": "ch\u01d4n ",
+        "englishEquivalent": "stupid"
+    },
+    {
+        "chineseChar": "\u4e08",
+        "howToRead": "zh\u00e0ng ",
+        "englishEquivalent": "husband"
+    },
+    {
+        "chineseChar": "\u5b88",
+        "howToRead": "sh\u01d2u",
+        "englishEquivalent": "to guard"
+    },
+    {
+        "chineseChar": "\u83b7",
+        "howToRead": "hu\u00f2",
+        "englishEquivalent": "to capture; to reap"
+    },
+    {
+        "chineseChar": "\u516b",
+        "howToRead": "b\u0101",
+        "englishEquivalent": "eight"
+    },
+    {
+        "chineseChar": "\u81f4",
+        "howToRead": "zh\u00ec",
+        "englishEquivalent": "fine; delicate"
+    },
+    {
+        "chineseChar": "\u7ec6",
+        "howToRead": "x\u00ec",
+        "englishEquivalent": "thin; fine"
+    },
+    {
+        "chineseChar": "\u52d2",
+        "howToRead": "l\u00e8",
+        "englishEquivalent": "to rein in; to compel"
+    },
+    {
+        "chineseChar": "\u79f0",
+        "howToRead": "ch\u0113ng",
+        "englishEquivalent": "to weigh; name"
+    },
+    {
+        "chineseChar": "\u5854",
+        "howToRead": "t\u01ce",
+        "englishEquivalent": "pagoda; tower"
+    },
+    {
+        "chineseChar": "\u4e22",
+        "howToRead": "di\u016b",
+        "englishEquivalent": "to lose"
+    },
+    {
+        "chineseChar": "\u51b0",
+        "howToRead": "b\u012bng",
+        "englishEquivalent": "ice"
+    },
+    {
+        "chineseChar": "\u6001",
+        "howToRead": "t\u00e0i",
+        "englishEquivalent": "attitude"
+    },
+    {
+        "chineseChar": "\u5413",
+        "howToRead": "xi\u00e0",
+        "englishEquivalent": "to scare"
+    },
+    {
+        "chineseChar": "\u53e4",
+        "howToRead": "g\u01d4",
+        "englishEquivalent": "ancient"
+    },
+    {
+        "chineseChar": "\u4ea1",
+        "howToRead": "w\u00e1ng",
+        "englishEquivalent": "to die"
+    },
+    {
+        "chineseChar": "\u72b6",
+        "howToRead": "zhu\u00e0ng",
+        "englishEquivalent": "suit; strong"
+    },
+    {
+        "chineseChar": "\u9c81",
+        "howToRead": "l\u01d4 ",
+        "englishEquivalent": "foolish, Shandong"
+    },
+    {
+        "chineseChar": "\u7597",
+        "howToRead": "li\u00e1o ",
+        "englishEquivalent": "to be healed"
+    },
+    {
+        "chineseChar": "\u64cd",
+        "howToRead": "c\u0101o",
+        "englishEquivalent": "to operate"
+    },
+    {
+        "chineseChar": "\u9057",
+        "howToRead": "y\u00ed",
+        "englishEquivalent": "to lose; to omit"
+    },
+    {
+        "chineseChar": "\u5224",
+        "howToRead": "p\u00e0n",
+        "englishEquivalent": "to judge"
+    },
+    {
+        "chineseChar": "\u54cd",
+        "howToRead": "xi\u01ceng",
+        "englishEquivalent": "sound; noise"
+    },
+    {
+        "chineseChar": "\u7f51",
+        "howToRead": "w\u01ceng",
+        "englishEquivalent": "net; network"
+    },
+    {
+        "chineseChar": "\u7bb1",
+        "howToRead": "xi\u0101ng",
+        "englishEquivalent": "box; chest"
+    },
+    {
+        "chineseChar": "\u8d27",
+        "howToRead": "hu\u00f2",
+        "englishEquivalent": "goods"
+    },
+    {
+        "chineseChar": "\u56f4",
+        "howToRead": "w\u00e9i",
+        "englishEquivalent": "to encircle"
+    },
+    {
+        "chineseChar": "\u7b7e",
+        "howToRead": "qi\u0101n",
+        "englishEquivalent": "to sign; label"
+    },
+    {
+        "chineseChar": "\u724c",
+        "howToRead": "p\u00e1i",
+        "englishEquivalent": "card; tablet"
+    },
+    {
+        "chineseChar": "\u6237",
+        "howToRead": "h\u00f9",
+        "englishEquivalent": "door; household"
+    },
+    {
+        "chineseChar": "\u5bfb",
+        "howToRead": "x\u00fan",
+        "englishEquivalent": "to search"
+    },
+    {
+        "chineseChar": "\u8d28",
+        "howToRead": "zh\u00ec",
+        "englishEquivalent": "character; quality"
+    },
+    {
+        "chineseChar": "\u4f9b",
+        "howToRead": "g\u014dng",
+        "englishEquivalent": "to supply"
+    },
+    {
+        "chineseChar": "\u5956",
+        "howToRead": "ji\u01ceng",
+        "englishEquivalent": "prize"
+    },
+    {
+        "chineseChar": "\u888b",
+        "howToRead": "d\u00e0i ",
+        "englishEquivalent": "pocket"
+    },
+    {
+        "chineseChar": "\u80e1",
+        "howToRead": "h\u00fa",
+        "englishEquivalent": "beard; mustache"
+    },
+    {
+        "chineseChar": "\u810f",
+        "howToRead": "z\u0101ng ",
+        "englishEquivalent": "dirty"
+    },
+    {
+        "chineseChar": "\u5802",
+        "howToRead": "t\u00e1ng",
+        "englishEquivalent": "hall; mw. for furniture sets"
+    },
+    {
+        "chineseChar": "\u66fc",
+        "howToRead": "m\u00e0n ",
+        "englishEquivalent": "extended"
+    },
+    {
+        "chineseChar": "\u6548",
+        "howToRead": "xi\u00e0o",
+        "englishEquivalent": "effect"
+    },
+    {
+        "chineseChar": "\u9732",
+        "howToRead": "l\u00f9",
+        "englishEquivalent": "dew; to reveal"
+    },
+    {
+        "chineseChar": "\u66ff",
+        "howToRead": "t\u00ec",
+        "englishEquivalent": "on behalf"
+    },
+    {
+        "chineseChar": "\u5a1c",
+        "howToRead": "nu\u00f3",
+        "englishEquivalent": "elegant; delicate"
+    },
+    {
+        "chineseChar": "\u5ea7",
+        "howToRead": "zu\u00f2",
+        "englishEquivalent": "seat"
+    },
+    {
+        "chineseChar": "\u56ed",
+        "howToRead": "yu\u00e1n",
+        "englishEquivalent": "park"
+    },
+    {
+        "chineseChar": "\u62e5",
+        "howToRead": "y\u01d2ng",
+        "englishEquivalent": "to embrace"
+    },
+    {
+        "chineseChar": "\u775b",
+        "howToRead": "j\u012bng",
+        "englishEquivalent": "eye; eyeball"
+    },
+    {
+        "chineseChar": "\u5192",
+        "howToRead": "m\u00e0o",
+        "englishEquivalent": "to emit"
+    },
+    {
+        "chineseChar": "\u751c",
+        "howToRead": "ti\u00e1n ",
+        "englishEquivalent": "sweet"
+    },
+    {
+        "chineseChar": "\u80a1",
+        "howToRead": "g\u01d4",
+        "englishEquivalent": "portion; thigh"
+    },
+    {
+        "chineseChar": "\u9999",
+        "howToRead": "xi\u0101ng",
+        "englishEquivalent": "fragrant"
+    },
+    {
+        "chineseChar": "\u7b14",
+        "howToRead": "b\u01d0",
+        "englishEquivalent": "pen; brush"
+    },
+    {
+        "chineseChar": "\u6c99",
+        "howToRead": "sh\u0101",
+        "englishEquivalent": "sand"
+    },
+    {
+        "chineseChar": "\u6270",
+        "howToRead": "r\u01ceo",
+        "englishEquivalent": "to disturb"
+    },
+    {
+        "chineseChar": "\u6311",
+        "howToRead": "ti\u0101o",
+        "englishEquivalent": "to choose"
+    },
+    {
+        "chineseChar": "\u59d1",
+        "howToRead": "g\u016b ",
+        "englishEquivalent": "aunt"
+    },
+    {
+        "chineseChar": "\u7206",
+        "howToRead": "b\u00e0o",
+        "englishEquivalent": "to explode"
+    },
+    {
+        "chineseChar": "\u9547",
+        "howToRead": "zh\u00e8n",
+        "englishEquivalent": "suppress; small town"
+    },
+    {
+        "chineseChar": "\u66b4",
+        "howToRead": "b\u00e0o",
+        "englishEquivalent": "violent; cruel"
+    },
+    {
+        "chineseChar": "\u56f0",
+        "howToRead": "k\u00f9n",
+        "englishEquivalent": "sleepy; difficult"
+    },
+    {
+        "chineseChar": "\u9879",
+        "howToRead": "xi\u00e0ng",
+        "englishEquivalent": "item; back of neck"
+    },
+    {
+        "chineseChar": "\u6982",
+        "howToRead": "g\u00e0i",
+        "englishEquivalent": "approximate"
+    },
+    {
+        "chineseChar": "\u6469",
+        "howToRead": "m\u00f3",
+        "englishEquivalent": "to rub"
+    },
+    {
+        "chineseChar": "\u867d",
+        "howToRead": "su\u012b",
+        "englishEquivalent": "although"
+    },
+    {
+        "chineseChar": "\u7ebd",
+        "howToRead": "ni\u01d4 ",
+        "englishEquivalent": "knot; button; knob"
+    },
+    {
+        "chineseChar": "\u4eab",
+        "howToRead": "xi\u01ceng",
+        "englishEquivalent": "to enjoy"
+    },
+    {
+        "chineseChar": "\u914d",
+        "howToRead": "p\u00e8i",
+        "englishEquivalent": "to join; to match"
+    },
+    {
+        "chineseChar": "\u8ff9",
+        "howToRead": "j\u00ec ",
+        "englishEquivalent": "traces"
+    },
+    {
+        "chineseChar": "\u767b",
+        "howToRead": "d\u0113ng",
+        "englishEquivalent": "to ascend"
+    },
+    {
+        "chineseChar": "\u8bde",
+        "howToRead": "d\u00e0n ",
+        "englishEquivalent": "give birth"
+    },
+    {
+        "chineseChar": "\u7adf",
+        "howToRead": "j\u00ecng",
+        "englishEquivalent": "unexpectedly"
+    },
+    {
+        "chineseChar": "\u53d4",
+        "howToRead": "sh\u016b ",
+        "englishEquivalent": "father's younger brother"
+    },
+    {
+        "chineseChar": "\u6355",
+        "howToRead": "b\u01d4 ",
+        "englishEquivalent": "to arrest"
+    },
+    {
+        "chineseChar": "\u8d4c",
+        "howToRead": "d\u01d4 ",
+        "englishEquivalent": "to gamble"
+    },
+    {
+        "chineseChar": "\u963b",
+        "howToRead": "z\u01d4",
+        "englishEquivalent": "to obstruct"
+    },
+    {
+        "chineseChar": "\u5f69",
+        "howToRead": "c\u01cei",
+        "englishEquivalent": "color; variety"
+    },
+    {
+        "chineseChar": "\u642c",
+        "howToRead": "b\u0101n",
+        "englishEquivalent": "to move (house)"
+    },
+    {
+        "chineseChar": "\u5c5e",
+        "howToRead": "sh\u01d4",
+        "englishEquivalent": "category; affiliation"
+    },
+    {
+        "chineseChar": "\u62db",
+        "howToRead": "zh\u0101o",
+        "englishEquivalent": "to recruit"
+    },
+    {
+        "chineseChar": "\u5a46",
+        "howToRead": "p\u00f3",
+        "englishEquivalent": "grandmother"
+    },
+    {
+        "chineseChar": "\u5de7",
+        "howToRead": "qi\u01ceo",
+        "englishEquivalent": "opportunely; timely"
+    },
+    {
+        "chineseChar": "\u9aa8",
+        "howToRead": "g\u01d4",
+        "englishEquivalent": "bone"
+    },
+    {
+        "chineseChar": "\u585e",
+        "howToRead": "s\u0101i",
+        "englishEquivalent": "to stop up"
+    },
+    {
+        "chineseChar": "\u5269",
+        "howToRead": "sh\u00e8ng",
+        "englishEquivalent": "to remain"
+    },
+    {
+        "chineseChar": "\u9177",
+        "howToRead": "k\u00f9",
+        "englishEquivalent": "ruthless; cool"
+    },
+    {
+        "chineseChar": "\u5561",
+        "howToRead": "f\u0113i ",
+        "englishEquivalent": "coffee; morphine"
+    },
+    {
+        "chineseChar": "\u8bfe",
+        "howToRead": "k\u00e8",
+        "englishEquivalent": "subject; lesson"
+    },
+    {
+        "chineseChar": "\u70df",
+        "howToRead": "y\u0101n",
+        "englishEquivalent": "cigarette; to smoke"
+    },
+    {
+        "chineseChar": "\u6444",
+        "howToRead": "sh\u00e8",
+        "englishEquivalent": "to absorb"
+    },
+    {
+        "chineseChar": "\u5c01",
+        "howToRead": "f\u0113ng",
+        "englishEquivalent": "to grant; title"
+    },
+    {
+        "chineseChar": "\u5496",
+        "howToRead": "k\u0101 ",
+        "englishEquivalent": "coffee (phonetic)"
+    },
+    {
+        "chineseChar": "\u4f4e",
+        "howToRead": "d\u012b",
+        "englishEquivalent": "low; beneath"
+    },
+    {
+        "chineseChar": "\u6280",
+        "howToRead": "j\u00ec",
+        "englishEquivalent": "skill"
+    },
+    {
+        "chineseChar": "\u8fdf",
+        "howToRead": "ch\u00ed ",
+        "englishEquivalent": "late; slow"
+    },
+    {
+        "chineseChar": "\u7eb8",
+        "howToRead": "zh\u01d0",
+        "englishEquivalent": "paper"
+    },
+    {
+        "chineseChar": "\u70e7",
+        "howToRead": "sh\u0101o",
+        "englishEquivalent": "to cook; roast/bake"
+    },
+    {
+        "chineseChar": "\u59d4",
+        "howToRead": "w\u011bi",
+        "englishEquivalent": "to entrust"
+    },
+    {
+        "chineseChar": "\u6697",
+        "howToRead": "\u00e0n",
+        "englishEquivalent": "dark; gloomy"
+    },
+    {
+        "chineseChar": "\u5de6",
+        "howToRead": "zu\u01d2",
+        "englishEquivalent": "left"
+    },
+    {
+        "chineseChar": "\u8f93",
+        "howToRead": "sh\u016b",
+        "englishEquivalent": "to lose"
+    },
+    {
+        "chineseChar": "\u66f2",
+        "howToRead": "q\u01d4",
+        "englishEquivalent": "song; tune"
+    },
+    {
+        "chineseChar": "\u4ecd",
+        "howToRead": "r\u00e9ng",
+        "englishEquivalent": "still; yet"
+    },
+    {
+        "chineseChar": "\u8bad",
+        "howToRead": "x\u00f9n",
+        "englishEquivalent": "to tell; to teach"
+    },
+    {
+        "chineseChar": "\u501f",
+        "howToRead": "ji\u00e8",
+        "englishEquivalent": "to lend; to borrow"
+    },
+    {
+        "chineseChar": "\u6254",
+        "howToRead": "r\u0113ng ",
+        "englishEquivalent": "to throw"
+    },
+    {
+        "chineseChar": "\u5584",
+        "howToRead": "sh\u00e0n",
+        "englishEquivalent": "virtuous; kind"
+    },
+    {
+        "chineseChar": "\u793e",
+        "howToRead": "sh\u00e8",
+        "englishEquivalent": "society"
+    },
+    {
+        "chineseChar": "\u8f6e",
+        "howToRead": "l\u00fan",
+        "englishEquivalent": "wheel; by turns"
+    },
+    {
+        "chineseChar": "\u9876",
+        "howToRead": "d\u01d0ng",
+        "englishEquivalent": "apex; to replace"
+    },
+    {
+        "chineseChar": "\u806a",
+        "howToRead": "c\u014dng",
+        "englishEquivalent": "intelligent"
+    },
+    {
+        "chineseChar": "\u79c0",
+        "howToRead": "xi\u00f9",
+        "englishEquivalent": "handsome; elegant"
+    },
+    {
+        "chineseChar": "\u5200",
+        "howToRead": "d\u0101o",
+        "englishEquivalent": "knife"
+    },
+    {
+        "chineseChar": "\u83ab",
+        "howToRead": "m\u00f2",
+        "englishEquivalent": "do not"
+    },
+    {
+        "chineseChar": "\u817f",
+        "howToRead": "tu\u01d0 ",
+        "englishEquivalent": "legs; thighs"
+    },
+    {
+        "chineseChar": "\u65cf",
+        "howToRead": "z\u00fa",
+        "englishEquivalent": "race; nationality"
+    },
+    {
+        "chineseChar": "\u978b",
+        "howToRead": "xi\u00e9 ",
+        "englishEquivalent": "shoes"
+    },
+    {
+        "chineseChar": "\u5175",
+        "howToRead": "b\u012bng",
+        "englishEquivalent": "soldiers"
+    },
+    {
+        "chineseChar": "\u9501",
+        "howToRead": "su\u01d2",
+        "englishEquivalent": "lock"
+    },
+    {
+        "chineseChar": "\u59ae",
+        "howToRead": "n\u012b ",
+        "englishEquivalent": "girl"
+    },
+    {
+        "chineseChar": "\u5f02",
+        "howToRead": "y\u00ec",
+        "englishEquivalent": "different; other"
+    },
+    {
+        "chineseChar": "\u8a93",
+        "howToRead": "sh\u00ec ",
+        "englishEquivalent": "swear; oath"
+    },
+    {
+        "chineseChar": "\u6811",
+        "howToRead": "sh\u00f9",
+        "englishEquivalent": "tree"
+    },
+    {
+        "chineseChar": "\u6728",
+        "howToRead": "m\u00f9",
+        "englishEquivalent": "tree; wood"
+    },
+    {
+        "chineseChar": "\u62a2",
+        "howToRead": "qi\u01ceng ",
+        "englishEquivalent": "to plunder"
+    },
+    {
+        "chineseChar": "\u6863",
+        "howToRead": "d\u01ceng",
+        "englishEquivalent": "grade (of goods); shelves"
+    },
+    {
+        "chineseChar": "\u96c7",
+        "howToRead": "g\u00f9 ",
+        "englishEquivalent": "to employ"
+    },
+    {
+        "chineseChar": "\u5e7f",
+        "howToRead": "gu\u01ceng",
+        "englishEquivalent": "wide"
+    },
+    {
+        "chineseChar": "\u4e39",
+        "howToRead": "d\u0101n ",
+        "englishEquivalent": "cinnabar"
+    },
+    {
+        "chineseChar": "\u94f6",
+        "howToRead": "y\u00edn",
+        "englishEquivalent": "silver"
+    },
+    {
+        "chineseChar": "\u955c",
+        "howToRead": "j\u00ecng",
+        "englishEquivalent": "mirror"
+    },
+    {
+        "chineseChar": "\u7fa4",
+        "howToRead": "q\u00fan",
+        "englishEquivalent": "group"
+    },
+    {
+        "chineseChar": "\u5766",
+        "howToRead": "t\u01cen ",
+        "englishEquivalent": "flat; smooth"
+    },
+    {
+        "chineseChar": "\u6c49",
+        "howToRead": "h\u00e0n",
+        "englishEquivalent": "Han people"
+    },
+    {
+        "chineseChar": "\u571f",
+        "howToRead": "t\u01d4",
+        "englishEquivalent": "earth"
+    },
+    {
+        "chineseChar": "\u77ed",
+        "howToRead": "du\u01cen",
+        "englishEquivalent": "short; brief"
+    },
+    {
+        "chineseChar": "\u4f34",
+        "howToRead": "b\u00e0n",
+        "englishEquivalent": "partner"
+    },
+    {
+        "chineseChar": "\u64ad",
+        "howToRead": "b\u014d",
+        "englishEquivalent": "to scatter"
+    },
+    {
+        "chineseChar": "\u73af",
+        "howToRead": "hu\u00e1n",
+        "englishEquivalent": "ring; to circle"
+    },
+    {
+        "chineseChar": "\u6068",
+        "howToRead": "h\u00e8n",
+        "englishEquivalent": "to hate"
+    },
+    {
+        "chineseChar": "\u79fb",
+        "howToRead": "y\u00ed",
+        "englishEquivalent": "to move; to alter"
+    },
+    {
+        "chineseChar": "\u7f16",
+        "howToRead": "bi\u0101n",
+        "englishEquivalent": "to organize; to compile"
+    },
+    {
+        "chineseChar": "\u6e29",
+        "howToRead": "w\u0113n",
+        "englishEquivalent": "warm"
+    },
+    {
+        "chineseChar": "\u523a",
+        "howToRead": "c\u00ec",
+        "englishEquivalent": "to stab; to pierce"
+    },
+    {
+        "chineseChar": "\u6beb",
+        "howToRead": "h\u00e1o ",
+        "englishEquivalent": "fine hair"
+    },
+    {
+        "chineseChar": "\u53f3",
+        "howToRead": "y\u00f2u",
+        "englishEquivalent": "right"
+    },
+    {
+        "chineseChar": "\u91ce",
+        "howToRead": "y\u011b",
+        "englishEquivalent": "field; wild"
+    },
+    {
+        "chineseChar": "\u54ed",
+        "howToRead": "k\u016b",
+        "englishEquivalent": "to cry"
+    },
+    {
+        "chineseChar": "\u904d",
+        "howToRead": "bi\u00e0n",
+        "englishEquivalent": "everywhere; all over"
+    },
+    {
+        "chineseChar": "\u5e93",
+        "howToRead": "k\u00f9",
+        "englishEquivalent": "warehouse"
+    },
+    {
+        "chineseChar": "\u642d",
+        "howToRead": "d\u0101",
+        "englishEquivalent": "to put up"
+    },
+    {
+        "chineseChar": "\u5eb7",
+        "howToRead": "k\u0101ng",
+        "englishEquivalent": "healthy"
+    },
+    {
+        "chineseChar": "\u75c7",
+        "howToRead": "zh\u00e8ng",
+        "englishEquivalent": "disease; illness"
+    },
+    {
+        "chineseChar": "\u8363",
+        "howToRead": "r\u00f3ng",
+        "englishEquivalent": "glory; honor"
+    },
+    {
+        "chineseChar": "\u5145",
+        "howToRead": "ch\u014dng",
+        "englishEquivalent": "to fill; to satisfy"
+    },
+    {
+        "chineseChar": "\u521b",
+        "howToRead": "chu\u0101ng",
+        "englishEquivalent": "a wound"
+    },
+    {
+        "chineseChar": "\u5c1d",
+        "howToRead": "ch\u00e1ng ",
+        "englishEquivalent": "taste; experience"
+    },
+    {
+        "chineseChar": "\u5217",
+        "howToRead": "li\u00e8",
+        "englishEquivalent": "to arrange; list"
+    },
+    {
+        "chineseChar": "\u6bd5",
+        "howToRead": "b\u00ec",
+        "englishEquivalent": "the whole of; to finish"
+    },
+    {
+        "chineseChar": "\u822c",
+        "howToRead": "b\u0101n",
+        "englishEquivalent": "sort; kind"
+    },
+    {
+        "chineseChar": "\u805a",
+        "howToRead": "j\u00f9",
+        "englishEquivalent": "to assemble"
+    },
+    {
+        "chineseChar": "\u52b3",
+        "howToRead": "l\u00e1o",
+        "englishEquivalent": "to toil"
+    },
+    {
+        "chineseChar": "\u653b",
+        "howToRead": "g\u014dng",
+        "englishEquivalent": "to attack"
+    },
+    {
+        "chineseChar": "\u5fcd",
+        "howToRead": "r\u011bn",
+        "englishEquivalent": "to endure"
+    },
+    {
+        "chineseChar": "\u52bf",
+        "howToRead": "sh\u00ec",
+        "englishEquivalent": "power; potential"
+    },
+    {
+        "chineseChar": "\u5c0a",
+        "howToRead": "z\u016bn",
+        "englishEquivalent": "senior; to honor"
+    },
+    {
+        "chineseChar": "\u543b",
+        "howToRead": "w\u011bn ",
+        "englishEquivalent": "kiss; lips"
+    },
+    {
+        "chineseChar": "\u6c64",
+        "howToRead": "t\u0101ng",
+        "englishEquivalent": "soup; hot water"
+    },
+    {
+        "chineseChar": "\u4f18",
+        "howToRead": "y\u014du",
+        "englishEquivalent": "excellent"
+    },
+    {
+        "chineseChar": "\u5883",
+        "howToRead": "j\u00ecng",
+        "englishEquivalent": "border; place"
+    },
+    {
+        "chineseChar": "\u8499",
+        "howToRead": "m\u00e9ng",
+        "englishEquivalent": "cover; ignorant"
+    },
+    {
+        "chineseChar": "\u5076",
+        "howToRead": "\u01d2u",
+        "englishEquivalent": "accidental"
+    },
+    {
+        "chineseChar": "\u719f",
+        "howToRead": "sh\u00fa",
+        "englishEquivalent": "cooked; ripe; familiar"
+    },
+    {
+        "chineseChar": "\u8425",
+        "howToRead": "y\u00edng",
+        "englishEquivalent": "camp; barracks"
+    },
+    {
+        "chineseChar": "\u82cf",
+        "howToRead": "s\u016b",
+        "englishEquivalent": "to revive"
+    },
+    {
+        "chineseChar": "\u7237",
+        "howToRead": "y\u00e9 ",
+        "englishEquivalent": "father; grandfather"
+    },
+    {
+        "chineseChar": "\u5fae",
+        "howToRead": "w\u0113i",
+        "englishEquivalent": "tiny"
+    },
+    {
+        "chineseChar": "\u57c3",
+        "howToRead": "\u0101i ",
+        "englishEquivalent": "fine dust; dirt"
+    },
+    {
+        "chineseChar": "\u62bd",
+        "howToRead": "ch\u014du",
+        "englishEquivalent": "to draw out"
+    },
+    {
+        "chineseChar": "\u76d6",
+        "howToRead": "g\u00e0i",
+        "englishEquivalent": "lid; cover"
+    },
+    {
+        "chineseChar": "\u706f",
+        "howToRead": "d\u0113ng",
+        "englishEquivalent": "light; lamp"
+    },
+    {
+        "chineseChar": "\u838e",
+        "howToRead": "sh\u0101",
+        "englishEquivalent": "sedge grass"
+    },
+    {
+        "chineseChar": "\u5e9c",
+        "howToRead": "f\u01d4",
+        "englishEquivalent": "seat of power"
+    },
+    {
+        "chineseChar": "\u900f",
+        "howToRead": "t\u00f2u",
+        "englishEquivalent": "to penetrate"
+    },
+    {
+        "chineseChar": "\u9b42",
+        "howToRead": "h\u00fan",
+        "englishEquivalent": "soul; spirit"
+    },
+    {
+        "chineseChar": "\u827a",
+        "howToRead": "y\u00ec",
+        "englishEquivalent": "skill; art"
+    },
+    {
+        "chineseChar": "\u638c",
+        "howToRead": "zh\u01ceng",
+        "englishEquivalent": "palm of hand"
+    },
+    {
+        "chineseChar": "\u5565",
+        "howToRead": "sh\u00e0",
+        "englishEquivalent": "what?"
+    },
+    {
+        "chineseChar": "\u5347",
+        "howToRead": "sh\u0113ng",
+        "englishEquivalent": "to ascend; promote"
+    },
+    {
+        "chineseChar": "\u88e4",
+        "howToRead": "k\u00f9 ",
+        "englishEquivalent": "trousers"
+    },
+    {
+        "chineseChar": "\u4e34",
+        "howToRead": "l\u00edn",
+        "englishEquivalent": "to face"
+    },
+    {
+        "chineseChar": "\u667a",
+        "howToRead": "zh\u00ec",
+        "englishEquivalent": "wisdom"
+    },
+    {
+        "chineseChar": "\u76d8",
+        "howToRead": "p\u00e1n",
+        "englishEquivalent": "plate"
+    },
+    {
+        "chineseChar": "\u7814",
+        "howToRead": "y\u00e1n",
+        "englishEquivalent": "study; research"
+    },
+    {
+        "chineseChar": "\u83f2",
+        "howToRead": "f\u0113i ",
+        "englishEquivalent": "fragrant; luxuriant"
+    },
+    {
+        "chineseChar": "\u5f52",
+        "howToRead": "gu\u012b",
+        "englishEquivalent": "to return"
+    },
+    {
+        "chineseChar": "\u649e",
+        "howToRead": "zhu\u00e0ng",
+        "englishEquivalent": "to hit"
+    },
+    {
+        "chineseChar": "\u9690",
+        "howToRead": "y\u01d0n",
+        "englishEquivalent": "secret"
+    },
+    {
+        "chineseChar": "\u9644",
+        "howToRead": "f\u00f9",
+        "englishEquivalent": "to be close to; to add"
+    },
+    {
+        "chineseChar": "\u641c",
+        "howToRead": "s\u014du ",
+        "englishEquivalent": "to seek"
+    },
+    {
+        "chineseChar": "\u6446",
+        "howToRead": "b\u01cei",
+        "englishEquivalent": "to arrange"
+    },
+    {
+        "chineseChar": "\u6563",
+        "howToRead": "s\u00e0n",
+        "englishEquivalent": "to scatter"
+    },
+    {
+        "chineseChar": "\u9633",
+        "howToRead": "y\u00e1ng",
+        "englishEquivalent": "male; sun"
+    },
+    {
+        "chineseChar": "\u534f",
+        "howToRead": "xi\u00e9",
+        "englishEquivalent": "to cooperate"
+    },
+    {
+        "chineseChar": "\u79df",
+        "howToRead": "z\u016b",
+        "englishEquivalent": "to hire"
+    },
+    {
+        "chineseChar": "\u6cf0",
+        "howToRead": "t\u00e0i",
+        "englishEquivalent": "safe; grand"
+    },
+    {
+        "chineseChar": "\u5c9b",
+        "howToRead": "d\u01ceo",
+        "englishEquivalent": "island"
+    },
+    {
+        "chineseChar": "\u5065",
+        "howToRead": "ji\u00e0n",
+        "englishEquivalent": "healthy"
+    },
+    {
+        "chineseChar": "\u997c",
+        "howToRead": "b\u01d0ng ",
+        "englishEquivalent": "biscuits"
+    },
+    {
+        "chineseChar": "\u8f83",
+        "howToRead": "ji\u00e0o",
+        "englishEquivalent": "comparatively"
+    },
+    {
+        "chineseChar": "\u907f",
+        "howToRead": "b\u00ec",
+        "englishEquivalent": "to flee; to avoid"
+    },
+    {
+        "chineseChar": "\u732b",
+        "howToRead": "m\u0101o",
+        "englishEquivalent": "cat"
+    },
+    {
+        "chineseChar": "\u4e03",
+        "howToRead": "q\u012b",
+        "englishEquivalent": "seven"
+    },
+    {
+        "chineseChar": "\u83dc",
+        "howToRead": "c\u00e0i",
+        "englishEquivalent": "dish; cuisine; vegetable"
+    },
+    {
+        "chineseChar": "\u7cd6",
+        "howToRead": "t\u00e1ng ",
+        "englishEquivalent": "sugar; sweets"
+    },
+    {
+        "chineseChar": "\u75f4",
+        "howToRead": "ch\u012b",
+        "englishEquivalent": "imbecile"
+    },
+    {
+        "chineseChar": "\u5bcc",
+        "howToRead": "f\u00f9",
+        "englishEquivalent": "rich; abundant"
+    },
+    {
+        "chineseChar": "\u964d",
+        "howToRead": "ji\u00e0ng",
+        "englishEquivalent": "to drop; descend"
+    },
+    {
+        "chineseChar": "\u601c",
+        "howToRead": "li\u00e1n",
+        "englishEquivalent": "to pity"
+    },
+    {
+        "chineseChar": "\u65e2",
+        "howToRead": "j\u00ec",
+        "englishEquivalent": "already; both\u2026"
+    },
+    {
+        "chineseChar": "\u7ec7",
+        "howToRead": "zh\u012b",
+        "englishEquivalent": "to weave"
+    },
+    {
+        "chineseChar": "\u6267",
+        "howToRead": "zh\u00ed",
+        "englishEquivalent": "to execute; to grasp"
+    },
+    {
+        "chineseChar": "\u6212",
+        "howToRead": "ji\u00e8 ",
+        "englishEquivalent": "to warn"
+    },
+    {
+        "chineseChar": "\u4f5b",
+        "howToRead": "f\u00f3",
+        "englishEquivalent": "Buddha"
+    },
+    {
+        "chineseChar": "\u6297",
+        "howToRead": "k\u00e0ng",
+        "englishEquivalent": "to resist; anti-"
+    },
+    {
+        "chineseChar": "\u7b28",
+        "howToRead": "b\u00e8n",
+        "englishEquivalent": "stupid"
+    },
+    {
+        "chineseChar": "\u822a",
+        "howToRead": "h\u00e1ng",
+        "englishEquivalent": "boat; to sail"
+    },
+    {
+        "chineseChar": "\u5999",
+        "howToRead": "mi\u00e0o",
+        "englishEquivalent": "wonderful"
+    },
+    {
+        "chineseChar": "\u8fc8",
+        "howToRead": "m\u00e0i ",
+        "englishEquivalent": "to pass by"
+    },
+    {
+        "chineseChar": "\u8033",
+        "howToRead": "\u011br",
+        "englishEquivalent": "ear"
+    },
+    {
+        "chineseChar": "\u5319",
+        "howToRead": "ch\u00ed ",
+        "englishEquivalent": "spoon"
+    },
+    {
+        "chineseChar": "\u5ba3",
+        "howToRead": "xu\u0101n",
+        "englishEquivalent": "to announce"
+    },
+    {
+        "chineseChar": "\u70c2",
+        "howToRead": "l\u00e0n",
+        "englishEquivalent": "soft; rotten"
+    },
+    {
+        "chineseChar": "\u79d2",
+        "howToRead": "mi\u01ceo ",
+        "englishEquivalent": "a second"
+    },
+    {
+        "chineseChar": "\u6302",
+        "howToRead": "gu\u00e0",
+        "englishEquivalent": "to hang; to register"
+    },
+    {
+        "chineseChar": "\u65c1",
+        "howToRead": "p\u00e1ng",
+        "englishEquivalent": "beside; side"
+    },
+    {
+        "chineseChar": "\u52c7",
+        "howToRead": "y\u01d2ng",
+        "englishEquivalent": "brave"
+    },
+    {
+        "chineseChar": "\u94a5",
+        "howToRead": "y\u00e0o/yu\u00e8 ",
+        "englishEquivalent": "key; lock"
+    },
+    {
+        "chineseChar": "\u60b2",
+        "howToRead": "b\u0113i",
+        "englishEquivalent": "sorrow"
+    },
+    {
+        "chineseChar": "\u5987",
+        "howToRead": "f\u00f9 ",
+        "englishEquivalent": "married woman"
+    },
+    {
+        "chineseChar": "\u5708",
+        "howToRead": "qu\u0101n",
+        "englishEquivalent": "ring; to circle"
+    },
+    {
+        "chineseChar": "\u656c",
+        "howToRead": "j\u00ecng",
+        "englishEquivalent": "to respect"
+    },
+    {
+        "chineseChar": "\u52b2",
+        "howToRead": "j\u00ecn/j\u00ecng ",
+        "englishEquivalent": "strong; tough"
+    },
+    {
+        "chineseChar": "\u5e15",
+        "howToRead": "p\u00e0 ",
+        "englishEquivalent": "turban; veil"
+    },
+    {
+        "chineseChar": "\u8349",
+        "howToRead": "c\u01ceo",
+        "englishEquivalent": "grass"
+    },
+    {
+        "chineseChar": "\u9189",
+        "howToRead": "zu\u00ec",
+        "englishEquivalent": "intoxicated"
+    },
+    {
+        "chineseChar": "\u7ed1",
+        "howToRead": "b\u01ceng ",
+        "englishEquivalent": "to tie"
+    },
+    {
+        "chineseChar": "\u5c42",
+        "howToRead": "c\u00e9ng",
+        "englishEquivalent": "layer; floor (of building)"
+    },
+    {
+        "chineseChar": "\u5435",
+        "howToRead": "ch\u01ceo",
+        "englishEquivalent": "to quarrel"
+    },
+    {
+        "chineseChar": "\u9f99",
+        "howToRead": "l\u00f3ng",
+        "englishEquivalent": "dragon"
+    },
+    {
+        "chineseChar": "\u6325",
+        "howToRead": "hu\u012b",
+        "englishEquivalent": "to wave; to disperse"
+    },
+    {
+        "chineseChar": "\u594b",
+        "howToRead": "f\u00e8n ",
+        "englishEquivalent": "to strive"
+    },
+    {
+        "chineseChar": "\u5fc6",
+        "howToRead": "y\u00ec",
+        "englishEquivalent": "to remember"
+    },
+    {
+        "chineseChar": "\u6298",
+        "howToRead": "zh\u00e9",
+        "englishEquivalent": "to break; to turn"
+    },
+    {
+        "chineseChar": "\u5f7c",
+        "howToRead": "b\u01d0",
+        "englishEquivalent": "that; those"
+    },
+    {
+        "chineseChar": "\u672b",
+        "howToRead": "m\u00f2",
+        "englishEquivalent": "tip; final"
+    },
+    {
+        "chineseChar": "\u5317",
+        "howToRead": "b\u011bi",
+        "englishEquivalent": "North"
+    },
+    {
+        "chineseChar": "\u666f",
+        "howToRead": "j\u01d0ng",
+        "englishEquivalent": "scenery"
+    },
+    {
+        "chineseChar": "\u6c83",
+        "howToRead": "w\u00f2 ",
+        "englishEquivalent": "to irrigate"
+    },
+    {
+        "chineseChar": "\u5e9f",
+        "howToRead": "f\u00e8i",
+        "englishEquivalent": "to abolish"
+    },
+    {
+        "chineseChar": "\u526f",
+        "howToRead": "f\u00f9",
+        "englishEquivalent": "secondary; vice-"
+    },
+    {
+        "chineseChar": "\u9ed8",
+        "howToRead": "m\u00f2",
+        "englishEquivalent": "silent"
+    },
+    {
+        "chineseChar": "\u94c1",
+        "howToRead": "ti\u011b",
+        "englishEquivalent": "iron"
+    },
+    {
+        "chineseChar": "\u521d",
+        "howToRead": "ch\u016b",
+        "englishEquivalent": "at first"
+    },
+    {
+        "chineseChar": "\u96ea",
+        "howToRead": "xu\u011b",
+        "englishEquivalent": "snow"
+    },
+    {
+        "chineseChar": "\u74e6",
+        "howToRead": "w\u01ce ",
+        "englishEquivalent": "tile; pottery"
+    },
+    {
+        "chineseChar": "\u7d20",
+        "howToRead": "s\u00f9",
+        "englishEquivalent": "raw silk; nature"
+    },
+    {
+        "chineseChar": "\u7981",
+        "howToRead": "j\u00ecn",
+        "englishEquivalent": "to prohibit"
+    },
+    {
+        "chineseChar": "\u8bda",
+        "howToRead": "ch\u00e9ng",
+        "englishEquivalent": "honest; sincere"
+    },
+    {
+        "chineseChar": "\u9ec4",
+        "howToRead": "hu\u00e1ng",
+        "englishEquivalent": "yellow"
+    },
+    {
+        "chineseChar": "\u654c",
+        "howToRead": "d\u00ed",
+        "englishEquivalent": "enemy; to resist"
+    },
+    {
+        "chineseChar": "\u590f",
+        "howToRead": "xi\u00e0",
+        "englishEquivalent": "Summer"
+    },
+    {
+        "chineseChar": "\u8d35",
+        "howToRead": "gu\u00ec",
+        "englishEquivalent": "expensive"
+    },
+    {
+        "chineseChar": "\u6b27",
+        "howToRead": "\u014du",
+        "englishEquivalent": "Europe"
+    },
+    {
+        "chineseChar": "\u65e6",
+        "howToRead": "d\u00e0n ",
+        "englishEquivalent": "dawn"
+    },
+    {
+        "chineseChar": "\u4f9d",
+        "howToRead": "y\u012b",
+        "englishEquivalent": "to depend on"
+    },
+    {
+        "chineseChar": "\u8c05",
+        "howToRead": "li\u00e0ng",
+        "englishEquivalent": "to forgive"
+    },
+    {
+        "chineseChar": "\u684c",
+        "howToRead": "zhu\u014d",
+        "englishEquivalent": "table"
+    },
+    {
+        "chineseChar": "\u96c4",
+        "howToRead": "xi\u00f3ng",
+        "englishEquivalent": "male; grand"
+    },
+    {
+        "chineseChar": "\u4e01",
+        "howToRead": "d\u012bng",
+        "englishEquivalent": "male adult; robust"
+    },
+    {
+        "chineseChar": "\u8212",
+        "howToRead": "sh\u016b",
+        "englishEquivalent": "leisurely; to stretch"
+    },
+    {
+        "chineseChar": "\u7c89",
+        "howToRead": "f\u011bn ",
+        "englishEquivalent": "powder"
+    },
+    {
+        "chineseChar": "\u65e7",
+        "howToRead": "ji\u00f9",
+        "englishEquivalent": "old"
+    },
+    {
+        "chineseChar": "\u671d",
+        "howToRead": "ch\u00e1o",
+        "englishEquivalent": "dynasty"
+    },
+    {
+        "chineseChar": "\u5385",
+        "howToRead": "t\u012bng",
+        "englishEquivalent": "hall"
+    },
+    {
+        "chineseChar": "\u606d",
+        "howToRead": "g\u014dng",
+        "englishEquivalent": "polite"
+    },
+    {
+        "chineseChar": "\u6c7d",
+        "howToRead": "q\u00ec",
+        "englishEquivalent": "steam"
+    },
+    {
+        "chineseChar": "\u8865",
+        "howToRead": "b\u01d4",
+        "englishEquivalent": "to make up for"
+    },
+    {
+        "chineseChar": "\u5f92",
+        "howToRead": "t\u00fa",
+        "englishEquivalent": "apprentice"
+    },
+    {
+        "chineseChar": "\u7a0d",
+        "howToRead": "sh\u0101o",
+        "englishEquivalent": "somewhat; a little"
+    },
+    {
+        "chineseChar": "\u6447",
+        "howToRead": "y\u00e1o",
+        "englishEquivalent": "to shake"
+    },
+    {
+        "chineseChar": "\u8eb2",
+        "howToRead": "du\u01d2 ",
+        "englishEquivalent": "to hide"
+    },
+    {
+        "chineseChar": "\u7a97",
+        "howToRead": "chu\u0101ng",
+        "englishEquivalent": "window"
+    },
+    {
+        "chineseChar": "\u6e90",
+        "howToRead": "yu\u00e1n",
+        "englishEquivalent": "source; origin"
+    },
+    {
+        "chineseChar": "\u84dd",
+        "howToRead": "l\u00e1n",
+        "englishEquivalent": "blue"
+    },
+    {
+        "chineseChar": "\u7ae0",
+        "howToRead": "zh\u0101ng",
+        "englishEquivalent": "chapter"
+    },
+    {
+        "chineseChar": "\u706d",
+        "howToRead": "mi\u00e8",
+        "englishEquivalent": "to extinguish"
+    },
+    {
+        "chineseChar": "\u75bc",
+        "howToRead": "t\u00e9ng ",
+        "englishEquivalent": "aches; pains"
+    },
+    {
+        "chineseChar": "\u5b64",
+        "howToRead": "g\u016b",
+        "englishEquivalent": "lonely"
+    },
+    {
+        "chineseChar": "\u6ed1",
+        "howToRead": "hu\u00e1",
+        "englishEquivalent": "to slip; cunning"
+    },
+    {
+        "chineseChar": "\u788e",
+        "howToRead": "su\u00ec ",
+        "englishEquivalent": "to break; broken"
+    },
+    {
+        "chineseChar": "\u5f31",
+        "howToRead": "ru\u00f2",
+        "englishEquivalent": "weak"
+    },
+    {
+        "chineseChar": "\u4ed4",
+        "howToRead": "z\u01d0",
+        "englishEquivalent": "meticulous; young"
+    },
+    {
+        "chineseChar": "\u6b3e",
+        "howToRead": "ku\u01cen",
+        "englishEquivalent": "section"
+    },
+    {
+        "chineseChar": "\u62d2",
+        "howToRead": "j\u00f9",
+        "englishEquivalent": "to resist"
+    },
+    {
+        "chineseChar": "\u6cb3",
+        "howToRead": "h\u00e9",
+        "englishEquivalent": "river"
+    },
+    {
+        "chineseChar": "\u4f0d",
+        "howToRead": "w\u01d4",
+        "englishEquivalent": "to associate with"
+    },
+    {
+        "chineseChar": "\u7eb9",
+        "howToRead": "w\u00e9n ",
+        "englishEquivalent": "line; streak"
+    },
+    {
+        "chineseChar": "\u81ed",
+        "howToRead": "ch\u00f2u",
+        "englishEquivalent": "smell; stink"
+    },
+    {
+        "chineseChar": "\u5e7b",
+        "howToRead": "hu\u00e0n",
+        "englishEquivalent": "fantasy"
+    },
+    {
+        "chineseChar": "\u7ae5",
+        "howToRead": "t\u00f3ng",
+        "englishEquivalent": "child"
+    },
+    {
+        "chineseChar": "\u7ff0",
+        "howToRead": "h\u00e0n ",
+        "englishEquivalent": "writing brush"
+    },
+    {
+        "chineseChar": "\u95ea",
+        "howToRead": "sh\u01cen",
+        "englishEquivalent": "to dodge; flash"
+    },
+    {
+        "chineseChar": "\u6b8b",
+        "howToRead": "c\u00e1n",
+        "englishEquivalent": "to injure; cruel"
+    },
+    {
+        "chineseChar": "\u9e1f",
+        "howToRead": "ni\u01ceo",
+        "englishEquivalent": "bird"
+    },
+    {
+        "chineseChar": "\u9a91",
+        "howToRead": "q\u00ed",
+        "englishEquivalent": "to ride"
+    },
+    {
+        "chineseChar": "\u7ffb",
+        "howToRead": "f\u0101n",
+        "englishEquivalent": "to translate; to flip"
+    },
+    {
+        "chineseChar": "\u6d32",
+        "howToRead": "zh\u014du",
+        "englishEquivalent": "continent; island"
+    },
+    {
+        "chineseChar": "\u6c89",
+        "howToRead": "ch\u00e9n",
+        "englishEquivalent": "to submerge; sink"
+    },
+    {
+        "chineseChar": "\u997f",
+        "howToRead": "\u00e8 ",
+        "englishEquivalent": "hungry"
+    },
+    {
+        "chineseChar": "\u7838",
+        "howToRead": "z\u00e1 ",
+        "englishEquivalent": "to smash"
+    },
+    {
+        "chineseChar": "\u4e92",
+        "howToRead": "h\u00f9",
+        "englishEquivalent": "mutual"
+    },
+    {
+        "chineseChar": "\u5377",
+        "howToRead": "ju\u01cen",
+        "englishEquivalent": "roll; to roll up"
+    },
+    {
+        "chineseChar": "\u62d6",
+        "howToRead": "tu\u014d",
+        "englishEquivalent": "to drag"
+    },
+    {
+        "chineseChar": "\u74dc",
+        "howToRead": "gu\u0101",
+        "englishEquivalent": "melon"
+    },
+    {
+        "chineseChar": "\u4f8b",
+        "howToRead": "l\u00ec",
+        "englishEquivalent": "example; case"
+    },
+    {
+        "chineseChar": "\u8d22",
+        "howToRead": "c\u00e1i",
+        "englishEquivalent": "money; wealth"
+    },
+    {
+        "chineseChar": "\u74f6",
+        "howToRead": "p\u00edng",
+        "englishEquivalent": "bottle; vase"
+    },
+    {
+        "chineseChar": "\u5899",
+        "howToRead": "qi\u00e1ng ",
+        "englishEquivalent": "wall"
+    },
+    {
+        "chineseChar": "\u62f3",
+        "howToRead": "qu\u00e1n",
+        "englishEquivalent": "fist; boxing"
+    },
+    {
+        "chineseChar": "\u7262",
+        "howToRead": "l\u00e1o ",
+        "englishEquivalent": "prison; stable"
+    },
+    {
+        "chineseChar": "\u5178",
+        "howToRead": "di\u01cen",
+        "englishEquivalent": "dictionary; law"
+    },
+    {
+        "chineseChar": "\u5783",
+        "howToRead": "l\u0101 ",
+        "englishEquivalent": "waste"
+    },
+    {
+        "chineseChar": "\u67d3",
+        "howToRead": "r\u01cen",
+        "englishEquivalent": "to dye; to acquire"
+    },
+    {
+        "chineseChar": "\u6f2b",
+        "howToRead": "m\u00e0n",
+        "englishEquivalent": "free; to inundate"
+    },
+    {
+        "chineseChar": "\u89e6",
+        "howToRead": "ch\u00f9",
+        "englishEquivalent": "to touch"
+    },
+    {
+        "chineseChar": "\u80c1",
+        "howToRead": "xi\u00e9 ",
+        "englishEquivalent": "ribs; to threaten"
+    },
+    {
+        "chineseChar": "\u573e",
+        "howToRead": "j\u012b ",
+        "englishEquivalent": "garbage"
+    },
+    {
+        "chineseChar": "\u65bd",
+        "howToRead": "sh\u012b",
+        "englishEquivalent": "to grant"
+    },
+    {
+        "chineseChar": "\u80f8",
+        "howToRead": "xi\u014dng ",
+        "englishEquivalent": "breast; chest"
+    },
+    {
+        "chineseChar": "\u9634",
+        "howToRead": "y\u012bn",
+        "englishEquivalent": "cloudy; female"
+    },
+    {
+        "chineseChar": "\u5b55",
+        "howToRead": "y\u00f9n ",
+        "englishEquivalent": "be pregnant"
+    },
+    {
+        "chineseChar": "\u60f9",
+        "howToRead": "r\u011b ",
+        "englishEquivalent": "to irritate"
+    },
+    {
+        "chineseChar": "\u786c",
+        "howToRead": "y\u00ecng",
+        "englishEquivalent": "hard"
+    },
+    {
+        "chineseChar": "\u902e",
+        "howToRead": "d\u00e0i ",
+        "englishEquivalent": "to seize"
+    },
+    {
+        "chineseChar": "\u9500",
+        "howToRead": "xi\u0101o",
+        "englishEquivalent": "to melt"
+    },
+    {
+        "chineseChar": "\u90a6",
+        "howToRead": "b\u0101ng",
+        "englishEquivalent": "country; nation"
+    },
+    {
+        "chineseChar": "\u52ab",
+        "howToRead": "ji\u00e9 ",
+        "englishEquivalent": "to take by force"
+    },
+    {
+        "chineseChar": "\u88ad",
+        "howToRead": "x\u00ed ",
+        "englishEquivalent": "to raid"
+    },
+    {
+        "chineseChar": "\u80b2",
+        "howToRead": "y\u00f9",
+        "englishEquivalent": "to bring up"
+    },
+    {
+        "chineseChar": "\u866b",
+        "howToRead": "ch\u00f3ng",
+        "englishEquivalent": "insects"
+    },
+    {
+        "chineseChar": "\u5acc",
+        "howToRead": "xi\u00e1n ",
+        "englishEquivalent": "to hate"
+    },
+    {
+        "chineseChar": "\u7d2f",
+        "howToRead": "l\u00e9i",
+        "englishEquivalent": "tired"
+    },
+    {
+        "chineseChar": "\u6016",
+        "howToRead": "b\u00f9 ",
+        "englishEquivalent": "terror; fear"
+    },
+    {
+        "chineseChar": "\u63e1",
+        "howToRead": "w\u00f2",
+        "englishEquivalent": "to grasp"
+    },
+    {
+        "chineseChar": "\u96e8",
+        "howToRead": "y\u01d4",
+        "englishEquivalent": "rain"
+    },
+    {
+        "chineseChar": "\u7f3a",
+        "howToRead": "qu\u0113",
+        "englishEquivalent": "lack"
+    },
+    {
+        "chineseChar": "\u7433",
+        "howToRead": "l\u00edn ",
+        "englishEquivalent": "gem"
+    },
+    {
+        "chineseChar": "\u58a8",
+        "howToRead": "m\u00f2 ",
+        "englishEquivalent": "black; corrupt"
+    },
+    {
+        "chineseChar": "\u8feb",
+        "howToRead": "p\u00f2",
+        "englishEquivalent": "to force"
+    },
+    {
+        "chineseChar": "\u91c7",
+        "howToRead": "c\u01cei",
+        "englishEquivalent": "to select; looks"
+    },
+    {
+        "chineseChar": "\u8f88",
+        "howToRead": "b\u00e8i",
+        "englishEquivalent": "generation"
+    },
+    {
+        "chineseChar": "\u9677",
+        "howToRead": "xi\u00e0n ",
+        "englishEquivalent": "to submerge"
+    },
+    {
+        "chineseChar": "\u8e48",
+        "howToRead": "d\u01ceo ",
+        "englishEquivalent": "to stamp feet"
+    },
+    {
+        "chineseChar": "\u9650",
+        "howToRead": "xi\u00e0n",
+        "englishEquivalent": "limit"
+    },
+    {
+        "chineseChar": "\u5de8",
+        "howToRead": "j\u00f9",
+        "englishEquivalent": "huge"
+    },
+    {
+        "chineseChar": "\u9c8d",
+        "howToRead": "b\u00e0o ",
+        "englishEquivalent": "dried fish"
+    },
+    {
+        "chineseChar": "\u9488",
+        "howToRead": "zh\u0113n",
+        "englishEquivalent": "needle"
+    },
+    {
+        "chineseChar": "\u96c5",
+        "howToRead": "y\u01ce",
+        "englishEquivalent": "elegant"
+    },
+    {
+        "chineseChar": "\u5179",
+        "howToRead": "z\u012b ",
+        "englishEquivalent": "now; here; this"
+    },
+    {
+        "chineseChar": "\u5c3e",
+        "howToRead": "w\u011bi",
+        "englishEquivalent": "tail"
+    },
+    {
+        "chineseChar": "\u9752",
+        "howToRead": "q\u012bng",
+        "englishEquivalent": "green/blue; young"
+    },
+    {
+        "chineseChar": "\u5e2d",
+        "howToRead": "x\u00ed",
+        "englishEquivalent": "mat; banquet"
+    },
+    {
+        "chineseChar": "\u903c",
+        "howToRead": "b\u012b ",
+        "englishEquivalent": "to pressure"
+    },
+    {
+        "chineseChar": "\u72b9",
+        "howToRead": "y\u00f3u ",
+        "englishEquivalent": "like; similar to"
+    },
+    {
+        "chineseChar": "\u626e",
+        "howToRead": "b\u00e0n ",
+        "englishEquivalent": "to dress up"
+    },
+    {
+        "chineseChar": "\u8d5e",
+        "howToRead": "z\u00e0n",
+        "englishEquivalent": "to praise; to support"
+    },
+    {
+        "chineseChar": "\u9080",
+        "howToRead": "y\u0101o ",
+        "englishEquivalent": "to invite"
+    },
+    {
+        "chineseChar": "\u51c0",
+        "howToRead": "j\u00ecng",
+        "englishEquivalent": "clean"
+    },
+    {
+        "chineseChar": "\u95f9",
+        "howToRead": "n\u00e0o",
+        "englishEquivalent": "noisy"
+    },
+    {
+        "chineseChar": "\u8bbf",
+        "howToRead": "f\u01ceng",
+        "englishEquivalent": "to call on; to inquire"
+    },
+    {
+        "chineseChar": "\u826f",
+        "howToRead": "li\u00e1ng",
+        "englishEquivalent": "good; very much"
+    },
+    {
+        "chineseChar": "\u53db",
+        "howToRead": "p\u00e0n ",
+        "englishEquivalent": "to rebel; rebellion"
+    },
+    {
+        "chineseChar": "\u9a7e",
+        "howToRead": "ji\u00e0 ",
+        "englishEquivalent": "to operate vehicle"
+    },
+    {
+        "chineseChar": "\u8303",
+        "howToRead": "f\u00e0n",
+        "englishEquivalent": "pattern; model"
+    },
+    {
+        "chineseChar": "\u4fc4",
+        "howToRead": "\u00e9 ",
+        "englishEquivalent": "sudden(ly), Russia"
+    },
+    {
+        "chineseChar": "\u732a",
+        "howToRead": "zh\u016b",
+        "englishEquivalent": "pig"
+    },
+    {
+        "chineseChar": "\u8f9b",
+        "howToRead": "x\u012bn",
+        "englishEquivalent": "hot taste; hard"
+    },
+    {
+        "chineseChar": "\u6749",
+        "howToRead": "sh\u0101n ",
+        "englishEquivalent": "pine/fir tree"
+    },
+    {
+        "chineseChar": "\u6dd8",
+        "howToRead": "t\u00e1o ",
+        "englishEquivalent": "wash in sieve"
+    },
+    {
+        "chineseChar": "\u6d1e",
+        "howToRead": "d\u00f2ng",
+        "englishEquivalent": "cave; hole"
+    },
+    {
+        "chineseChar": "\u51a0",
+        "howToRead": "gu\u0101n",
+        "englishEquivalent": "hat; crown"
+    },
+    {
+        "chineseChar": "\u4f1f",
+        "howToRead": "w\u011bi",
+        "englishEquivalent": "big; great"
+    },
+    {
+        "chineseChar": "\u73cd",
+        "howToRead": "zh\u0113n",
+        "englishEquivalent": "precious"
+    },
+    {
+        "chineseChar": "\u6885",
+        "howToRead": "m\u00e9i",
+        "englishEquivalent": "plum"
+    },
+    {
+        "chineseChar": "\u6717",
+        "howToRead": "l\u01ceng ",
+        "englishEquivalent": "clear; bright"
+    },
+    {
+        "chineseChar": "\u6b20",
+        "howToRead": "qi\u00e0n ",
+        "englishEquivalent": "owe; lack"
+    },
+    {
+        "chineseChar": "\u626f",
+        "howToRead": "ch\u011b ",
+        "englishEquivalent": "rip up; haul"
+    },
+    {
+        "chineseChar": "\u4e11",
+        "howToRead": "ch\u01d2u ",
+        "englishEquivalent": "clown; ugly"
+    },
+    {
+        "chineseChar": "\u7ade",
+        "howToRead": "j\u00ecng",
+        "englishEquivalent": "to compete"
+    },
+    {
+        "chineseChar": "\u5242",
+        "howToRead": "j\u00ec ",
+        "englishEquivalent": "liquid solution"
+    },
+    {
+        "chineseChar": "\u70c8",
+        "howToRead": "li\u00e8",
+        "englishEquivalent": "fierce; intense"
+    },
+    {
+        "chineseChar": "\u674e",
+        "howToRead": "l\u01d0",
+        "englishEquivalent": "plum"
+    },
+    {
+        "chineseChar": "\u6751",
+        "howToRead": "c\u016bn",
+        "englishEquivalent": "village"
+    },
+    {
+        "chineseChar": "\u5389",
+        "howToRead": "l\u00ec",
+        "englishEquivalent": "strict"
+    },
+    {
+        "chineseChar": "\u53a8",
+        "howToRead": "ch\u00fa ",
+        "englishEquivalent": "kitchen"
+    },
+    {
+        "chineseChar": "\u5141",
+        "howToRead": "y\u01d4n ",
+        "englishEquivalent": "to grant"
+    },
+    {
+        "chineseChar": "\u6388",
+        "howToRead": "sh\u00f2u",
+        "englishEquivalent": "to teach"
+    },
+    {
+        "chineseChar": "\u5806",
+        "howToRead": "du\u012b",
+        "englishEquivalent": "to pile up; heap"
+    },
+    {
+        "chineseChar": "\u5e86",
+        "howToRead": "q\u00ecng",
+        "englishEquivalent": "to celebrate"
+    },
+    {
+        "chineseChar": "\u7387",
+        "howToRead": "shu\u00e0i",
+        "englishEquivalent": "to lead; frank"
+    },
+    {
+        "chineseChar": "\u6012",
+        "howToRead": "n\u00f9 ",
+        "englishEquivalent": "anger; rage"
+    },
+    {
+        "chineseChar": "\u5bd3",
+        "howToRead": "y\u00f9 ",
+        "englishEquivalent": "residence"
+    },
+    {
+        "chineseChar": "\u6db2",
+        "howToRead": "y\u00e8 ",
+        "englishEquivalent": "sap; juice"
+    },
+    {
+        "chineseChar": "\u8c13",
+        "howToRead": "w\u00e8i",
+        "englishEquivalent": "to speak; meaning"
+    },
+    {
+        "chineseChar": "\u4f30",
+        "howToRead": "g\u016b",
+        "englishEquivalent": "to estimate"
+    },
+    {
+        "chineseChar": "\u9c9c",
+        "howToRead": "xi\u0101n",
+        "englishEquivalent": "fresh"
+    },
+    {
+        "chineseChar": "\u78e8",
+        "howToRead": "m\u00f3/m\u00f2 ",
+        "englishEquivalent": "grind; rub"
+    },
+    {
+        "chineseChar": "\u5e05",
+        "howToRead": "shu\u00e0i",
+        "englishEquivalent": "handsome"
+    },
+    {
+        "chineseChar": "\u5a4a",
+        "howToRead": "bi\u01ceo ",
+        "englishEquivalent": "prostitute"
+    },
+    {
+        "chineseChar": "\u5c3f",
+        "howToRead": "ni\u00e0o ",
+        "englishEquivalent": "urine"
+    },
+    {
+        "chineseChar": "\u952e",
+        "howToRead": "ji\u00e0n",
+        "englishEquivalent": "key(board)"
+    },
+    {
+        "chineseChar": "\u4f59",
+        "howToRead": "y\u00fa ",
+        "englishEquivalent": "surplus"
+    },
+    {
+        "chineseChar": "\u7ecd",
+        "howToRead": "sh\u00e0o",
+        "englishEquivalent": "to continue"
+    },
+    {
+        "chineseChar": "\u5a03",
+        "howToRead": "w\u00e1 ",
+        "englishEquivalent": "baby; doll"
+    },
+    {
+        "chineseChar": "\u5211",
+        "howToRead": "x\u00edng ",
+        "englishEquivalent": "to punish"
+    },
+    {
+        "chineseChar": "\u626b",
+        "howToRead": "s\u01ceo",
+        "englishEquivalent": "to sweep"
+    },
+    {
+        "chineseChar": "\u6838",
+        "howToRead": "h\u00e9",
+        "englishEquivalent": "seed"
+    },
+    {
+        "chineseChar": "\u635f",
+        "howToRead": "s\u01d4n",
+        "englishEquivalent": "to decrease; damage"
+    },
+    {
+        "chineseChar": "\u8fa9",
+        "howToRead": "bi\u00e0n",
+        "englishEquivalent": "to dispute"
+    },
+    {
+        "chineseChar": "\u60ef",
+        "howToRead": "gu\u00e0n",
+        "englishEquivalent": "accustomed to"
+    },
+    {
+        "chineseChar": "\u50b2",
+        "howToRead": "\u00e0o ",
+        "englishEquivalent": "proud"
+    },
+    {
+        "chineseChar": "\u51cf",
+        "howToRead": "ji\u01cen",
+        "englishEquivalent": "to lower"
+    },
+    {
+        "chineseChar": "\u6ce1",
+        "howToRead": "p\u00e0o",
+        "englishEquivalent": "bubble; to steep"
+    },
+    {
+        "chineseChar": "\u6478",
+        "howToRead": "m\u014d",
+        "englishEquivalent": "feel with hand"
+    },
+    {
+        "chineseChar": "\u8457",
+        "howToRead": "zh\u00f9 ",
+        "englishEquivalent": "manifest"
+    },
+    {
+        "chineseChar": "\u9014",
+        "howToRead": "t\u00fa",
+        "englishEquivalent": "way; route"
+    },
+    {
+        "chineseChar": "\u77f6",
+        "howToRead": "j\u012b ",
+        "englishEquivalent": "jetty"
+    },
+    {
+        "chineseChar": "\u9f13",
+        "howToRead": "g\u01d4",
+        "englishEquivalent": "drum"
+    },
+    {
+        "chineseChar": "\u5821",
+        "howToRead": "b\u01ceo",
+        "englishEquivalent": "fortress"
+    },
+    {
+        "chineseChar": "\u611a",
+        "howToRead": "y\u00fa ",
+        "englishEquivalent": "stupid"
+    },
+    {
+        "chineseChar": "\u654f",
+        "howToRead": "m\u01d0n",
+        "englishEquivalent": "quick"
+    },
+    {
+        "chineseChar": "\u7248",
+        "howToRead": "b\u01cen",
+        "englishEquivalent": "edition"
+    },
+    {
+        "chineseChar": "\u76d2",
+        "howToRead": "h\u00e9 ",
+        "englishEquivalent": "small box"
+    },
+    {
+        "chineseChar": "\u8ba2",
+        "howToRead": "d\u00ecng",
+        "englishEquivalent": "to agree"
+    },
+    {
+        "chineseChar": "\u5bc4",
+        "howToRead": "j\u00ec",
+        "englishEquivalent": "to mail"
+    },
+    {
+        "chineseChar": "\u8d5a",
+        "howToRead": "zhu\u00e0n",
+        "englishEquivalent": "to earn"
+    },
+    {
+        "chineseChar": "\u7235",
+        "howToRead": "ju\u00e9 ",
+        "englishEquivalent": "feudal title"
+    },
+    {
+        "chineseChar": "\u6750",
+        "howToRead": "c\u00e1i",
+        "englishEquivalent": "material"
+    },
+    {
+        "chineseChar": "\u76db",
+        "howToRead": "ch\u00e9ng",
+        "englishEquivalent": "to ladle"
+    },
+    {
+        "chineseChar": "\u5c24",
+        "howToRead": "y\u00f3u",
+        "englishEquivalent": "especially"
+    },
+    {
+        "chineseChar": "\u7687",
+        "howToRead": "hu\u00e1ng",
+        "englishEquivalent": "emperor"
+    },
+    {
+        "chineseChar": "\u593a",
+        "howToRead": "du\u00f3 ",
+        "englishEquivalent": "to take by force"
+    },
+    {
+        "chineseChar": "\u90ae",
+        "howToRead": "y\u00f3u",
+        "englishEquivalent": "post; mail"
+    },
+    {
+        "chineseChar": "\u4ff1",
+        "howToRead": "j\u00f9 ",
+        "englishEquivalent": "all; together"
+    },
+    {
+        "chineseChar": "\u4e5d",
+        "howToRead": "ji\u01d4",
+        "englishEquivalent": "nine"
+    },
+    {
+        "chineseChar": "\u76d7",
+        "howToRead": "d\u00e0o ",
+        "englishEquivalent": "to steal"
+    },
+    {
+        "chineseChar": "\u5c3a",
+        "howToRead": "ch\u01d0",
+        "englishEquivalent": "Chinese \"foot\""
+    },
+    {
+        "chineseChar": "\u6109",
+        "howToRead": "y\u00fa ",
+        "englishEquivalent": "pleasant"
+    },
+    {
+        "chineseChar": "\u5e8f",
+        "howToRead": "x\u00f9",
+        "englishEquivalent": "order; sequence"
+    },
+    {
+        "chineseChar": "\u9f20",
+        "howToRead": "sh\u01d4",
+        "englishEquivalent": "rat"
+    },
+    {
+        "chineseChar": "\u5e55",
+        "howToRead": "m\u00f9",
+        "englishEquivalent": "curtain"
+    },
+    {
+        "chineseChar": "\u8e22",
+        "howToRead": "t\u012b ",
+        "englishEquivalent": "kick"
+    },
+    {
+        "chineseChar": "\u61be",
+        "howToRead": "h\u00e0n ",
+        "englishEquivalent": "to regret"
+    },
+    {
+        "chineseChar": "\u6c70",
+        "howToRead": "t\u00e0i ",
+        "englishEquivalent": "excessive"
+    },
+    {
+        "chineseChar": "\u9694",
+        "howToRead": "g\u00e9",
+        "englishEquivalent": "to partition"
+    },
+    {
+        "chineseChar": "\u5f7b",
+        "howToRead": "ch\u00e8 ",
+        "englishEquivalent": "to penetrate"
+    },
+    {
+        "chineseChar": "\u63d2",
+        "howToRead": "ch\u0101",
+        "englishEquivalent": "to insert; pierce"
+    },
+    {
+        "chineseChar": "\u730e",
+        "howToRead": "li\u00e8 ",
+        "englishEquivalent": "to hunt"
+    },
+    {
+        "chineseChar": "\u5c1a",
+        "howToRead": "sh\u00e0ng",
+        "englishEquivalent": "still; yet; to value"
+    },
+    {
+        "chineseChar": "\u6f5c",
+        "howToRead": "qi\u00e1n ",
+        "englishEquivalent": "to hide; hidden"
+    },
+    {
+        "chineseChar": "\u6784",
+        "howToRead": "g\u00f2u",
+        "englishEquivalent": "to assign; faciton"
+    },
+    {
+        "chineseChar": "\u70e4",
+        "howToRead": "k\u01ceo ",
+        "englishEquivalent": "bake; roast"
+    },
+    {
+        "chineseChar": "\u970d",
+        "howToRead": "hu\u00f2 ",
+        "englishEquivalent": "quickly"
+    },
+    {
+        "chineseChar": "\u6094",
+        "howToRead": "hu\u01d0",
+        "englishEquivalent": "to regret"
+    },
+    {
+        "chineseChar": "\u6682",
+        "howToRead": "z\u00e0n",
+        "englishEquivalent": "temporary"
+    },
+    {
+        "chineseChar": "\u723d",
+        "howToRead": "shu\u01ceng",
+        "englishEquivalent": "bright; crisp"
+    },
+    {
+        "chineseChar": "\u624e",
+        "howToRead": "zh\u0101",
+        "englishEquivalent": "to pierce"
+    },
+    {
+        "chineseChar": "\u7eea",
+        "howToRead": "x\u00f9",
+        "englishEquivalent": "beginnings; thread"
+    },
+    {
+        "chineseChar": "\u8baf",
+        "howToRead": "x\u00f9n",
+        "englishEquivalent": "to question"
+    },
+    {
+        "chineseChar": "\u5410",
+        "howToRead": "t\u00f9 ",
+        "englishEquivalent": "to vomit"
+    },
+    {
+        "chineseChar": "\u5439",
+        "howToRead": "chu\u012b",
+        "englishEquivalent": "to blow"
+    },
+    {
+        "chineseChar": "\u5bbe",
+        "howToRead": "b\u012bn ",
+        "englishEquivalent": "guest; visitor"
+    },
+    {
+        "chineseChar": "\u4fa6",
+        "howToRead": "zh\u0113n ",
+        "englishEquivalent": "spy"
+    },
+    {
+        "chineseChar": "\u9897",
+        "howToRead": "k\u0113",
+        "englishEquivalent": "particle"
+    },
+    {
+        "chineseChar": "\u5b81",
+        "howToRead": "n\u00edng",
+        "englishEquivalent": "peaceful"
+    },
+    {
+        "chineseChar": "\u7f5a",
+        "howToRead": "f\u00e1 ",
+        "englishEquivalent": "penalty"
+    },
+    {
+        "chineseChar": "\u6b32",
+        "howToRead": "y\u00f9",
+        "englishEquivalent": "to wish for; desire"
+    },
+    {
+        "chineseChar": "\u4e61",
+        "howToRead": "xi\u0101ng",
+        "englishEquivalent": "countryside"
+    },
+    {
+        "chineseChar": "\u5e3d",
+        "howToRead": "m\u00e0o",
+        "englishEquivalent": "hat"
+    },
+    {
+        "chineseChar": "\u675c",
+        "howToRead": "d\u00f9 ",
+        "englishEquivalent": "to prevent"
+    },
+    {
+        "chineseChar": "\u8c6a",
+        "howToRead": "h\u00e1o",
+        "englishEquivalent": "heroic"
+    },
+    {
+        "chineseChar": "\u5f81",
+        "howToRead": "zh\u0113ng",
+        "englishEquivalent": "to recruit"
+    },
+    {
+        "chineseChar": "\u62ec",
+        "howToRead": "ku\u00f2",
+        "englishEquivalent": "to enclose; to include"
+    },
+    {
+        "chineseChar": "\u76ef",
+        "howToRead": "d\u012bng ",
+        "englishEquivalent": "to keep eyes on"
+    },
+    {
+        "chineseChar": "\u7a33",
+        "howToRead": "w\u011bn",
+        "englishEquivalent": "steady; stable"
+    },
+    {
+        "chineseChar": "\u80c6",
+        "howToRead": "d\u01cen ",
+        "englishEquivalent": "gall; bravery"
+    },
+    {
+        "chineseChar": "\u7532",
+        "howToRead": "ji\u01ce",
+        "englishEquivalent": "first; shell"
+    },
+    {
+        "chineseChar": "\u8d56",
+        "howToRead": "l\u00e0i",
+        "englishEquivalent": "to depend on; bad"
+    },
+    {
+        "chineseChar": "\u5564",
+        "howToRead": "p\u00ed ",
+        "englishEquivalent": "beer"
+    },
+    {
+        "chineseChar": "\u4f69",
+        "howToRead": "p\u00e8i",
+        "englishEquivalent": "to respect; wear (belt)"
+    },
+    {
+        "chineseChar": "\u542f",
+        "howToRead": "q\u01d0",
+        "englishEquivalent": "to start; to open"
+    },
+    {
+        "chineseChar": "\u80ce",
+        "howToRead": "t\u0101i ",
+        "englishEquivalent": "embryo; fetus"
+    },
+    {
+        "chineseChar": "\u5e10",
+        "howToRead": "zh\u00e0ng",
+        "englishEquivalent": "screen"
+    },
+    {
+        "chineseChar": "\u8d4f",
+        "howToRead": "sh\u01ceng",
+        "englishEquivalent": "to bestow"
+    },
+    {
+        "chineseChar": "\u629b",
+        "howToRead": "p\u0101o ",
+        "englishEquivalent": "throw (away)"
+    },
+    {
+        "chineseChar": "\u906d",
+        "howToRead": "z\u0101o",
+        "englishEquivalent": "meet by chance"
+    },
+    {
+        "chineseChar": "\u82e5",
+        "howToRead": "ru\u00f2",
+        "englishEquivalent": "seem like"
+    },
+    {
+        "chineseChar": "\u68af",
+        "howToRead": "t\u012b ",
+        "englishEquivalent": "ladder"
+    },
+    {
+        "chineseChar": "\u9707",
+        "howToRead": "zh\u00e8n",
+        "englishEquivalent": "to shake"
+    },
+    {
+        "chineseChar": "\u8ff0",
+        "howToRead": "sh\u00f9",
+        "englishEquivalent": "to tell"
+    },
+    {
+        "chineseChar": "\u9635",
+        "howToRead": "zh\u00e8n",
+        "englishEquivalent": "short time"
+    },
+    {
+        "chineseChar": "\u4eea",
+        "howToRead": "y\u00ed",
+        "englishEquivalent": "ceremony"
+    },
+    {
+        "chineseChar": "\u4e56",
+        "howToRead": "gu\u0101i",
+        "englishEquivalent": "clever; shrewd"
+    },
+    {
+        "chineseChar": "\u5bab",
+        "howToRead": "g\u014dng",
+        "englishEquivalent": "palace"
+    },
+    {
+        "chineseChar": "\u54ac",
+        "howToRead": "y\u01ceo ",
+        "englishEquivalent": "bite; gnaw"
+    },
+    {
+        "chineseChar": "\u7977",
+        "howToRead": "d\u01ceo ",
+        "englishEquivalent": "to pray"
+    },
+    {
+        "chineseChar": "\u7956",
+        "howToRead": "z\u01d4",
+        "englishEquivalent": "ancestor"
+    },
+    {
+        "chineseChar": "\u871c",
+        "howToRead": "m\u00ec ",
+        "englishEquivalent": "honey"
+    },
+    {
+        "chineseChar": "\u800d",
+        "howToRead": "shu\u01ce ",
+        "englishEquivalent": "to frolic"
+    },
+    {
+        "chineseChar": "\u62fc",
+        "howToRead": "p\u012bn",
+        "englishEquivalent": "to join together"
+    },
+    {
+        "chineseChar": "\u60dc",
+        "howToRead": "x\u012b",
+        "englishEquivalent": "to cherish"
+    },
+    {
+        "chineseChar": "\u5fe0",
+        "howToRead": "zh\u014dng",
+        "englishEquivalent": "loyal"
+    },
+    {
+        "chineseChar": "\u7b56",
+        "howToRead": "c\u00e8",
+        "englishEquivalent": "policy"
+    },
+    {
+        "chineseChar": "\u9f3b",
+        "howToRead": "b\u00ed ",
+        "englishEquivalent": "nose"
+    },
+    {
+        "chineseChar": "\u94bb",
+        "howToRead": "zu\u0101n",
+        "englishEquivalent": "to drill"
+    },
+    {
+        "chineseChar": "\u6c60",
+        "howToRead": "ch\u00ed",
+        "englishEquivalent": "pond; reservoir"
+    },
+    {
+        "chineseChar": "\u865a",
+        "howToRead": "x\u016b",
+        "englishEquivalent": "emptiness; modest"
+    },
+    {
+        "chineseChar": "\u6851",
+        "howToRead": "s\u0101ng ",
+        "englishEquivalent": "mulberry tree"
+    },
+    {
+        "chineseChar": "\u62fe",
+        "howToRead": "sh\u00ed",
+        "englishEquivalent": "to collect"
+    },
+    {
+        "chineseChar": "\u6cf3",
+        "howToRead": "y\u01d2ng ",
+        "englishEquivalent": "to dive; swim"
+    },
+    {
+        "chineseChar": "\u9891",
+        "howToRead": "p\u00edn",
+        "englishEquivalent": "frequently"
+    },
+    {
+        "chineseChar": "\u5c16",
+        "howToRead": "ji\u0101n ",
+        "englishEquivalent": "sharp; acute"
+    },
+    {
+        "chineseChar": "\u7533",
+        "howToRead": "sh\u0113n",
+        "englishEquivalent": "to extend; to state"
+    },
+    {
+        "chineseChar": "\u8fdd",
+        "howToRead": "w\u00e9i",
+        "englishEquivalent": "to disobey"
+    },
+    {
+        "chineseChar": "\u96f6",
+        "howToRead": "l\u00edng",
+        "englishEquivalent": "zero"
+    },
+    {
+        "chineseChar": "\u8bca",
+        "howToRead": "zh\u011bn ",
+        "englishEquivalent": "to diagnose"
+    },
+    {
+        "chineseChar": "\u5618",
+        "howToRead": "x\u016b ",
+        "englishEquivalent": "to exhale"
+    },
+    {
+        "chineseChar": "\u60e7",
+        "howToRead": "j\u00f9 ",
+        "englishEquivalent": "to fear"
+    },
+    {
+        "chineseChar": "\u62ef",
+        "howToRead": "zh\u011bng ",
+        "englishEquivalent": "to help; to save"
+    },
+    {
+        "chineseChar": "\u75d5",
+        "howToRead": "h\u00e9n ",
+        "englishEquivalent": "scar"
+    },
+    {
+        "chineseChar": "\u6279",
+        "howToRead": "p\u012b",
+        "englishEquivalent": "to criticize"
+    },
+    {
+        "chineseChar": "\u7eff",
+        "howToRead": "l\u01d6",
+        "englishEquivalent": "green"
+    },
+    {
+        "chineseChar": "\u4e58",
+        "howToRead": "ch\u00e9ng",
+        "englishEquivalent": "to ride"
+    },
+    {
+        "chineseChar": "\u4f73",
+        "howToRead": "jia",
+        "englishEquivalent": "beautiful"
+    },
+    {
+        "chineseChar": "\u718a",
+        "howToRead": "xi\u00f3ng",
+        "englishEquivalent": "bear"
+    },
+    {
+        "chineseChar": "\u8fa3",
+        "howToRead": "l\u00e0 ",
+        "englishEquivalent": "hot; spicy"
+    },
+    {
+        "chineseChar": "\u8eba",
+        "howToRead": "t\u01ceng ",
+        "englishEquivalent": "to lie down"
+    },
+    {
+        "chineseChar": "\u7948",
+        "howToRead": "q\u00ed ",
+        "englishEquivalent": "to pray"
+    },
+    {
+        "chineseChar": "\u80a5",
+        "howToRead": "f\u00e9i ",
+        "englishEquivalent": "fat; plump"
+    },
+    {
+        "chineseChar": "\u5740",
+        "howToRead": "zh\u01d0",
+        "englishEquivalent": "location"
+    },
+    {
+        "chineseChar": "\u5360",
+        "howToRead": "zh\u0101n",
+        "englishEquivalent": "to divine"
+    },
+    {
+        "chineseChar": "\u7edc",
+        "howToRead": "lu\u00f2",
+        "englishEquivalent": "net"
+    },
+    {
+        "chineseChar": "\u63a9",
+        "howToRead": "y\u01cen ",
+        "englishEquivalent": "to cover"
+    },
+    {
+        "chineseChar": "\u7701",
+        "howToRead": "sh\u011bng",
+        "englishEquivalent": "to save; province"
+    },
+    {
+        "chineseChar": "\u7f8a",
+        "howToRead": "y\u00e1ng",
+        "englishEquivalent": "sheep"
+    },
+    {
+        "chineseChar": "\u8352",
+        "howToRead": "hu\u0101ng ",
+        "englishEquivalent": "wasteland"
+    },
+    {
+        "chineseChar": "\u7763",
+        "howToRead": "d\u016b",
+        "englishEquivalent": "to supervise"
+    },
+    {
+        "chineseChar": "\u64a4",
+        "howToRead": "ch\u00e8 ",
+        "englishEquivalent": "to omit"
+    },
+    {
+        "chineseChar": "\u80d6",
+        "howToRead": "p\u00e0ng",
+        "englishEquivalent": "fat"
+    },
+    {
+        "chineseChar": "\u8f9e",
+        "howToRead": "c\u00ed ",
+        "englishEquivalent": "words"
+    },
+    {
+        "chineseChar": "\u589e",
+        "howToRead": "z\u0113ng",
+        "englishEquivalent": "to increase; add"
+    },
+    {
+        "chineseChar": "\u63f4",
+        "howToRead": "yu\u00e1n",
+        "englishEquivalent": "to help"
+    },
+    {
+        "chineseChar": "\u90ce",
+        "howToRead": "l\u00e1ng",
+        "englishEquivalent": "young man"
+    },
+    {
+        "chineseChar": "\u732e",
+        "howToRead": "xi\u00e0n",
+        "englishEquivalent": "to offer"
+    },
+    {
+        "chineseChar": "\u64e6",
+        "howToRead": "c\u0101 ",
+        "englishEquivalent": "to wipe"
+    },
+    {
+        "chineseChar": "\u519c",
+        "howToRead": "n\u00f3ng",
+        "englishEquivalent": "agriculture"
+    },
+    {
+        "chineseChar": "\u90aa",
+        "howToRead": "xi\u00e9",
+        "englishEquivalent": "demonic; evil"
+    },
+    {
+        "chineseChar": "\u59fb",
+        "howToRead": "y\u012bn ",
+        "englishEquivalent": "marriage"
+    },
+    {
+        "chineseChar": "\u6062",
+        "howToRead": "hu\u012b ",
+        "englishEquivalent": "to restore"
+    },
+    {
+        "chineseChar": "\u63cf",
+        "howToRead": "mi\u00e1o",
+        "englishEquivalent": "to copy"
+    },
+    {
+        "chineseChar": "\u5339",
+        "howToRead": "p\u01d0",
+        "englishEquivalent": "mw. for horses"
+    },
+    {
+        "chineseChar": "\u8f6f",
+        "howToRead": "ru\u01cen",
+        "englishEquivalent": "soft; flexible"
+    },
+    {
+        "chineseChar": "\u57cb",
+        "howToRead": "m\u00e1i",
+        "englishEquivalent": "to bury"
+    },
+    {
+        "chineseChar": "\u60e8",
+        "howToRead": "c\u01cen",
+        "englishEquivalent": "miserable"
+    },
+    {
+        "chineseChar": "\u6d0b",
+        "howToRead": "y\u00e1ng",
+        "englishEquivalent": "ocean"
+    },
+    {
+        "chineseChar": "\u7eaf",
+        "howToRead": "ch\u00fan",
+        "englishEquivalent": "pure"
+    },
+    {
+        "chineseChar": "\u6d74",
+        "howToRead": "y\u00f9 ",
+        "englishEquivalent": "to bathe"
+    },
+    {
+        "chineseChar": "\u8d34",
+        "howToRead": "ti\u0113",
+        "englishEquivalent": "to paste; to post"
+    },
+    {
+        "chineseChar": "\u5c09",
+        "howToRead": "w\u00e8i ",
+        "englishEquivalent": "officer"
+    },
+    {
+        "chineseChar": "\u7565",
+        "howToRead": "l\u00fc\u00e8",
+        "englishEquivalent": "summary; strategy"
+    },
+    {
+        "chineseChar": "\u7b26",
+        "howToRead": "f\u00fa",
+        "englishEquivalent": "symbol; charm"
+    },
+    {
+        "chineseChar": "\u4fb5",
+        "howToRead": "q\u012bn ",
+        "englishEquivalent": "to invade"
+    },
+    {
+        "chineseChar": "\u9646",
+        "howToRead": "l\u00f9",
+        "englishEquivalent": "shore; land"
+    },
+    {
+        "chineseChar": "\u8f7d",
+        "howToRead": "z\u00e0i",
+        "englishEquivalent": "to carry"
+    },
+    {
+        "chineseChar": "\u722c",
+        "howToRead": "p\u00e1 ",
+        "englishEquivalent": "to crawl"
+    },
+    {
+        "chineseChar": "\u6316",
+        "howToRead": "w\u0101 ",
+        "englishEquivalent": "to dig"
+    },
+    {
+        "chineseChar": "\u9a84",
+        "howToRead": "ji\u0101o ",
+        "englishEquivalent": "pride"
+    },
+    {
+        "chineseChar": "\u517d",
+        "howToRead": "sh\u00f2u ",
+        "englishEquivalent": "beast"
+    },
+    {
+        "chineseChar": "\u5ac1",
+        "howToRead": "ji\u00e0 ",
+        "englishEquivalent": "to marry"
+    },
+    {
+        "chineseChar": "\u6d01",
+        "howToRead": "ji\u00e9 ",
+        "englishEquivalent": "clean"
+    },
+    {
+        "chineseChar": "\u6668",
+        "howToRead": "ch\u00e9n ",
+        "englishEquivalent": "early morning"
+    },
+    {
+        "chineseChar": "\u558a",
+        "howToRead": "h\u01cen ",
+        "englishEquivalent": "to shout"
+    },
+    {
+        "chineseChar": "\u594f",
+        "howToRead": "z\u00f2u",
+        "englishEquivalent": "to play music"
+    },
+    {
+        "chineseChar": "\u7070",
+        "howToRead": "hu\u012b ",
+        "englishEquivalent": "ashes"
+    },
+    {
+        "chineseChar": "\u6454",
+        "howToRead": "shu\u0101i ",
+        "englishEquivalent": "to stumble"
+    },
+    {
+        "chineseChar": "\u7f9e",
+        "howToRead": "xi\u016b ",
+        "englishEquivalent": "disgrace; shy"
+    },
+    {
+        "chineseChar": "\u90bb",
+        "howToRead": "l\u00edn ",
+        "englishEquivalent": "neighbour"
+    },
+    {
+        "chineseChar": "\u6905",
+        "howToRead": "y\u01d0 ",
+        "englishEquivalent": "chair"
+    },
+    {
+        "chineseChar": "\u989c",
+        "howToRead": "y\u00e1n",
+        "englishEquivalent": "face"
+    },
+    {
+        "chineseChar": "\u6b3a",
+        "howToRead": "q\u012b ",
+        "englishEquivalent": "cheat"
+    },
+    {
+        "chineseChar": "\u7aef",
+        "howToRead": "du\u0101n",
+        "englishEquivalent": "to hold; end points"
+    },
+    {
+        "chineseChar": "\u8d3a",
+        "howToRead": "h\u00e8 ",
+        "englishEquivalent": "congratulate"
+    },
+    {
+        "chineseChar": "\u8336",
+        "howToRead": "ch\u00e1",
+        "englishEquivalent": "tea"
+    },
+    {
+        "chineseChar": "\u969c",
+        "howToRead": "zh\u00e0ng",
+        "englishEquivalent": "to block"
+    },
+    {
+        "chineseChar": "\u6148",
+        "howToRead": "c\u00ed ",
+        "englishEquivalent": "kind; charitable"
+    },
+    {
+        "chineseChar": "\u4ec7",
+        "howToRead": "ch\u00f3u",
+        "englishEquivalent": "enemy; hate"
+    },
+    {
+        "chineseChar": "\u5382",
+        "howToRead": "ch\u01ceng",
+        "englishEquivalent": "factory"
+    },
+    {
+        "chineseChar": "\u6028",
+        "howToRead": "yu\u00e0n",
+        "englishEquivalent": "to blame"
+    },
+    {
+        "chineseChar": "\u900a",
+        "howToRead": "x\u00f9n ",
+        "englishEquivalent": "humble; worse"
+    },
+    {
+        "chineseChar": "\u9ece",
+        "howToRead": "l\u00ed ",
+        "englishEquivalent": "dawn; black"
+    },
+    {
+        "chineseChar": "\u526a",
+        "howToRead": "ji\u01cen ",
+        "englishEquivalent": "scissors"
+    },
+    {
+        "chineseChar": "\u6625",
+        "howToRead": "ch\u016bn",
+        "englishEquivalent": "Spring"
+    },
+    {
+        "chineseChar": "\u989d",
+        "howToRead": "\u00e9",
+        "englishEquivalent": "forehead"
+    },
+    {
+        "chineseChar": "\u8c46",
+        "howToRead": "d\u00f2u",
+        "englishEquivalent": "bean"
+    },
+    {
+        "chineseChar": "\u7f62",
+        "howToRead": "b\u00e0",
+        "englishEquivalent": "to stop; to suspend"
+    },
+    {
+        "chineseChar": "\u88c2",
+        "howToRead": "li\u00e8 ",
+        "englishEquivalent": "crack"
+    },
+    {
+        "chineseChar": "\u6321",
+        "howToRead": "d\u01ceng",
+        "englishEquivalent": "to obstruct"
+    },
+    {
+        "chineseChar": "\u504f",
+        "howToRead": "pi\u0101n",
+        "englishEquivalent": "to lean; oblique"
+    },
+    {
+        "chineseChar": "\u7cca",
+        "howToRead": "h\u00f9 ",
+        "englishEquivalent": "paste"
+    },
+    {
+        "chineseChar": "\u5367",
+        "howToRead": "w\u00f2",
+        "englishEquivalent": "to crouch"
+    },
+    {
+        "chineseChar": "\u6572",
+        "howToRead": "qi\u0101o ",
+        "englishEquivalent": "to strike"
+    },
+    {
+        "chineseChar": "\u4e27",
+        "howToRead": "s\u00e0ng ",
+        "englishEquivalent": "to lose"
+    },
+    {
+        "chineseChar": "\u4e4c",
+        "howToRead": "w\u016b",
+        "englishEquivalent": "crow"
+    },
+    {
+        "chineseChar": "\u8d2d",
+        "howToRead": "g\u00f2u",
+        "englishEquivalent": "to purchase"
+    },
+    {
+        "chineseChar": "\u57df",
+        "howToRead": "y\u00f9",
+        "englishEquivalent": "field; region"
+    },
+    {
+        "chineseChar": "\u95f2",
+        "howToRead": "xi\u00e1n",
+        "englishEquivalent": "idle"
+    },
+    {
+        "chineseChar": "\u5b87",
+        "howToRead": "y\u01d4",
+        "englishEquivalent": "universe"
+    },
+    {
+        "chineseChar": "\u59d3",
+        "howToRead": "x\u00ecng",
+        "englishEquivalent": "surname"
+    },
+    {
+        "chineseChar": "\u846c",
+        "howToRead": "z\u00e0ng",
+        "englishEquivalent": "to bury (dead)"
+    },
+    {
+        "chineseChar": "\u515a",
+        "howToRead": "d\u01ceng",
+        "englishEquivalent": "party; association"
+    },
+    {
+        "chineseChar": "\u552e",
+        "howToRead": "sh\u00f2u",
+        "englishEquivalent": "to sell"
+    },
+    {
+        "chineseChar": "\u6d82",
+        "howToRead": "t\u00fa",
+        "englishEquivalent": "to apply (paint)"
+    }
+]
