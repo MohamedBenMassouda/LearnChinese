@@ -34,40 +34,43 @@ class SentenceTile extends StatelessWidget {
             onLongPress: () {
               Clipboard.setData(ClipboardData(text: sentence.sentence));
             },
-            child: Row(
-              mainAxisAlignment: MainAxisAlignment.start,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                Text(
-                  sentence.sentence.substring(0, wordIndex),
-                  style: const TextStyle(
-                    color: Colors.white,
-                    fontSize: 30,
-                  ),
-                ),
-                InkWell(
-                  onTap: () {
-                    _showDetailsPopup(context, word);
-                  },
-                  child: Text(
-                    word.word,
+            child: SizedBox(
+              width: 300,
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    sentence.sentence.substring(0, wordIndex),
                     style: const TextStyle(
-                      color: Colors.cyan,
+                      color: Colors.white,
                       fontSize: 30,
-                      decoration: TextDecoration.underline,
-                      decorationStyle: TextDecorationStyle.dotted,
-                      decorationColor: Colors.cyan,
                     ),
                   ),
-                ),
-                Text(
-                  sentence.sentence.substring(wordIndex + 1),
-                  style: const TextStyle(
-                    color: Colors.white,
-                    fontSize: 30,
+                  InkWell(
+                    onTap: () {
+                      _showDetailsPopup(context, word);
+                    },
+                    child: Text(
+                      word.word,
+                      style: const TextStyle(
+                        color: Colors.cyan,
+                        fontSize: 30,
+                        decoration: TextDecoration.underline,
+                        decorationStyle: TextDecorationStyle.dotted,
+                        decorationColor: Colors.cyan,
+                      ),
+                    ),
                   ),
-                ),
-              ],
+                  Text(
+                    sentence.sentence.substring(wordIndex + 1),
+                    style: const TextStyle(
+                      color: Colors.white,
+                      fontSize: 30,
+                    ),
+                  ),
+                ],
+              ),
             ),
           ),
           const SizedBox(height: 20),
@@ -131,7 +134,7 @@ void _showDetailsPopup(BuildContext context, Word word) {
             onPressed: () {
               Navigator.of(context).pop(); // To close the popup
             },
-            child: Text('Close'),
+            child: const Text('Close'),
           ),
         ],
       );

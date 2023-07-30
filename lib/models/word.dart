@@ -25,4 +25,12 @@ class Word {
     int index = random.nextInt(words.length);
     return words[index];
   }
+
+  Map<String, dynamic> toJson() {
+    return {
+      'chineseChar': word,
+      'howToRead': meaning,
+      'englishEquivalent': example,
+    };
+  }
 }

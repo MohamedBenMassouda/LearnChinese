@@ -5,6 +5,7 @@ import 'package:learn_chinese/screens/home_page.dart';
 void main() async {
   await Hive.initFlutter();
   await Hive.openBox('sentences');
+  await Hive.openBox('word');
 
   runApp(const MyApp());
 }
