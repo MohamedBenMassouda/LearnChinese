@@ -6,13 +6,11 @@ class Database {
   final wordBox = Hive.box('word');
 
   void setWord(Word word) {
-    sentenceBox.put('word', word.toJson());
+    wordBox.put('word', word.toJson());
   }
 
-  String getWord() {
-    String? word = wordBox.get('word');
-
-    return word ?? "null";
+  getWord() {
+    return wordBox.get('word', defaultValue: "null");
   }
 
   void setSentences(List<Map<String, String>> sentences) {
@@ -20,6 +18,14 @@ class Database {
   }
 
   List<dynamic> getSentences() {
-    return sentenceBox.get('sentences');
+    return sentenceBox.get('sentences', defaultValue: []);
+  }
+
+  void clearSentences() {
+    sentenceBox.delete("sentences");
+  }
+
+  void clearWord() {
+    wordBox.delete("word");
   }
 } 

@@ -35,7 +35,6 @@ class SentenceTile extends StatelessWidget {
               Clipboard.setData(ClipboardData(text: sentence.sentence));
             },
             child: SizedBox(
-              width: 300,
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: CrossAxisAlignment.start,
@@ -50,6 +49,9 @@ class SentenceTile extends StatelessWidget {
                   InkWell(
                     onTap: () {
                       _showDetailsPopup(context, word);
+                    },
+                    onLongPress: () {
+                      Clipboard.setData(ClipboardData(text: word.word));
                     },
                     child: Text(
                       word.word,

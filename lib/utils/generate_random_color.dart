@@ -30,7 +30,7 @@ Color generateRandomColor() {
   int blue = Random().nextInt(255);
   int opacity = Random().nextInt(255);
 
-  return Color.fromARGB(opacity < 150 ? 150 : opacity , red, green, blue);
+  return Color.fromARGB(opacity < 150 ? 150 : opacity, red, green, blue);
 }
 
 Color generateRandomColorFromList() {

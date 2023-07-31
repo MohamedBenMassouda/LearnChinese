@@ -1,11 +1,18 @@
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/adapters.dart';
+import 'package:timezone/data/latest.dart' as tz;
 import 'package:learn_chinese/screens/home_page.dart';
+import 'package:learn_chinese/services/notification_service.dart';
 
 void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+
   await Hive.initFlutter();
   await Hive.openBox('sentences');
   await Hive.openBox('word');
+
+  NotificationsServices().initNotification();
+  tz.initializeTimeZones();
 
   runApp(const MyApp());
 }

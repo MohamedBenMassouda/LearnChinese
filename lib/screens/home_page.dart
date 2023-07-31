@@ -5,6 +5,7 @@ import 'package:flutter_tts/flutter_tts.dart';
 import 'package:learn_chinese/models/database.dart';
 import 'package:learn_chinese/models/sentence.dart';
 import 'package:learn_chinese/models/word.dart';
+import 'package:learn_chinese/services/notification_service.dart';
 import 'package:learn_chinese/utils/scrape_sentences.dart';
 import 'package:learn_chinese/widgets/sentence_tile.dart';
 import 'package:learn_chinese/widgets/word_tile.dart';
@@ -24,10 +25,11 @@ class _HomePageState extends State<HomePage> {
 
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
     initTts();
     readFromFile();
+    db.clearWord();
+    db.clearSentences();
   }
 
   void initTts() async {
@@ -37,31 +39,40 @@ class _HomePageState extends State<HomePage> {
     await flutterTts.setPitch(1.0);
   }
 
-  void readFromFile() async {
-    if (db.getWord() != "null") {
-      print("Word ${db.getWord()}");
-      setState(() {
-      });
-      return;
-    }
-
+  Future<void> readFromFile() async {
     final json = await rootBundle.loadString("assets/chinese.json");
     final List<dynamic> data = jsonDecode(json);
 
     setState(() {
       words = data.map((e) => Word.fromJson(e)).toList();
-      word = Word.getRandomWord(words);
-      db.setWord(word!);
+
+      if (db.getWord() != "null") {
+        word = Word.fromJson(db.getWord());
+      } else {
+        word = Word.getRandomWord(words);
+        db.setWord(word!);
+      }
+
       readFromSentenceFile();
     });
   }
 
   void readFromSentenceFile() async {
-    await getSentences(word!.word);
+    if (db.getSentences().isEmpty) {
+      await getSentences(word!.word);
+    }
 
     final data = db.getSentences();
+
     setState(() {
-      sentence = Sentence.getRandomSentence(data.map((e) => Sentence.fromJson(e)).toList());
+      for (var item in data) {
+        sentences.add(Sentence(
+            sentence: item['chinese'],
+            translation: item['english'],
+            pinyin: item['pinyin']));
+      }
+
+      sentence = Sentence.getRandomSentence(sentences);
     });
   }
 
@@ -76,10 +87,17 @@ class _HomePageState extends State<HomePage> {
         title: const Text('Home Page'),
         actions: [
           IconButton(
+            onPressed: () {},
+            icon: const Icon(Icons.settings),
+          ),
+          IconButton(
             onPressed: () {
+              sentence = null;
               setState(() {
-                word = Word.getRandomWord(words); 
-                sentence = null;
+                db.clearWord();
+                db.clearSentences();
+                word = Word.getRandomWord(words);
+                readFromSentenceFile();
               });
             },
             icon: const Icon(Icons.refresh),
@@ -90,41 +108,42 @@ class _HomePageState extends State<HomePage> {
       //   child: word == null ? const Text('Home Page') : WordTile(word: word!),
       // ),
       body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
+          child: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          word == null ? const Text('Home Page') : WordTile(word: word!),
 
-          children: [
-            sentence != null ? SentenceTile(
-              sentence: sentence!,
-              word: word!,
-            ) : WordTile(word: word!),
+          sentence == null
+              ? const Text('Loading...')
+              : SentenceTile(sentence: sentence!, word: word!),
 
-            const SizedBox(height: 20,),
+          const SizedBox(
+            height: 20,
+          ),
 
-            // Slider for the speed of speech
-            const Text(
-              'Speech Rate',
-              style: TextStyle(
-                fontSize: 20,
-              ),
+          // Slider for the speed of speech
+          const Text(
+            'Speech Rate',
+            style: TextStyle(
+              fontSize: 20,
             ),
-            Slider(
-              value: speechValue,
-              min: 0.1,
-              max: 1.0,
-              divisions: 9,
-              label: speechValue.toString(),
-              onChanged: (value) async {
-                setState(() {
-                  speechValue = value;
-                });
+          ),
+          Slider(
+            value: speechValue,
+            min: 0.1,
+            max: 1.0,
+            divisions: 9,
+            label: speechValue.toString(),
+            onChanged: (value) async {
+              setState(() {
+                speechValue = value;
+              });
 
-                await flutterTts.setSpeechRate(speechValue);
-              },
-            )
-          ],
-        )
-      ),
+              await flutterTts.setSpeechRate(speechValue);
+            },
+          )
+        ],
+      )),
 
       floatingActionButton: FloatingActionButton(
         onPressed: () async {
@@ -147,6 +166,17 @@ class _HomePageState extends State<HomePage> {
           },
           child: const Text('Next'),
         ),
+        TextButton(
+          onPressed: () {
+            NotificationsServices().scheduleNotification(
+              title: "Learn Chinese",
+              body: "Learn a new word today!",
+              payload: "payload",
+              scheduledDate: DateTime.now().add(const Duration(seconds: 5)),
+            );
+          },
+          child: Text("Send Notification"),
+        )
       ],
     );
   }

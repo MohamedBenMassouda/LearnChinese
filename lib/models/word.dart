@@ -11,7 +11,7 @@ class Word {
     required this.example
   });
 
-  factory Word.fromJson(Map<String, dynamic> json) {
+  factory Word.fromJson(Map<dynamic, dynamic> json) {
     return Word(
       word: json['chineseChar'],
       meaning: json['howToRead'],
