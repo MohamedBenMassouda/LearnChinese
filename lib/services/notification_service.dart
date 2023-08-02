@@ -49,19 +49,55 @@ class NotificationsServices {
       String? payload,
       required DateTime scheduledDate}) async {
     return flutterLocalNotificationsPlugin.zonedSchedule(
-        id,
-        title,
-        body,
-        tz.TZDateTime.from(scheduledDate, tz.local),
-        const NotificationDetails(
-          android: AndroidNotificationDetails(
-            'channel id',
-            'channel name',
-            importance: Importance.max,
-            priority: Priority.high,
-          ),
+      id,
+      title,
+      body,
+      tz.TZDateTime.from(scheduledDate, tz.local),
+      const NotificationDetails(
+        android: AndroidNotificationDetails(
+          'channel id',
+          'channel name',
+          importance: Importance.max,
+          priority: Priority.high,
         ),
-        uiLocalNotificationDateInterpretation:
-            UILocalNotificationDateInterpretation.absoluteTime);
+      ),
+      uiLocalNotificationDateInterpretation:
+          UILocalNotificationDateInterpretation.absoluteTime,
+      matchDateTimeComponents: DateTimeComponents.time,
+      androidScheduleMode: AndroidScheduleMode.exact,
+    );
+  }
+
+  Future<void> scheduleNotificationHourly() async {
+    await flutterLocalNotificationsPlugin.periodicallyShow(
+      0,
+      "Learn Chinese",
+      "Learn a new word today!",
+      RepeatInterval.hourly,
+      const NotificationDetails(
+        android: AndroidNotificationDetails(
+          'channel id',
+          'channel name',
+          importance: Importance.max,
+          priority: Priority.high,
+        ),
+      ),
+    );
+  }
+
+  tz.TZDateTime nextInstanceOfTime(DateTime time) {
+    final tz.TZDateTime now = tz.TZDateTime.now(tz.local);
+    tz.TZDateTime scheduledDate = tz.TZDateTime(
+        tz.local, now.year, now.month, now.day, time.hour, time.minute);
+
+    if (scheduledDate.isBefore(now)) {
+      scheduledDate = scheduledDate.add(const Duration(days: 1));
+    }
+
+    return scheduledDate;
+  }
+
+  void cancelScheduledNotifications() async {
+    await flutterLocalNotificationsPlugin.cancelAll();
   }
 }

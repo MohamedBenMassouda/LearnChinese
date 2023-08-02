@@ -1,3 +1,4 @@
+import 'package:bot_toast/bot_toast.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/adapters.dart';
 import 'package:timezone/data/latest.dart' as tz;
@@ -10,6 +11,7 @@ void main() async {
   await Hive.initFlutter();
   await Hive.openBox('sentences');
   await Hive.openBox('word');
+  await Hive.openBox('settings');
 
   NotificationsServices().initNotification();
   tz.initializeTimeZones();
@@ -25,6 +27,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
+      builder: BotToastInit(),
+      navigatorObservers: [BotToastNavigatorObserver()],
       theme: ThemeData.dark(
         useMaterial3: true,
       ),

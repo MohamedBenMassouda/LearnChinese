@@ -1,21 +1,21 @@
 import 'dart:math';
 
 class Word {
-  String word;
-  String meaning;
-  String example;
+  String chinese;
+  String pinyin;
+  String english;
 
   Word({
-    required this.word,
-    required this.meaning,
-    required this.example
+    required this.chinese,
+    required this.pinyin,
+    required this.english
   });
 
   factory Word.fromJson(Map<dynamic, dynamic> json) {
     return Word(
-      word: json['chineseChar'],
-      meaning: json['howToRead'],
-      example: json['englishEquivalent'],
+      chinese: json['chineseChar'],
+      pinyin: json['howToRead'],
+      english: json['englishEquivalent'],
     );
   }
 
@@ -28,9 +28,9 @@ class Word {
 
   Map<String, dynamic> toJson() {
     return {
-      'chineseChar': word,
-      'howToRead': meaning,
-      'englishEquivalent': example,
+      'chineseChar': chinese,
+      'howToRead': pinyin,
+      'englishEquivalent': english,
     };
   }
 }

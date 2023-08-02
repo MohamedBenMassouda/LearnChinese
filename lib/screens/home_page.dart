@@ -5,6 +5,7 @@ import 'package:flutter_tts/flutter_tts.dart';
 import 'package:learn_chinese/models/database.dart';
 import 'package:learn_chinese/models/sentence.dart';
 import 'package:learn_chinese/models/word.dart';
+import 'package:learn_chinese/screens/settings_page.dart';
 import 'package:learn_chinese/services/notification_service.dart';
 import 'package:learn_chinese/utils/scrape_sentences.dart';
 import 'package:learn_chinese/widgets/sentence_tile.dart';
@@ -28,8 +29,26 @@ class _HomePageState extends State<HomePage> {
     super.initState();
     initTts();
     readFromFile();
-    db.clearWord();
-    db.clearSentences();
+
+    if (db.getLastTimeAccessed() == "null") {
+      db.setLastTimeAccessed(DateTime.now());
+    } else {
+      final lastTimeAccessed = db.getLastTimeAccessed();
+      final now = DateTime.now();
+
+      if (now.difference(lastTimeAccessed).inDays >= 1) {
+        db.setLastTimeAccessed(now);
+        db.clearWord();
+        db.clearSentences();
+      }
+    }
+  }
+
+  @override
+  void dispose() {
+    // TODO: implement dispose
+    super.dispose();
+    flutterTts.stop();
   }
 
   void initTts() async {
@@ -58,8 +77,12 @@ class _HomePageState extends State<HomePage> {
   }
 
   void readFromSentenceFile() async {
+    if (!db.getWordIsViewed()) {
+      return;
+    }
+
     if (db.getSentences().isEmpty) {
-      await getSentences(word!.word);
+      await getSentences(word!.chinese);
     }
 
     final data = db.getSentences();
@@ -82,21 +105,27 @@ class _HomePageState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
+    final isViewed = db.getWordIsViewed();
+
     return Scaffold(
       appBar: AppBar(
         title: const Text('Home Page'),
         actions: [
           IconButton(
-            onPressed: () {},
+            onPressed: () {
+              Navigator.push(context,
+                  MaterialPageRoute(builder: (context) => SettingsPage()));
+            },
             icon: const Icon(Icons.settings),
           ),
           IconButton(
             onPressed: () {
-              sentence = null;
               setState(() {
-                db.clearWord();
-                db.clearSentences();
+                sentence = null;
                 word = Word.getRandomWord(words);
+                db.setWord(word!);
+                db.setWordIsViewed(false);
+                db.clearSentences();
                 readFromSentenceFile();
               });
             },
@@ -104,17 +133,28 @@ class _HomePageState extends State<HomePage> {
           ),
         ],
       ),
-      // body: Center(
-      //   child: word == null ? const Text('Home Page') : WordTile(word: word!),
-      // ),
       body: Center(
           child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          word == null ? const Text('Home Page') : WordTile(word: word!),
+          isViewed || word == null ? const SizedBox() : WordTile(word: word!),
 
-          sentence == null
-              ? const Text('Loading...')
+          isViewed
+              ? const SizedBox()
+              : TextButton(
+                  onPressed: () {
+                    setState(() {
+                      db.setWordIsViewed(true);
+                      readFromSentenceFile();
+                    });
+                  },
+                  child: const Text('View Word'),
+                ),
+
+          sentence == null || sentence!.sentence.isEmpty
+              ? isViewed
+                  ? const Text('Loading...')
+                  : const SizedBox()
               : SentenceTile(sentence: sentence!, word: word!),
 
           const SizedBox(
@@ -144,18 +184,16 @@ class _HomePageState extends State<HomePage> {
           )
         ],
       )),
-
       floatingActionButton: FloatingActionButton(
         onPressed: () async {
           if (sentence == null) {
-            await flutterTts.speak(word!.word);
+            await flutterTts.speak(word!.chinese);
           } else {
             await flutterTts.speak(sentence!.sentence);
           }
         },
         child: const Icon(Icons.play_arrow),
       ),
-
       persistentFooterButtons: [
         TextButton(
           onPressed: () {

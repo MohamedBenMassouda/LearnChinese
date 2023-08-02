@@ -32,10 +32,10 @@ class WordTile extends StatelessWidget {
         children: [
           InkWell(
             onLongPress: () {
-              Clipboard.setData(ClipboardData(text: word.word));
+              Clipboard.setData(ClipboardData(text: word.chinese));
             },
             child: Text(
-              word.word,
+              word.chinese,
               style: const TextStyle(
                 color: Colors.white,
                 fontSize: 40,
@@ -43,7 +43,7 @@ class WordTile extends StatelessWidget {
             ),
           ),
           Text(
-            word.meaning,
+            word.pinyin,
             style: TextStyle(
               fontSize: 20,
               color: Colors.grey[100],
@@ -51,7 +51,7 @@ class WordTile extends StatelessWidget {
           ),
           const Spacer(),
           Text(
-            word.example,
+            word.english,
             style: const TextStyle(
               fontSize: 20,
               color: Colors.white,

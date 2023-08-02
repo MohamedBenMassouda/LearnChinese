@@ -1,3 +1,4 @@
+import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_tts/flutter_tts.dart';
@@ -17,65 +18,62 @@ class SentenceTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final int wordIndex = sentence.sentence.indexOf(word.word);
+    final int wordIndex = sentence.sentence.indexOf(word.chinese);
 
     return Container(
-      height: 250,
       width: 350,
       decoration: BoxDecoration(
         border: Border.all(color: Colors.black),
         borderRadius: BorderRadius.circular(10),
-        color: generateRandomColor(),
+        color: generateRandomColorFromList(),
       ),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
+        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: [
-          InkWell(
+          GestureDetector(
             onLongPress: () {
               Clipboard.setData(ClipboardData(text: sentence.sentence));
             },
-            child: SizedBox(
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                crossAxisAlignment: CrossAxisAlignment.start,
+            child: RichText(
+              text: TextSpan(
+                text: sentence.sentence.substring(0, wordIndex),
+                style: const TextStyle(
+                  fontSize: 30,
+                  color: Colors.white,
+                ),
                 children: [
-                  Text(
-                    sentence.sentence.substring(0, wordIndex),
+                  TextSpan(
+                    text: sentence.sentence.substring(
+                      wordIndex,
+                      wordIndex + word.chinese.length,
+                    ),
+                    recognizer: TapGestureRecognizer()
+                      ..onTap = () {
+                        _showDetailsPopup(context, word);
+                      },
                     style: const TextStyle(
-                      color: Colors.white,
                       fontSize: 30,
+                      color: Colors.cyan,
+                      decoration: TextDecoration.underline,
+                      decorationStyle: TextDecorationStyle.dotted,
+                      decorationColor: Colors.cyan,
                     ),
                   ),
-                  InkWell(
-                    onTap: () {
-                      _showDetailsPopup(context, word);
-                    },
-                    onLongPress: () {
-                      Clipboard.setData(ClipboardData(text: word.word));
-                    },
-                    child: Text(
-                      word.word,
-                      style: const TextStyle(
-                        color: Colors.cyan,
-                        fontSize: 30,
-                        decoration: TextDecoration.underline,
-                        decorationStyle: TextDecorationStyle.dotted,
-                        decorationColor: Colors.cyan,
-                      ),
+                  TextSpan(
+                    text: sentence.sentence.substring(
+                      wordIndex + word.chinese.length,
                     ),
-                  ),
-                  Text(
-                    sentence.sentence.substring(wordIndex + 1),
                     style: const TextStyle(
-                      color: Colors.white,
                       fontSize: 30,
+                      color: Colors.white,
                     ),
                   ),
                 ],
               ),
             ),
           ),
-          const SizedBox(height: 20),
+
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Text(
@@ -86,9 +84,8 @@ class SentenceTile extends StatelessWidget {
               ),
             ),
           ),
-          const Spacer(),
           Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 8.0),
+            padding: const EdgeInsets.all(10.0),
             child: Text(
               sentence.pinyin,
               style: const TextStyle(
@@ -97,7 +94,6 @@ class SentenceTile extends StatelessWidget {
               ),
             ),
           ),
-          const SizedBox(height: 40),
         ],
       ),
     );
@@ -111,21 +107,30 @@ void _showDetailsPopup(BuildContext context, Word word) {
       return AlertDialog(
         title: InkWell(
           onTap: () async {
-            await FlutterTts().speak(word.word);
+            await FlutterTts().speak(word.chinese);
           },
-          child: Text(
-            word.word,
-            style: const TextStyle(
-              color: Colors.cyan,
-              fontSize: 30,
-              decoration: TextDecoration.underline,
-              decorationStyle: TextDecorationStyle.dotted,
-              decorationColor: Colors.cyan,
-            ),
+          child: Row(
+            children: [
+              Text(
+                word.chinese,
+                style: const TextStyle(
+                  color: Colors.cyan,
+                  fontSize: 30,
+                  decoration: TextDecoration.underline,
+                  decorationStyle: TextDecorationStyle.dotted,
+                  decorationColor: Colors.cyan,
+                ),
+              ),
+              const Spacer(),
+              Text(word.pinyin,
+                  style: const TextStyle(
+                    fontSize: 20,
+                  ))
+            ],
           ),
         ), // Customize the title if needed
         content: Text(
-          word.example,
+          word.english,
           style: const TextStyle(
             color: Colors.white,
             fontSize: 20,
@@ -143,4 +148,3 @@ void _showDetailsPopup(BuildContext context, Word word) {
     },
   );
 }
-
