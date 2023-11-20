@@ -53,4 +53,9 @@ class Database {
   String getWordNotificationTime() {
     return settingsBox.get('wordNotificationTime', defaultValue: "null");
   }
-} 
+
+  void clearAll() {
+    wordBox.clear();
+    sentenceBox.clear();
+  }
+}

@@ -1,5 +1,8 @@
 import 'dart:math';
 
+import 'package:learn_chinese/models/database.dart';
+import 'package:learn_chinese/models/word.dart';
+
 class Sentence {
   String sentence;
   String translation;
@@ -22,10 +25,20 @@ class Sentence {
     return {'chinese': sentence, 'english': translation, 'pinYin': pinyin};
   }
 
-
-  factory Sentence.getRandomSentence(List<Sentence> sentences) {
+  factory Sentence.getRandomSentence(List<Sentence> sentences, Word word) {
     final random = Random();
-    final index = random.nextInt(sentences.length);
+
+    int index = 0;
+    while (true) {
+      index = random.nextInt(sentences.length);
+
+      if (sentences[index].sentence.contains(word.chinese)) {
+        break;
+      } else {
+        sentences.removeAt(index);
+      }
+    }
+
     return sentences[index];
   }
 }

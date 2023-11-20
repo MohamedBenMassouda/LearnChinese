@@ -6,7 +6,6 @@ import 'package:learn_chinese/models/database.dart';
 import 'package:learn_chinese/models/sentence.dart';
 import 'package:learn_chinese/models/word.dart';
 import 'package:learn_chinese/screens/settings_page.dart';
-import 'package:learn_chinese/services/notification_service.dart';
 import 'package:learn_chinese/utils/scrape_sentences.dart';
 import 'package:learn_chinese/widgets/sentence_tile.dart';
 import 'package:learn_chinese/widgets/word_tile.dart';
@@ -89,13 +88,19 @@ class _HomePageState extends State<HomePage> {
 
     setState(() {
       for (var item in data) {
-        sentences.add(Sentence(
+        if (item["chinese"].toString().trim() == "" ||
+            !item["chinese"].toString().contains(word!.chinese)) continue;
+
+        sentences.add(
+          Sentence(
             sentence: item['chinese'],
             translation: item['english'],
-            pinyin: item['pinyin']));
+            pinyin: item['pinyin'],
+          ),
+        );
       }
 
-      sentence = Sentence.getRandomSentence(sentences);
+      sentence = Sentence.getRandomSentence(sentences, word!);
     });
   }
 
@@ -113,20 +118,23 @@ class _HomePageState extends State<HomePage> {
         actions: [
           IconButton(
             onPressed: () {
-              Navigator.push(context,
-                  MaterialPageRoute(builder: (context) => SettingsPage()));
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const SettingsPage(),
+                ),
+              );
             },
             icon: const Icon(Icons.settings),
           ),
           IconButton(
             onPressed: () {
               setState(() {
+                db.clearAll();
                 sentence = null;
                 word = Word.getRandomWord(words);
                 db.setWord(word!);
                 db.setWordIsViewed(false);
-                db.clearSentences();
-                readFromSentenceFile();
               });
             },
             icon: const Icon(Icons.refresh),
@@ -134,56 +142,98 @@ class _HomePageState extends State<HomePage> {
         ],
       ),
       body: Center(
-          child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          isViewed || word == null ? const SizedBox() : WordTile(word: word!),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            isViewed || word == null ? const SizedBox() : WordTile(word: word!),
 
-          isViewed
-              ? const SizedBox()
-              : TextButton(
-                  onPressed: () {
-                    setState(() {
-                      db.setWordIsViewed(true);
-                      readFromSentenceFile();
-                    });
-                  },
-                  child: const Text('View Word'),
-                ),
+            sentence == null
+                ? isViewed
+                    ? const Text('Loading...')
+                    : const SizedBox()
+                : SentenceTile(
+                    sentence: sentence!,
+                    word: word!,
+                    onPressed: () {
+                      db.clearAll();
+                      db.setWordIsViewed(false);
+                      setState(() {
+                        sentence = null;
+                        word = Word.getRandomWord(words);
+                        db.setWord(word!);
+                      });
+                    },
+                  ),
 
-          sentence == null || sentence!.sentence.isEmpty
-              ? isViewed
-                  ? const Text('Loading...')
-                  : const SizedBox()
-              : SentenceTile(sentence: sentence!, word: word!),
-
-          const SizedBox(
-            height: 20,
-          ),
-
-          // Slider for the speed of speech
-          const Text(
-            'Speech Rate',
-            style: TextStyle(
-              fontSize: 20,
+            const SizedBox(
+              height: 20,
             ),
-          ),
-          Slider(
-            value: speechValue,
-            min: 0.1,
-            max: 1.0,
-            divisions: 9,
-            label: speechValue.toString(),
-            onChanged: (value) async {
-              setState(() {
-                speechValue = value;
-              });
 
-              await flutterTts.setSpeechRate(speechValue);
-            },
-          )
-        ],
-      )),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              children: [
+                isViewed
+                    ? const SizedBox()
+                    : TextButton(
+                        onPressed: () {
+                          setState(() {
+                            db.setWordIsViewed(true);
+                            readFromSentenceFile();
+                          });
+                        },
+                        child: const Text('Mark as Viewed'),
+                      ),
+                ElevatedButton(
+                  onPressed: () {
+                    if (sentence == null) {
+                      db.clearAll();
+                      setState(() {
+                        word = Word.getRandomWord(words);
+                        db.setWord(word!);
+                      });
+                      return;
+                    }
+
+                    setState(() {
+                      sentence = null;
+                    });
+
+                    readFromSentenceFile();
+                  },
+                  child: const Text("Next"),
+                ),
+              ],
+            ),
+
+            const SizedBox(
+              height: 20,
+            ),
+
+            // Slider for the speed of speech
+            const Text(
+              'Speech Rate',
+              style: TextStyle(
+                fontSize: 20,
+              ),
+            ),
+
+            Slider(
+              value: speechValue,
+              min: 0.1,
+              max: 1.0,
+              divisions: 9,
+              label: speechValue.toString(),
+              onChanged: (value) async {
+                setState(() {
+                  speechValue = value;
+                });
+
+                await flutterTts.setSpeechRate(speechValue);
+              },
+            )
+          ],
+        ),
+      ),
       floatingActionButton: FloatingActionButton(
         onPressed: () async {
           if (sentence == null) {
@@ -194,28 +244,6 @@ class _HomePageState extends State<HomePage> {
         },
         child: const Icon(Icons.play_arrow),
       ),
-      persistentFooterButtons: [
-        TextButton(
-          onPressed: () {
-            setState(() {
-              sentence = null;
-            });
-            readFromSentenceFile();
-          },
-          child: const Text('Next'),
-        ),
-        TextButton(
-          onPressed: () {
-            NotificationsServices().scheduleNotification(
-              title: "Learn Chinese",
-              body: "Learn a new word today!",
-              payload: "payload",
-              scheduledDate: DateTime.now().add(const Duration(seconds: 5)),
-            );
-          },
-          child: Text("Send Notification"),
-        )
-      ],
     );
   }
 }

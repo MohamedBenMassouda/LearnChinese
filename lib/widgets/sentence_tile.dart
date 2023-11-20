@@ -9,16 +9,38 @@ import 'package:learn_chinese/utils/generate_random_color.dart';
 class SentenceTile extends StatelessWidget {
   final Word word;
   final Sentence sentence;
+  final void Function()? onPressed;
 
   const SentenceTile({
     super.key,
     required this.word,
     required this.sentence,
+    required this.onPressed,
   });
 
   @override
   Widget build(BuildContext context) {
     final int wordIndex = sentence.sentence.indexOf(word.chinese);
+
+    if (wordIndex == -1) {
+      return Container(
+        child: Column(
+          children: [
+            const Text(
+              "Error: Word not found in sentence",
+              style: TextStyle(
+                color: Colors.white,
+                fontSize: 20,
+              ),
+            ),
+            ElevatedButton(
+              onPressed: onPressed,
+              child: const Text("Get a new Word"),
+            ),
+          ],
+        ),
+      );
+    }
 
     return Container(
       width: 350,
@@ -73,7 +95,6 @@ class SentenceTile extends StatelessWidget {
               ),
             ),
           ),
-
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Text(

@@ -42,12 +42,13 @@ class NotificationsServices {
     );
   }
 
-  Future scheduleNotification(
-      {int id = 0,
-      String? title,
-      String? body,
-      String? payload,
-      required DateTime scheduledDate}) async {
+  Future scheduleNotification({
+    int id = 0,
+    String? title,
+    String? body,
+    String? payload,
+    required DateTime scheduledDate,
+  }) async {
     return flutterLocalNotificationsPlugin.zonedSchedule(
       id,
       title,
@@ -68,20 +69,27 @@ class NotificationsServices {
     );
   }
 
-  Future<void> scheduleNotificationHourly() async {
+  Future<void> scheduleNotificationHourly({
+    int id = 0,
+    String title = "Learn Chinese",
+    String body = "Learn a new word today!",
+    RepeatInterval repeatInterval = RepeatInterval.hourly,
+  }) async {
     await flutterLocalNotificationsPlugin.periodicallyShow(
-      0,
-      "Learn Chinese",
-      "Learn a new word today!",
-      RepeatInterval.hourly,
+      id,
+      title,
+      body,
+      repeatInterval,
       const NotificationDetails(
         android: AndroidNotificationDetails(
           'channel id',
           'channel name',
+          channelDescription: "chanel description",
           importance: Importance.max,
           priority: Priority.high,
         ),
       ),
+      androidScheduleMode: AndroidScheduleMode.exact,
     );
   }
 
